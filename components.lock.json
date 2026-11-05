@@ -19,9 +19,9 @@
     {
       "name": "android-isolated-node-provider",
       "repository": "https://github.com/Alita23333/android-isolated-node-provider.git",
-      "commit": "3976e3a628e7c4968fb541c2138174bdd35f5a6a",
+      "commit": "48f9fa63bb73c3cfb7d0c24904ec055eaac77645",
       "tag": "archive-2026-11-05",
-      "sourceMapSha256": "3c41613c22d3605684f96a18efa7ff680871ab781f2ec1013326b38aef81dcd4",
+      "sourceMapSha256": "50febac0dd96a64574bbcc2267980ab3cf89368bc3e3cfaa4d2706efb3b006e9",
       "restore": [
         {
           "sourcePath": "process/src/main/java/dev/alita/androidagent/execution/IsolatedProviderProcess.java",
