@@ -1,0 +1,123 @@
+{
+  "verdict": "PASS",
+  "disposition": "ACCEPTED_SCOPED_PROVIDER_PACKAGE_STORAGE",
+  "identity": {
+    "serial": "DEVICE_ANDROID17",
+    "baselineApk": "D944F72FF15E77AAF3E486990581541EEEFE338C0E888AAE10C6BB91E9CFFCAC",
+    "apkSha256": "C51DB531DCC9CB9CB398FAA061E9B53724E099E8456F1D3666A1E4604865C98D",
+    "testApkSha256": "BABD52E9BF722CEAF4FA5FB02ACBDBFC642F24244550DCC1C4B8707946F28BDF",
+    "driverSha256": "D2F2136C74BDE0A3A5CEB469E3FEE4500E4921F69CC0B180DFC44B2F83F75765",
+    "runtimePayloadUnchanged": true
+  },
+  "unitTests": 62,
+  "nativePackageTests": 4,
+  "nativeStdioTests": 5,
+  "nativeStdioSeconds": 107.996,
+  "digestSession": "sess_00f1e7a4-ab61-4953-8309-e22b2fb94a9a",
+  "identitySession": "sess_1a27491e-04f1-4273-8077-cbd567f96c75",
+  "restart": {
+    "unreachableAfterStop": true,
+    "relaunchedReady": true,
+    "newRuntime": true,
+    "resumed": true,
+    "sessionId": "sess_00f1e7a4-ab61-4953-8309-e22b2fb94a9a",
+    "persistedMessageCount": 6,
+    "persistedAssistantMessages": 5
+  },
+  "packagedCount": 40,
+  "immutableInstalledCount": 39,
+  "sourcePinsUnchanged": [
+    {
+      "path": "app/src/main/java/dev/alita/androidagent/MainActivity.kt",
+      "sha256": "B1CFE0689205A358CBBB7A7683F46783FA2D3B29AF5E113E886B005EC8F9EB3F"
+    },
+    {
+      "path": "app/src/main/java/dev/alita/androidagent/MainViewModel.kt",
+      "sha256": "0F591AB54DF59B38E26CB5F45AC03A9296F0FB45A666B6AF28CCF8294C620CD8"
+    },
+    {
+      "path": "app/src/main/java/dev/alita/androidagent/AgentApplication.kt",
+      "sha256": "4B6359A5C2C27047F190C503CC159AFAB519CA839AF4B6044404DB0FF64031AA"
+    },
+    {
+      "path": "app/src/main/java/dev/alita/androidagent/skills/CoreSkillPackageStore.kt",
+      "sha256": "DC2709D29A6F3D380FE9903E684F3EF3AFED2ADEEA5D3098257FB7DD297180FC"
+    },
+    {
+      "path": "app/src/main/java/dev/alita/androidagent/skills/Skills.kt",
+      "sha256": "452EA13642C2182C67802080E6ACE1E48D7A6284D6B463D40CF867EC2496A4F9"
+    },
+    {
+      "path": "app/src/main/assets/zcode-runtime/skill-session-bindings.cjs",
+      "sha256": "6B0F7D2BD4632C6E8B1EC9061F69B4E6669B1BA1263A7FF2F3DCDE7D54DDF567"
+    },
+    {
+      "path": "app/src/main/assets/zcode-runtime/payload-SHA256SUMS.txt",
+      "sha256": "63640E906B1328A79D916A961F021DC98443589C7F5BAC57219A1A8BDF141D65"
+    },
+    {
+      "path": "app/build.gradle.kts",
+      "sha256": "89CC377EA9A0281FFBE684DF871670DC430EE9EF73E6F02075C2CFE42DB198CE"
+    },
+    {
+      "path": "app/src/androidTest/AndroidManifest.xml",
+      "sha256": "46759AC3FA844ADD06D0A373B83516FFFCCF2BB40E3F32FE89B8D4A2FC93DF8E"
+    },
+    {
+      "path": "app/src/androidTest/java/dev/alita/androidagent/SkillManagerUiDeviceTest.kt",
+      "sha256": "01F3D26E59C23C279CB195B164C5794D514C752BD1640BA6F2A5332C15392694"
+    },
+    {
+      "path": "app/src/androidTest/java/dev/alita/androidagent/SkillFixtureDocumentsProvider.java",
+      "sha256": "87716254382C8AA97EF25EE8966B2BFAD69AABAD4375B04F68F256142123DCB4"
+    },
+    {
+      "path": "app/src/main/AndroidManifest.xml",
+      "sha256": "C1B7AFC86D71D60B0F2DB110055B5F00325D4881D66364BDF83C72577F05FE46"
+    },
+    {
+      "sha256": "1660C577C2DFD5769A61011DB82CB843FA25275B17D2F56AF87365FAC90C5A02",
+      "path": "app/src/main/assets/zcode-runtime/bootstrap.cjs"
+    },
+    {
+      "sha256": "79C16F41FBB73A9191D1DB633188C5BC1173132B93F79A0AA8D44445637AAA2D",
+      "path": "app/src/main/assets/zcode-runtime/runtime-manifest.json"
+    },
+    {
+      "sha256": "A285F4D6650C63F01649E6601A457F85F78D04934B5928FD18340FC1B6668A1B",
+      "path": "app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeHostService.kt"
+    },
+    {
+      "sha256": "69243E30BBF913B0528D432CD3E0387DC0DFDE48BB47339878EF39E5AECCE677",
+      "path": "app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeRuntimeBundle.kt"
+    },
+    {
+      "sha256": "3B2090EC72C6FE3F03BD7773B9BC5202F2C390CBBBF37AE084678CF711180F0F",
+      "path": "app/src/test/java/dev/alita/androidagent/CoreSkillPackageStoreTest.kt"
+    },
+    {
+      "sha256": "CB9F582D145090270AD32419CC23B89FC16FCAAAE78135644AE05A1DE7A0A080",
+      "path": "tools/phase9/skill-session-bindings-test.cjs"
+    },
+    {
+      "sha256": "8A3110B3A691494BFB4527C703115B4329E54B968B59E85724D7DDCC3F371A13",
+      "path": "tools/phase9/skill-session-bindings-core-test.cjs"
+    },
+    {
+      "sha256": "E06C8B0347A44B23D15816C6EE64C8FD794AD04911A5086736C8091B5CA90CD8",
+      "path": "tools/phase9/skill-session-bindings-android15.py"
+    },
+    {
+      "sha256": "426BF1A3E53624472F5D18D9041A3FD51655C06E2A118162985A790BDFF71D8B",
+      "path": "tools/phase9/skill-session-bindings-android17.py"
+    }
+  ],
+  "firstFailure": "Windows physical symlink privilege; retained first-unit log/XML, native case passed",
+  "residuals": [
+    "Imported provider admission remains unavailable",
+    "No new whole-suite cancellation wall-time claim",
+    "No repeat full UI/Skill/search/vision matrix",
+    "Lint SDK and ! path warnings retained"
+  ],
+  "scope": "Storage increment and existing fixed provider model/restart regression only"
+}

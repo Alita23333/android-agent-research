@@ -1,0 +1,51 @@
+{
+  "disposition": "PASS_SCOPED_EXACT_DISPATCHER_OPERATION_SETTLEMENT; NOT_MODEL_OR_SESSION_ACCEPTANCE",
+  "candidateSha256": "AF2544DA6D2DA30089A118EABA98844A4D2FD49404FD868C2203F462DF0B6424",
+  "installedProductSha256": "C51DB531DCC9CB9CB398FAA061E9B53724E099E8456F1D3666A1E4604865C98D",
+  "previousCandidateSha256": "E52E0A9120C42AF27E76F74CD53ABA11A1C664D961EC4F3309DA0B33B25A4946",
+  "changedApkAssets": [
+    "assets/isolated-provider-runtime.json",
+    "assets/zcode-runtime/bootstrap.cjs",
+    "assets/zcode-runtime/carrier-authorization.cjs",
+    "assets/zcode-runtime/payload-SHA256SUMS.txt",
+    "assets/zcode-runtime/runtime-manifest.json"
+  ],
+  "payloadHashRows": 40,
+  "unitTests": {
+    "tests": 106,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "lint": {
+    "errors": 0,
+    "warnings": 28
+  },
+  "hostSettlementChecks": 22,
+  "android17SettlementChecks": 22,
+  "deviceRun": "1792329308356424100",
+  "sourceHashes": {
+    "tools/phase9/provider-settlement-regression.cjs": "B18BF87E475B0A3FC6CEF683456D530A13E4186F4023EA572FD918469E37260A",
+    "tools/phase9/local-provider-gateway-regression.cjs": "D77E08E92C1C7C52D5B7B6DE6771DB6A667547EE43BAEA8C15731A216EEB0CD3",
+    "tools/phase9/provider-settlement-device-acceptance.py": "5DDFF260AE55DC233FFFB6B61A7FEABC40FB1E51EB57E8867C17DA5967371E2A",
+    "tools/phase9/provider-settlement-evidence-summary.py": "3C51AD16762F15791C80ECD1411BE966293BC99F87C9C8E0AF6C7E068E3EE537",
+    "app/src/main/assets/zcode-runtime/bootstrap.cjs": "0934FD7BEFBF64FE0B5E012239BFCF72DA1343EA0755B2433EA35158996A2A0B",
+    "app/src/main/assets/zcode-runtime/carrier-authorization.cjs": "8BB2AEFD76057C7DF981652C45B1395BABC46795CA92E7ACFE78261C68836C1D",
+    "app/src/main/assets/zcode-runtime/runtime-manifest.json": "72BA2C6D086DAA485EC19BDDADFFF8990689B8C499B469053B0154D86CB03198",
+    "app/src/main/assets/zcode-runtime/payload-SHA256SUMS.txt": "F92F99237D0BB2B14FD2B40E8B7FC6AC9DFA8F9AF0433724C485715EC4FDE73E",
+    "app/src/main/assets/zcode-runtime/gateway.cjs": "D5C1A772B40A39F8F02D344D191A932AC121AF42ABBA5219362C1B7AAD23C89B",
+    "app/src/main/assets/zcode-runtime/contracts/journal.sql": "86867F08766FDDF07FCFD91D15EC541A30D30BFB00F56DAAF528A442EBEC271B"
+  },
+  "installedHostPostflight": {
+    "apkSha256": "C51DB531DCC9CB9CB398FAA061E9B53724E099E8456F1D3666A1E4604865C98D",
+    "phase": "ready",
+    "mode": "real",
+    "node": "v24.18.0"
+  },
+  "remaining": [
+    "Durable session-to-provider pins",
+    "Persisted host review/admission and startup registration",
+    "Real model/carrier/Dispatcher/Gateway/provider/artifact vertical acceptance",
+    "Production installation"
+  ]
+}

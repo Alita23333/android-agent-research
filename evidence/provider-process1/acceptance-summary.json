@@ -1,0 +1,93 @@
+{
+  "disposition": "PASS_SCOPED_PROCESS_FACADE; NOT_PRODUCTION_ADMISSION",
+  "installedProductSha256": "C51DB531DCC9CB9CB398FAA061E9B53724E099E8456F1D3666A1E4604865C98D",
+  "uninstalledCandidateSha256": "7D1C449F9320EAEF1E83B8FFB41D59801AD66EFE65B0492A209A722C49317B4F",
+  "probeApkSha256": "0E2A49A9F90496A5061743E2FAAD58A83E490895FD7EC99119A9D4B9CC6A7668",
+  "run": "1792298042836113300",
+  "counts": {
+    "tests": 80,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "suites": [
+    {
+      "name": "dev.alita.androidagent.CoreIntegrationTest",
+      "tests": 7,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0
+    },
+    {
+      "name": "dev.alita.androidagent.CoreSkillPackageStoreTest",
+      "tests": 10,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0
+    },
+    {
+      "name": "dev.alita.androidagent.IsolatedProviderProcessTest",
+      "tests": 10,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0
+    },
+    {
+      "name": "dev.alita.androidagent.LocalProviderBoundaryTest",
+      "tests": 19,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0
+    },
+    {
+      "name": "dev.alita.androidagent.LocalProviderPackageTest",
+      "tests": 11,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0
+    },
+    {
+      "name": "dev.alita.androidagent.Phase8WorkspaceMutationScaffoldTest",
+      "tests": 5,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0
+    },
+    {
+      "name": "dev.alita.androidagent.Phase9VisionBoundaryTest",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0
+    },
+    {
+      "name": "dev.alita.androidagent.ZCodeIntegrationContractTest",
+      "tests": 14,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0
+    }
+  ],
+  "lint": {
+    "errors": 0,
+    "warnings": 28
+  },
+  "cancelDeathMs": 17,
+  "ownerUid": 10370,
+  "isolatedUid": 99231,
+  "facadeExit": 137,
+  "exitMeaning": "host-mapped cancellation after Binder death, not kernel waitpid status",
+  "productionAssetsAndNativeLibrariesAndManifest": "byte-identical to C51",
+  "retainedFirstFailure": "probe-build.log: Java definite-assignment and ambiguous Process imports; fixed in probe-build-retry.log",
+  "priorSuccessfulRun": "1792297957028475200: earlier facade, before release-failure handling; cancel14ms; source retained",
+  "residuals": [
+    "Binder endpoint remains experiment-only; no product service or imported admission enabled",
+    "Python wrapper tests prove existing Local Protocol mapping on host, not Android confinement",
+    "No new real model/Gateway/artifact/imported-provider vertical slice accepted",
+    "Production service must skip AgentApplication graph in isolated UID before enablement",
+    "Host cancellation during processFactory startup still needs explicit contract mapping",
+    "CPU/memory/descendants, concurrent instances, startup races and full cleanup not proven on target",
+    "Endpoint close exceptions do not hide death; stream readers own pipe closure",
+    "No Android15 device operation, no new ZCode task; recording-only supplement remains pending"
+  ]
+}

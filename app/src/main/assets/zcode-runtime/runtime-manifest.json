@@ -1,0 +1,180 @@
+{
+  "name": "zcode-android-runtime",
+  "version": "0.16.9-runtime5",
+  "description": "Route-A runtime5 explicit reviewed provider admission, per-session pins and abandoned Dispatcher operation settlement",
+  "node": {
+    "binary": "jniLibs/arm64-v8a/libnode.so",
+    "version": "24.18.0",
+    "origin": "Termux nodejs-lts_24.18.0-1_aarch64.deb (packages.termux.dev)",
+    "license": "MIT"
+  },
+  "bash": {
+    "binary": "jniLibs/arm64-v8a/libbash.so",
+    "version": "5.3.20",
+    "origin": "Termux bash_5.3.20_aarch64.deb",
+    "license": "GPL-3.0-with-exception (LEGAL REVIEW REQUIRED before distribution)"
+  },
+  "entrypoint": {
+    "executable": "<nativeLibraryDir>/libnode.so",
+    "args": [
+      "<filesDir>/runtime/bootstrap.cjs"
+    ],
+    "workingDirectory": "<filesDir>"
+  },
+  "assets": {
+    "sourceDir": "assets/zcode-runtime",
+    "installDir": "<filesDir>/runtime",
+    "files": [
+      "bootstrap.cjs",
+      "skill-session-bindings.cjs",
+      "provider-review-bindings.cjs",
+      "gateway.cjs",
+      "android-carrier.cjs",
+      "web-search.cjs",
+      "ui-tree.cjs",
+      "workspace-files.cjs",
+      "vision-pipeline.cjs",
+      "zcode.cjs",
+      "provider/zcode-builtin.json",
+      "provider/personal_provider_config.json",
+      "contracts/hard-confirm-pack.json",
+      "contracts/config-disable-pack.json",
+      "contracts/journal.sql",
+      "lib/*",
+      "shell-lib/*",
+      "lab-tls/*.pem",
+      "carrier-authorization.cjs",
+      "workspace-analysis.cjs",
+      "analysis-worker.cjs"
+    ]
+  },
+  "jniLibs": {
+    "dir": "jniLibs/arm64-v8a",
+    "note": "requires android:extractNativeLibs=\"true\"; W^X: only nativeLibraryDir is exec-able"
+  },
+  "ldLibraryPath": "<filesDir>/runtime/shell-lib:<filesDir>/runtime/lib",
+  "integrity": {
+    "sha256": "SHA256SUMS.txt (repo root)",
+    "elfAlignment": "alignment-report.txt (all LOAD >= 0x4000, ALL PASS)"
+  },
+  "bridge": {
+    "endpoints": [
+      "/carrier/call",
+      "/carrier/next",
+      "/carrier/register",
+      "/carrier/respond",
+      "/carrier/tools",
+      "/events",
+      "/gateway/journal",
+      "/gateway/network",
+      "/gateway/pending",
+      "/gateway/rollback",
+      "/gateway/rules",
+      "/gateway/ui",
+      "/gateway/writes",
+      "/labmocks/body",
+      "/labmocks/status",
+      "/labsearch/body",
+      "/labsearch/ca-diag",
+      "/labsearch/status",
+      "/respond",
+      "/rpc",
+      "/rpc-wait",
+      "/search/status",
+      "/session/read",
+      "/session/resume",
+      "/sessions",
+      "/status",
+      "/ui/render",
+      "/ui/status",
+      "/vision/status",
+      "/workspaces",
+      "/workspaces/switch"
+    ],
+    "note": "all loopback 127.0.0.1 with X-Bridge-Token; /rpc-wait synchronous; /carrier/call answers host-registered tools INLINE (web_search; Phase 7 W2); lab fixtures (LLM A/B, search A/B, proxy C, TLS) start only under labmocks.enabled/labsearch.enabled or env",
+    "statusFields": [
+      "childPid",
+      "workspace"
+    ]
+  },
+  "modules": {
+    "bootstrap.cjs": {
+      "role": "bridge host (INLINE dispatch, /carrier/*, /gateway/*, /ui/*)"
+    },
+    "gateway.cjs": {
+      "role": "production Gateway (journal v3: operation/network_request/allow_rule/write_txn/ui_action)"
+    },
+    "android-carrier.cjs": {
+      "role": "MCP stdio child (model-visible tool surface)"
+    },
+    "web-search.cjs": {
+      "role": "bridge-inline search pipeline (Phase 7)"
+    },
+    "workspace-files.cjs": {
+      "role": "bridge-inline workspace write tools (Phase 8)"
+    },
+    "ui-tree.cjs": {
+      "role": "semantic-tree normalization/rendering (Phase 8; /ui/render)"
+    },
+    "vision-pipeline.cjs": {
+      "role": "bridge-inline vision interpretation ui_see (Phase 9; labvision mock)"
+    },
+    "zcode.cjs": {
+      "role": "upstream Agent Core 0.16.9 (unmodified, sha-pinned)"
+    }
+  },
+  "bridgeEndpoints": [
+    "/carrier/call",
+    "/carrier/next",
+    "/carrier/register",
+    "/carrier/respond",
+    "/carrier/tools",
+    "/events",
+    "/gateway/journal",
+    "/gateway/network",
+    "/gateway/pending",
+    "/gateway/rollback",
+    "/gateway/rules",
+    "/gateway/ui",
+    "/gateway/writes",
+    "/labmocks/body",
+    "/labmocks/status",
+    "/labsearch/body",
+    "/labsearch/ca-diag",
+    "/labsearch/status",
+    "/respond",
+    "/rpc",
+    "/rpc-wait",
+    "/search/status",
+    "/session/read",
+    "/session/resume",
+    "/sessions",
+    "/status",
+    "/ui/render",
+    "/ui/status",
+    "/vision/status",
+    "/workspaces",
+    "/workspaces/switch"
+  ],
+  "adaptations": [
+    "Phase8 Gateway/hash/rollback",
+    "Phase8 abandoned poll cleanup",
+    "Phase8 emitted/raw node mapping",
+    "Phase9 contract closure at host boundaries"
+  ],
+  "productRevision": "provider-projection1-session-routing-candidate",
+  "localProviders": [
+    {
+      "id": "text_digest",
+      "version": "1.0.0",
+      "assets": [
+        "providers/text-digest/provider.json",
+        "providers/text-digest/provider.cjs"
+      ],
+      "hostCeiling": [
+        "data-transform"
+      ],
+      "readOnly": true
+    }
+  ]
+}

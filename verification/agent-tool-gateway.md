@@ -1,0 +1,1 @@
+PASS: existing Gateway classification/journal22 + workspace lifecycle44 + provider settlement22 assertions, declaration6 + abandoned-carrier8 Node tests. All commands exit0; no new model or phone calls. Actual counts are preserved in the complete log.

@@ -1,0 +1,39 @@
+{
+  "disposition": "PASS_SCOPED_PINNED_PROVIDER_DISPATCH_AND_HOST_ARTIFACT; NOT_GATEWAY_MODEL_ACCEPTANCE",
+  "installedProductSha256": "C51DB531DCC9CB9CB398FAA061E9B53724E099E8456F1D3666A1E4604865C98D",
+  "uninstalledCandidateSha256": "E52E0A9120C42AF27E76F74CD53ABA11A1C664D961EC4F3309DA0B33B25A4946",
+  "testApkSha256": "735864E4FC064903208FDFCC8F10E3A49FD94FD459CE4A64B988312707EC719B",
+  "run": "1792301127522516900",
+  "unitTests": {
+    "tests": 106,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "lint": {
+    "errors": 0,
+    "warnings": 28
+  },
+  "physicalReports": 3,
+  "versions": [
+    "v1",
+    "v1",
+    "v2"
+  ],
+  "retainedV1Handle": true,
+  "stalePinAndTamperRejected": true,
+  "runtimeAssetNativeManifest": "unchanged from product-service1 candidate; Core/Gateway/journal unchanged",
+  "attemptHistory": "unit105 then106 PASS; first target1792300776522434400 PASS. Single-object metadata/pin snapshot fix; repeated106 and final target1792301127522516900 PASS; both retained",
+  "residuals": [
+    "Host review API exists; no user-facing review/grant UI or persisted admission enabled",
+    "No imported provider auto-registered in AgentApplication/ZCodeHostService; test-only registration",
+    "Base64<=16KiB/single pinned Node entry/data-transform only; not arbitrary shell/runtime support",
+    "Pinned handles and carrier snapshot fencing proven; no persisted session-to-provider pin binding accepted",
+    "Existing Gateway unknown-tool PRIVILEGED ceiling unchanged; no new READ classification",
+    "bootstrap exact native-provider journal result completion remains text_digest-only; must extend/test before model exposure",
+    "Real Core model/Gateway journal/force-stop/session-resume vertical slice still pending",
+    "A report proves delivered bytes/provenance, not correctness of an arbitrary transformation",
+    "Worker wire-ID duplicate guard added; no live Core registration collision run in this increment",
+    "Android15/root/Shizuku untouched; ZCode recording-only task unchanged"
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "verdict": "PASS_TARGET_ISOLATION_FEASIBILITY_AND_UNIT_TESTED_DECLARATIVE_SEAM",
+  "productionDisposition": "UNCHANGED_C51DB531; no imported tool admission/production integration accepted",
+  "run": "1792297091188177800",
+  "probeApkSha256": "BA05BD39BE3C93062796251338C265AD62E895370011FC3ADE7A7D66EC3C6BC3",
+  "uninstalledCandidateApkSha256": "372C173D761F6147F1BA2084D42E43BE24597948F705654F9F9F72F1D1FB8758",
+  "exactRuntimeLibraries": 10,
+  "shimLoadAlignments": [
+    16384,
+    16384,
+    16384
+  ],
+  "localProtocolVersion": "1.0",
+  "rpcVersion": "2.0",
+  "ownerUid": 10370,
+  "isolatedUid": 99229,
+  "privateRead": {
+    "allowed": false,
+    "code": "ENOENT"
+  },
+  "privateWrite": {
+    "allowed": false,
+    "code": "ENOENT"
+  },
+  "network": {
+    "allowed": false,
+    "code": "EACCES"
+  },
+  "cancelDeathMs": 15,
+  "unitTests": 68,
+  "lintErrors": 0,
+  "lintWarnings": 28,
+  "executedProbeDriver": {
+    "path": "tools/phase9/provider-isolation-device-probe.py",
+    "sha256": "72042F8C59193556A388A1BBA12222C6458B78D644B0539FBB889001B39CFD30"
+  },
+  "sourceIdentities": [
+    {
+      "path": "experiments/provider-isolation/src/main/AndroidManifest.xml",
+      "sha256": "0A1334B8BA9E4FFECFDF73727CF43E68DEFA3BFCC4D4A821801CD3CB8B5963D6"
+    },
+    {
+      "path": "experiments/provider-isolation/src/main/assets/probe-provider.cjs",
+      "sha256": "6C163A5878FA7C5859D0B61E609199DE55F83F10D42E49C7122689D3BB43D5A8"
+    },
+    {
+      "path": "experiments/provider-isolation/src/main/native/node_probe.c",
+      "sha256": "47A6F8F50FFEE955380C49C01F0B70B1A5C1CA39C5691E0D2F1830176FE1C46D"
+    },
+    {
+      "path": "experiments/provider-isolation/src/main/java/dev/alita/providerprobe/IsolatedNodeService.java",
+      "sha256": "A31EC19603F5E31C10AC1CDDD17D1801B159C7FFC2F7041D61F9658FB5EE5044"
+    },
+    {
+      "path": "experiments/provider-isolation/src/main/java/dev/alita/providerprobe/ProbeActivity.java",
+      "sha256": "90D66C6194DDC111C1BE0DC7F5A6D433F65F8E55D0E9FC399CCD3C4B2EC02764"
+    },
+    {
+      "path": "experiments/provider-isolation/README.md",
+      "sha256": "0DBA760D26F7A4C4B9C6397A5B425A1712F576C6BC5008FA4CDD7FBB75DCC93C"
+    },
+    {
+      "path": "experiments/provider-isolation/settings.gradle.kts",
+      "sha256": "269F6CCC020985E74B78E4B7EA7ACEBFBC72BBED3DFE3AD79142C0E164B25F82"
+    },
+    {
+      "path": "experiments/provider-isolation/build.gradle.kts",
+      "sha256": "595F6A4B992496C9CB61191D03730DFA7116FF2363C2D285CB97819F5A6E72AE"
+    },
+    {
+      "path": "experiments/provider-isolation/gradle.properties",
+      "sha256": "7ACC7D31BA7EE51E4D5CF1B1C89E2778386A795E56D75435EEE1498E69DCB36A"
+    },
+    {
+      "path": "app/src/main/java/dev/alita/androidagent/tools/JsonRpcStdioProvider.kt",
+      "sha256": "A2251F00C2E419502A5840F3DD8249302AFCE981B8520ECE3E041FD392BCC538"
+    },
+    {
+      "path": "app/src/test/java/dev/alita/androidagent/LocalProviderBoundaryTest.kt",
+      "sha256": "F98A19AAE0299188650F2029EE802609F0AD81F41209A84C3106B59A13DF3590"
+    },
+    {
+      "path": "tools/phase9/prepare-provider-isolation-probe.py",
+      "sha256": "2F4AFDA9DE6A81DD9C49F03A24E09FEB92B0D1C501C183C97588D3461E2C2287"
+    },
+    {
+      "path": "tools/phase9/provider-isolation-device-probe.py",
+      "sha256": "72042F8C59193556A388A1BBA12222C6458B78D644B0539FBB889001B39CFD30"
+    },
+    {
+      "path": "tools/phase9/provider-isolation-evidence-summary.py",
+      "sha256": "94FA89CE124D2000408BE59E3D7BF71448DBD5C9DF9B55C51AFB5B1579086DCB"
+    }
+  ],
+  "retainedFailures": [
+    "First probe build used unavailable Files.readString/writeString API; fixed Java calls",
+    "Two INSTALL_FAILED_USER_RESTRICTED attempts; user permitted retry, third install succeeded",
+    "App-private library FD executable mapping denied",
+    "Stale old result collected in one APK-native attempt; unique run IDs added",
+    "sqlite3 without SONAME missing under alias; actual basename retained with identical bytes"
+  ],
+  "residuals": [
+    "Standalone synthetic fixture, not real model or Gateway execution",
+    "Uninstalled transport candidate has unit/build/lint proof only",
+    "No Android15 isolation test or generic provider import acceptance",
+    "One cancellation observation, no descendant/race/budget guarantee",
+    "Node Start export tied to exact24.18.0 payload ABI; production backend/resource/artifact/admission work remains"
+  ]
+}

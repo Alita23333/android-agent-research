@@ -1,0 +1,1 @@
+PASS: extracted Android Accessibility library assembleDebug. Existing raw-to-normalized node IDs/continuation assertions pass against original ui-tree.cjs. No physical-device rerun or new screenshot acceptance.

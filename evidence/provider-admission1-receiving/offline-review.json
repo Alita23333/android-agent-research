@@ -1,0 +1,350 @@
+{
+  "disposition": "ACCEPTED_SCOPED_OFFLINE_SOURCE_REVIEW",
+  "archiveSha256": "A12AD310764A67832C7731BF1ED7CDE96A4564170FB68C6C7DDD8219F8313DEF",
+  "checkCount": 82,
+  "checks": [
+    {
+      "name": "incoming COMPLETE integrity and four files",
+      "passed": true
+    },
+    {
+      "name": "incoming exact archive",
+      "passed": true
+    },
+    {
+      "name": "extracted exact sealed bytes HANDOFF.md",
+      "passed": true
+    },
+    {
+      "name": "extracted exact sealed bytes PACKAGE.json",
+      "passed": true
+    },
+    {
+      "name": "extracted exact sealed bytes SHA256SUMS.txt",
+      "passed": true
+    },
+    {
+      "name": "extracted exact sealed bytes residuals/RESIDUALS.md",
+      "passed": true
+    },
+    {
+      "name": "extracted exact sealed bytes results/SOURCE-REVIEW.md",
+      "passed": true
+    },
+    {
+      "name": "extracted exact sealed bytes results/source-verification.json",
+      "passed": true
+    },
+    {
+      "name": "one dependency",
+      "passed": true
+    },
+    {
+      "name": "exact outgoing dependency",
+      "passed": true
+    },
+    {
+      "name": "dependency required HANDOFF.md",
+      "passed": true
+    },
+    {
+      "name": "dependency required SOURCE_IDENTITY.json",
+      "passed": true
+    },
+    {
+      "name": "dependency required STATUS.md",
+      "passed": true
+    },
+    {
+      "name": "dependency required RESIDUALS.md",
+      "passed": true
+    },
+    {
+      "name": "dependency required app/src/main/java/dev/alita/androidagent/tools/ProviderAdmissionController.kt",
+      "passed": true
+    },
+    {
+      "name": "dependency required app/src/main/java/dev/alita/androidagent/tools/ProviderReviewStore.kt",
+      "passed": true
+    },
+    {
+      "name": "dependency required app/src/main/java/dev/alita/androidagent/ProviderManagementScreen.kt",
+      "passed": true
+    },
+    {
+      "name": "dependency required app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeCarrierWorker.kt",
+      "passed": true
+    },
+    {
+      "name": "dependency required app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeHostService.kt",
+      "passed": true
+    },
+    {
+      "name": "dependency required results/android17/1792760006423232400/result.json",
+      "passed": true
+    },
+    {
+      "name": "dependency required results/ui-1792760188831031400/result.json",
+      "passed": true
+    },
+    {
+      "name": "dependency required results/first-owner-logcat.txt",
+      "passed": true
+    },
+    {
+      "name": "dependency required results/second-owner-logcat.txt",
+      "passed": true
+    },
+    {
+      "name": "dependency required results/acceptance-summary.json",
+      "passed": true
+    },
+    {
+      "name": "34 unique verification rows",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/isolationTest/AndroidManifest.xml",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/isolationTest/java/dev/alita/androidagent/execution/isolation/AdmissionProbeActivity.kt",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/main/AndroidManifest.xml",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/main/assets/zcode-runtime/bootstrap.cjs",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/main/assets/zcode-runtime/carrier-authorization.cjs",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/main/assets/zcode-runtime/contracts/journal.sql",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/main/assets/zcode-runtime/gateway.cjs",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/main/assets/zcode-runtime/payload-SHA256SUMS.txt",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/main/assets/zcode-runtime/provider-review-bindings.cjs",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/main/assets/zcode-runtime/runtime-manifest.json",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/main/assets/zcode-runtime/skill-session-bindings.cjs",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/main/java/dev/alita/androidagent/AgentApplication.kt",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/main/java/dev/alita/androidagent/MainActivity.kt",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/main/java/dev/alita/androidagent/MainViewModel.kt",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/main/java/dev/alita/androidagent/ProviderManagementScreen.kt",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/main/java/dev/alita/androidagent/core/Domain.kt",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/main/java/dev/alita/androidagent/core/Tooling.kt",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/main/java/dev/alita/androidagent/tools/LocalProviderCatalog.kt",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/main/java/dev/alita/androidagent/tools/PinnedIsolatedProvider.kt",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/main/java/dev/alita/androidagent/tools/ProviderAdmissionController.kt",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/main/java/dev/alita/androidagent/tools/ProviderReviewStore.kt",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/main/java/dev/alita/androidagent/zcode/adapter/AndroidToolContracts.kt",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/main/java/dev/alita/androidagent/zcode/adapter/ReadOnlyToolDispatcher.kt",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/main/java/dev/alita/androidagent/zcode/adapter/ZCodeToolMapping.kt",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeCarrierWorker.kt",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeHostService.kt",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeRuntimeBundle.kt",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/test/java/dev/alita/androidagent/ProviderAdmissionControllerTest.kt",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/test/java/dev/alita/androidagent/ProviderReviewStoreTest.kt",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/test/java/dev/alita/androidagent/ZCodeCarrierWorkerLifecycleTest.kt",
+      "passed": true
+    },
+    {
+      "name": "source per-entry tools/phase9/package-provider-admission1.py",
+      "passed": true
+    },
+    {
+      "name": "source per-entry tools/phase9/provider-admission-device-acceptance.py",
+      "passed": true
+    },
+    {
+      "name": "source per-entry tools/phase9/provider-admission-evidence-summary.py",
+      "passed": true
+    },
+    {
+      "name": "source per-entry tools/phase9/provider-admission-ui-smoke.py",
+      "passed": true
+    },
+    {
+      "name": "actual prior controlled transport verdict",
+      "passed": true
+    },
+    {
+      "name": "all eight admission checks true",
+      "passed": true
+    },
+    {
+      "name": "two runtime generations",
+      "passed": true
+    },
+    {
+      "name": "physical version and hash 0",
+      "passed": true
+    },
+    {
+      "name": "physical reviewed pins 0",
+      "passed": true
+    },
+    {
+      "name": "exact successful journal join 0",
+      "passed": true
+    },
+    {
+      "name": "physical version and hash 1",
+      "passed": true
+    },
+    {
+      "name": "physical reviewed pins 1",
+      "passed": true
+    },
+    {
+      "name": "exact successful journal join 1",
+      "passed": true
+    },
+    {
+      "name": "physical version and hash 2",
+      "passed": true
+    },
+    {
+      "name": "physical reviewed pins 2",
+      "passed": true
+    },
+    {
+      "name": "exact successful journal join 2",
+      "passed": true
+    },
+    {
+      "name": "JVM134 exact XML total",
+      "passed": true
+    },
+    {
+      "name": "new test counts12 plus4",
+      "passed": true
+    },
+    {
+      "name": "lint0 errors28warnings",
+      "passed": true
+    },
+    {
+      "name": "successful build results/build-repaired-final.log",
+      "passed": true
+    },
+    {
+      "name": "successful build results/build-probe-reader-repair.log",
+      "passed": true
+    },
+    {
+      "name": "UI preview cancel unchanged review file",
+      "passed": true
+    },
+    {
+      "name": "actual fatal diagnostic reader first-owner-logcat.txt",
+      "passed": true
+    },
+    {
+      "name": "actual fatal diagnostic reader second-owner-logcat.txt",
+      "passed": true
+    },
+    {
+      "name": "all six source answers present",
+      "passed": true
+    },
+    {
+      "name": "source review retains actual Service residual",
+      "passed": true
+    },
+    {
+      "name": "actual ZCode INTEGRATED outgoing receipt",
+      "passed": true
+    }
+  ],
+  "sourceEntries": 34,
+  "incomingExecution": 0,
+  "deviceActions": 0,
+  "productionEdits": 0,
+  "clarifications": [
+    "No findings means no defect reported within six bounded offline questions, not global security/no-bypass proof.",
+    "Only explicit production UI entry writes approval; trusted host review APIs also exist. The review does not prove that every possible caller must be UI.",
+    "Cleanup is fail-closed when not quiescent, not a universal deadline guarantee.",
+    "All runtime/model/Service/UI-confirmation limits in sealed STATUS and residuals retained."
+  ],
+  "remaining": [
+    "Actual production Service stop/Core+MCP descendant exit measurement",
+    "Actual UI approval/retire/revoke taps",
+    "Real model/provider/artifact/cancellation/force-stop recovery and Android17 final acceptance"
+  ]
+}

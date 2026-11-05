@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "archiveTag": "archive-2026-11-05",
+  "components": [
+    {
+      "name": "android-agent-skill-store",
+      "repository": "https://github.com/Alita23333/android-agent-skill-store.git",
+      "commit": "96095e27708c159ad026596a9c7cbda927b89d29",
+      "tag": "archive-2026-11-05",
+      "sourceMapSha256": "21e51d93ffdde26f45db69f547070dbadb9a0cec8d4a48800dc1af98450a441d",
+      "restore": [
+        {
+          "sourcePath": "store/src/main/kotlin/dev/alita/androidagent/skills/CoreSkillPackageStore.kt",
+          "productPath": "app/src/main/java/dev/alita/androidagent/skills/CoreSkillPackageStore.kt",
+          "sha256": "dc2709d29a6f3d380fe9903e684f3ef3afed2adeea5d3098257fb7dd297180fc"
+        }
+      ]
+    },
+    {
+      "name": "android-isolated-node-provider",
+      "repository": "https://github.com/Alita23333/android-isolated-node-provider.git",
+      "commit": "3976e3a628e7c4968fb541c2138174bdd35f5a6a",
+      "tag": "archive-2026-11-05",
+      "sourceMapSha256": "3c41613c22d3605684f96a18efa7ff680871ab781f2ec1013326b38aef81dcd4",
+      "restore": [
+        {
+          "sourcePath": "process/src/main/java/dev/alita/androidagent/execution/IsolatedProviderProcess.java",
+          "productPath": "app/src/main/java/dev/alita/androidagent/execution/IsolatedProviderProcess.java",
+          "sha256": "9da8085f893152633e7985d82b0a3600bb332664819359e7a17a1eef86a1fa60"
+        },
+        {
+          "sourcePath": "reference/product/app/src/main/java/dev/alita/androidagent/execution/isolation/IsolatedNodeEndpoint.java",
+          "productPath": "app/src/main/java/dev/alita/androidagent/execution/isolation/IsolatedNodeEndpoint.java",
+          "sha256": "ee97f4a894af78387713acc8247b50dd8f5aad4f4d0dd1a13ef598cb1ce57a8d"
+        },
+        {
+          "sourcePath": "reference/product/app/src/main/java/dev/alita/androidagent/execution/isolation/IsolatedNodeRuntime.java",
+          "productPath": "app/src/main/java/dev/alita/androidagent/execution/isolation/IsolatedNodeRuntime.java",
+          "sha256": "10f0347e84791720372d6ea84f3080b5717d4c0f42073ec8f5c3b64c3ce2df60"
+        },
+        {
+          "sourcePath": "reference/product/app/src/main/java/dev/alita/androidagent/execution/isolation/IsolatedNodeService.java",
+          "productPath": "app/src/main/java/dev/alita/androidagent/execution/isolation/IsolatedNodeService.java",
+          "sha256": "6caa278055bcfebe9d05cc6882e98755478b6bd9d07cd559eae296ca37bf78d2"
+        },
+        {
+          "sourcePath": "native/isolated_node.c",
+          "productPath": "app/src/main/native/isolated_node.c",
+          "sha256": "31765dce56fa565072f6b589e57aa02335fc074cd6b1425f5c6d130f5e3310a1"
+        }
+      ]
+    },
+    {
+      "name": "agent-tool-gateway",
+      "repository": "https://github.com/Alita23333/agent-tool-gateway.git",
+      "commit": "38e69787bc35499fa5802bb21204f577a55e4b1d",
+      "tag": "archive-2026-11-05",
+      "sourceMapSha256": "8658fb23538d0d1165414fb88ea0b04f4a83a6ca067dc74fe1f6acbb4605b9a3",
+      "restore": [
+        {
+          "sourcePath": "runtime/gateway.cjs",
+          "productPath": "app/src/main/assets/zcode-runtime/gateway.cjs",
+          "sha256": "d5c1a772b40a39f8f02d344d191a932ac121af42abba5219362c1b7aad23c89b"
+        },
+        {
+          "sourcePath": "runtime/workspace-files.cjs",
+          "productPath": "app/src/main/assets/zcode-runtime/workspace-files.cjs",
+          "sha256": "f2527eccaaf1b2397ed52d72b20600532ec8bd769d720ccbd372abf5507961ad"
+        },
+        {
+          "sourcePath": "runtime/carrier-authorization.cjs",
+          "productPath": "app/src/main/assets/zcode-runtime/carrier-authorization.cjs",
+          "sha256": "e3dc1878b0f49ace1953026fa0ac4ce3f4d98fb0f95ab1ac5153375c341a032f"
+        }
+      ]
+    },
+    {
+      "name": "android-accessibility-toolkit",
+      "repository": "https://github.com/Alita23333/android-accessibility-toolkit.git",
+      "commit": "95ad0a16ad99288b714d67b686d64497fc73a852",
+      "tag": "archive-2026-11-05",
+      "sourceMapSha256": "2442cf77d32f9235bcdd7984bf10ebdc4bad9946b16dbe87dc0c6c2e8a6d1091",
+      "restore": [
+        {
+          "sourcePath": "accessibility/src/main/java/dev/alita/androidagent/device/AgentAccessibilityService.kt",
+          "productPath": "app/src/main/java/dev/alita/androidagent/device/AgentAccessibilityService.kt",
+          "sha256": "76559ab2c5937941c6d55d747ef487bf853f67e859cdf1d4d9f1304667021ac7"
+        },
+        {
+          "sourcePath": "runtime/ui-tree.cjs",
+          "productPath": "app/src/main/assets/zcode-runtime/ui-tree.cjs",
+          "sha256": "983179097d1932531a961df4120f507b32f8defb7782f10de5a3a4398af43849"
+        }
+      ]
+    }
+  ]
+}

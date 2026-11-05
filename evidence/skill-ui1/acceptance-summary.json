@@ -1,0 +1,59 @@
+{
+  "verdict": "PASS",
+  "disposition": "ACCEPTED_SCOPED_SKILL_UI_AND_LIVE_VERSIONING",
+  "apkSha256": "D944F72FF15E77AAF3E486990581541EEEFE338C0E888AAE10C6BB91E9CFFCAC",
+  "testApkSha256": "6AD2004AB844F3C479C48B5ABAA668A15722FBB78D9B0D7E3113701494DAD21E",
+  "uiRun": "1792247177543398800",
+  "modelTasks": [
+    {
+      "file": "skill-ui1-1-0-model.json",
+      "sessionId": "sess_cc9b05a7-9912-4594-b673-ab2bf72505e1",
+      "version": "1",
+      "skillCalls": 1,
+      "readCalls": 1,
+      "freshReadContent": true
+    },
+    {
+      "file": "skill-ui1-1-5-model.json",
+      "sessionId": "sess_cc9b05a7-9912-4594-b673-ab2bf72505e1",
+      "version": "1",
+      "skillCalls": 1,
+      "readCalls": 1,
+      "freshReadContent": false
+    },
+    {
+      "file": "skill-ui1-2-0-model.json",
+      "sessionId": "sess_9c6694cc-5e24-4d1f-b61b-48fa68c143a3",
+      "version": "2",
+      "skillCalls": 1,
+      "readCalls": 1,
+      "freshReadContent": true
+    }
+  ],
+  "retiredSessionResume": true,
+  "priorFailedInstrumentationRuns": 7,
+  "successfulInstrumentationTests": 1,
+  "sourceIdentities": [
+    {
+      "path": "app/src/main/java/dev/alita/androidagent/MainActivity.kt",
+      "sha256": "B1CFE0689205A358CBBB7A7683F46783FA2D3B29AF5E113E886B005EC8F9EB3F"
+    },
+    {
+      "path": "app/src/main/java/dev/alita/androidagent/MainViewModel.kt",
+      "sha256": "0F591AB54DF59B38E26CB5F45AC03A9296F0FB45A666B6AF28CCF8294C620CD8"
+    },
+    {
+      "path": "app/src/androidTest/AndroidManifest.xml",
+      "sha256": "46759AC3FA844ADD06D0A373B83516FFFCCF2BB40E3F32FE89B8D4A2FC93DF8E"
+    },
+    {
+      "path": "app/src/androidTest/java/dev/alita/androidagent/SkillManagerUiDeviceTest.kt",
+      "sha256": "01F3D26E59C23C279CB195B164C5794D514C752BD1640BA6F2A5332C15392694"
+    },
+    {
+      "path": "app/src/androidTest/java/dev/alita/androidagent/SkillFixtureDocumentsProvider.java",
+      "sha256": "87716254382C8AA97EF25EE8966B2BFAD69AABAD4375B04F68F256142123DCB4"
+    }
+  ],
+  "scope": "real SAF/UI and model Skill/Read, live v1/v2 and retired restart; no arbitrary script/provider/root capability acceptance"
+}

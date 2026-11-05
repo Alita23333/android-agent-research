@@ -1,0 +1,137 @@
+{
+  "disposition": "PASS_SCOPED_EXPLICIT_ADMISSION_AND_CONTROLLED_CORE_RESTART_TRANSPORT",
+  "candidateSha256": "4CE39DB616545DA903CC56A102428480FA9BB428122D97D0CAF9E9C9E5594340",
+  "previousCandidateSha256": "5A30BEED7F0A35749B3CF7BC4E7AE3C790B67CE951114F67DB0B2F7AB31BDD64",
+  "installedProductSha256": "C51DB531DCC9CB9CB398FAA061E9B53724E099E8456F1D3666A1E4604865C98D",
+  "testApkSha256": "78784996E81E8C5E43C0DAA4684B7937C941386FA3DF6823E3FC813247C0F458",
+  "deviceRun": "1792760006423232400",
+  "uiRun": "ui-1792760188831031400",
+  "payloadHashRows": 41,
+  "importantApkAssetNativeManifestDelta": [],
+  "runtimeVersion": "0.16.9-runtime5",
+  "unitTests": {
+    "tests": 134,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "newAdmissionTests": 12,
+  "newWorkerLifecycleTests": 4,
+  "lint": {
+    "errors": 0,
+    "warnings": 28
+  },
+  "deviceChecks": {
+    "inertImport": true,
+    "previewInert": true,
+    "approveDeferred": true,
+    "activeMutationsRejected": true,
+    "firstStopQuiescent": true,
+    "registryRemovedOnStop": true,
+    "oldPinRetainedAcrossRestart": true,
+    "secondStopQuiescent": true
+  },
+  "physicalReports": [
+    {
+      "version": "v1",
+      "callId": "call_mvkz0vz1eazp7z",
+      "sessionId": "sess_0999ecfc-5009-4e80-8e20-e99e71b92c12",
+      "operationId": 9,
+      "uid": 99166,
+      "pid": 28916,
+      "artifactSha256": "E6A87357F4580DC7ABE050DED4A17A97ACEBBA986438DA2BB59FE98D3B241FB3"
+    },
+    {
+      "version": "v1",
+      "callId": "call_mvkz0yult4yk9i",
+      "sessionId": "sess_0999ecfc-5009-4e80-8e20-e99e71b92c12",
+      "operationId": 10,
+      "uid": 99167,
+      "pid": 29034,
+      "artifactSha256": "C9FF5313DF00BCBE94957DE05607EB024C7CFB3D4AF4C7C204D6EF2C18BF1A80"
+    },
+    {
+      "version": "v2",
+      "callId": "call_mvkz0zeex7439o",
+      "sessionId": "sess_9dcff342-e68a-43e8-bbd7-deba019e5804",
+      "operationId": 11,
+      "uid": 99168,
+      "pid": 29090,
+      "artifactSha256": "F252B82445FC822A26A5C4EBD383CC1F63AEB6905682D23F1D2E8D7DC2DCFDBF"
+    }
+  ],
+  "shutdowns": [
+    {
+      "reason": "v1-before-update",
+      "childPid": 28837,
+      "initialWorkerStopReturned": true,
+      "workerStopReturned": true,
+      "workerQuiescent": true,
+      "childStopped": true,
+      "bootstrapStopped": true,
+      "quiescent": true,
+      "leaseReleased": true,
+      "registryAfterRelease": [
+        "device.apps",
+        "device.click",
+        "device.global_action",
+        "device.input_text",
+        "device.launch_app",
+        "device.observe",
+        "device.screenshot",
+        "device.swipe",
+        "device_info.identity",
+        "skills.activate",
+        "skills.inspect",
+        "skills.list",
+        "skills.read_resource",
+        "ui.inspect"
+      ]
+    },
+    {
+      "reason": "finally",
+      "childPid": 28987,
+      "initialWorkerStopReturned": true,
+      "workerStopReturned": true,
+      "workerQuiescent": true,
+      "childStopped": true,
+      "bootstrapStopped": true,
+      "quiescent": true,
+      "leaseReleased": true,
+      "registryAfterRelease": [
+        "device.apps",
+        "device.click",
+        "device.global_action",
+        "device.input_text",
+        "device.launch_app",
+        "device.observe",
+        "device.screenshot",
+        "device.swipe",
+        "device_info.identity",
+        "skills.activate",
+        "skills.inspect",
+        "skills.list",
+        "skills.read_resource",
+        "ui.inspect"
+      ]
+    }
+  ],
+  "ui": {
+    "verdict": "PASS_UI_PREVIEW_CANCEL_ONLY",
+    "reviewSha256Before": "ae659f01e2f2e12bbc852f13b1298049ebafede3124683e973880792845b1262",
+    "reviewSha256After": "ae659f01e2f2e12bbc852f13b1298049ebafede3124683e973880792845b1262",
+    "scope": "Actual Compose editor/preview/back/cancel; no approval click/model or HostService start/stop",
+    "driverSha256": "637bece6ea59c732869d7b1bfac00d933b46304e6565956ad24f6e1e51183b8b"
+  },
+  "failedDeviceAttempts": [
+    "1792759464379526800",
+    "1792759831813604200"
+  ],
+  "failureExplanation": "Both probe processes died from uncaught diagnostic-reader InterruptedIOException during teardown (owner logcat retained). Recorded stale RUNNING is not a hung-worker diagnosis. Independent synchronous-interrupt blocker fix verified by dedicated JVM test.",
+  "remaining": [
+    "Real production HostService stop/start with old Core/MCP descendant exit measurement (probe explicitly signals its owned Core child)",
+    "Actual UI confirmation approval/retire/revoke taps (UI smoke covers preview/back/cancel only)",
+    "Real model-issued imported-provider call and final answer, cancellation and force-stop/resume",
+    "Production APK installation and final product acceptance"
+  ]
+}

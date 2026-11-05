@@ -1,0 +1,13 @@
+{
+  "jvmTests": 37,
+  "jvmFailuresAndErrors": 0,
+  "android17NativeTests": 5,
+  "gatewayProviderChecks": 7,
+  "carrierAdmission": 15,
+  "configDisableChecks": 9,
+  "internalBoundary": "PASS",
+  "mcpCancellation": "PASS",
+  "build": "SUCCESSFUL",
+  "lint": "SUCCESSFUL with existing path/SDK warnings",
+  "apkSha256": "3B79A98FA923CCA067DCD666546618416594F7FBDDFF35423F3F6FB0EBA24A5A"
+}

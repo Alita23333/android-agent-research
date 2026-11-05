@@ -1,0 +1,410 @@
+{
+  "disposition": "ACCEPTED_SCOPED_ACTUAL_CORE_STDIN_EOF_COMPATIBILITY",
+  "archiveSha256": "77A61CEE16629DF1CF6919C746147E4B4E60B321990620FABFFE9D8B704722AF",
+  "offlineCheckCount": 86,
+  "checks": [
+    {
+      "name": "COMPLETE integrity and sixteen payload files",
+      "passed": true
+    },
+    {
+      "name": "exact archive",
+      "passed": true
+    },
+    {
+      "name": "extracted sealed bytes HANDOFF.md",
+      "passed": true
+    },
+    {
+      "name": "extracted sealed bytes PACKAGE.json",
+      "passed": true
+    },
+    {
+      "name": "extracted sealed bytes SHA256SUMS.txt",
+      "passed": true
+    },
+    {
+      "name": "extracted sealed bytes residuals/RESIDUALS.md",
+      "passed": true
+    },
+    {
+      "name": "extracted sealed bytes results/BASELINE-RESULT.json",
+      "passed": true
+    },
+    {
+      "name": "extracted sealed bytes results/baseline-post.json",
+      "passed": true
+    },
+    {
+      "name": "extracted sealed bytes results/baseline-pre.json",
+      "passed": true
+    },
+    {
+      "name": "extracted sealed bytes results/commands-and-exits.json",
+      "passed": true
+    },
+    {
+      "name": "extracted sealed bytes results/eof.stderr",
+      "passed": true
+    },
+    {
+      "name": "extracted sealed bytes results/eof.stdout",
+      "passed": true
+    },
+    {
+      "name": "extracted sealed bytes results/first-failure-attempt1/baseline-post.json",
+      "passed": true
+    },
+    {
+      "name": "extracted sealed bytes results/first-failure-attempt1/baseline-pre.json",
+      "passed": true
+    },
+    {
+      "name": "extracted sealed bytes results/first-failure-attempt1/commands-and-exits.json",
+      "passed": true
+    },
+    {
+      "name": "extracted sealed bytes results/first-failure-attempt1/eof.stderr",
+      "passed": true
+    },
+    {
+      "name": "extracted sealed bytes results/first-failure-attempt1/eof.stdout",
+      "passed": true
+    },
+    {
+      "name": "extracted sealed bytes results/first-failure-attempt1/wrapper-source.py",
+      "passed": true
+    },
+    {
+      "name": "extracted sealed bytes results/source-verification.json",
+      "passed": true
+    },
+    {
+      "name": "extracted sealed bytes source/wrapper.txt",
+      "passed": true
+    },
+    {
+      "name": "one dependency",
+      "passed": true
+    },
+    {
+      "name": "exact assigned outgoing dependency",
+      "passed": true
+    },
+    {
+      "name": "required dependency bytes ANDROID15-BASELINE-REFERENCE.md",
+      "passed": true
+    },
+    {
+      "name": "required dependency bytes HANDOFF.md",
+      "passed": true
+    },
+    {
+      "name": "required dependency bytes SOURCE_IDENTITY.json",
+      "passed": true
+    },
+    {
+      "name": "required dependency bytes STATUS.md",
+      "passed": true
+    },
+    {
+      "name": "required dependency bytes tools/phase9/core-stdin-eof-test.cjs",
+      "passed": true
+    },
+    {
+      "name": "seven unique complete identity rows",
+      "passed": true
+    },
+    {
+      "name": "per-entry identity app/src/isolationTest/AndroidManifest.xml",
+      "passed": true
+    },
+    {
+      "name": "per-entry identity app/src/isolationTest/java/dev/alita/androidagent/execution/isolation/HostLifecycleProbeActivity.kt",
+      "passed": true
+    },
+    {
+      "name": "per-entry identity app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeHostService.kt",
+      "passed": true
+    },
+    {
+      "name": "per-entry identity app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeRuntimeBundle.kt",
+      "passed": true
+    },
+    {
+      "name": "per-entry identity tools/phase9/core-stdin-eof-test.cjs",
+      "passed": true
+    },
+    {
+      "name": "per-entry identity tools/phase9/provider-admission-ui-actions.py",
+      "passed": true
+    },
+    {
+      "name": "per-entry identity tools/phase9/provider-host-lifecycle-device-acceptance.py",
+      "passed": true
+    },
+    {
+      "name": "attempt-1 pre baseline matches sealed reference",
+      "passed": true
+    },
+    {
+      "name": "attempt-1 post hash fields complete and unchanged",
+      "passed": true
+    },
+    {
+      "name": "attempt-1 exactly22 commands all exit0",
+      "passed": true
+    },
+    {
+      "name": "attempt-1 only assigned Android15 serial",
+      "passed": true
+    },
+    {
+      "name": "attempt-1 stderr empty except push progress",
+      "passed": true
+    },
+    {
+      "name": "attempt-1 raw identity properties",
+      "passed": true
+    },
+    {
+      "name": "attempt-1 raw pre and post apkSha256",
+      "passed": true
+    },
+    {
+      "name": "attempt-1 raw pre and post pin:zcode.cjs",
+      "passed": true
+    },
+    {
+      "name": "attempt-1 raw pre and post pin:bootstrap.cjs",
+      "passed": true
+    },
+    {
+      "name": "attempt-1 raw pre and post pin:gateway.cjs",
+      "passed": true
+    },
+    {
+      "name": "attempt-1 raw pre and post pin:carrier-authorization.cjs",
+      "passed": true
+    },
+    {
+      "name": "attempt-1 raw pre and post libnode",
+      "passed": true
+    },
+    {
+      "name": "attempt-1 observed realpath consistent with mkdir",
+      "passed": true
+    },
+    {
+      "name": "attempt-1 copy hash matches immutable assigned source",
+      "passed": true
+    },
+    {
+      "name": "attempt-1 installed Core Node and short TMPDIR exact command",
+      "passed": true
+    },
+    {
+      "name": "attempt-1 test output byte matches command record",
+      "passed": true
+    },
+    {
+      "name": "attempt-1 exact verdict and Node version",
+      "passed": true
+    },
+    {
+      "name": "attempt-1 exactly2 distinct pid and full session IDs",
+      "passed": true
+    },
+    {
+      "name": "attempt-1 natural termination 0",
+      "passed": true
+    },
+    {
+      "name": "attempt-1 natural termination 1",
+      "passed": true
+    },
+    {
+      "name": "attempt-2 pre baseline matches sealed reference",
+      "passed": true
+    },
+    {
+      "name": "attempt-2 post hash fields complete and unchanged",
+      "passed": true
+    },
+    {
+      "name": "attempt-2 exactly22 commands all exit0",
+      "passed": true
+    },
+    {
+      "name": "attempt-2 only assigned Android15 serial",
+      "passed": true
+    },
+    {
+      "name": "attempt-2 stderr empty except push progress",
+      "passed": true
+    },
+    {
+      "name": "attempt-2 raw identity properties",
+      "passed": true
+    },
+    {
+      "name": "attempt-2 raw pre and post apkSha256",
+      "passed": true
+    },
+    {
+      "name": "attempt-2 raw pre and post pin:zcode.cjs",
+      "passed": true
+    },
+    {
+      "name": "attempt-2 raw pre and post pin:bootstrap.cjs",
+      "passed": true
+    },
+    {
+      "name": "attempt-2 raw pre and post pin:gateway.cjs",
+      "passed": true
+    },
+    {
+      "name": "attempt-2 raw pre and post pin:carrier-authorization.cjs",
+      "passed": true
+    },
+    {
+      "name": "attempt-2 raw pre and post libnode",
+      "passed": true
+    },
+    {
+      "name": "attempt-2 observed realpath consistent with mkdir",
+      "passed": true
+    },
+    {
+      "name": "attempt-2 copy hash matches immutable assigned source",
+      "passed": true
+    },
+    {
+      "name": "attempt-2 installed Core Node and short TMPDIR exact command",
+      "passed": true
+    },
+    {
+      "name": "attempt-2 test output byte matches command record",
+      "passed": true
+    },
+    {
+      "name": "attempt-2 exact verdict and Node version",
+      "passed": true
+    },
+    {
+      "name": "attempt-2 exactly2 distinct pid and full session IDs",
+      "passed": true
+    },
+    {
+      "name": "attempt-2 natural termination 0",
+      "passed": true
+    },
+    {
+      "name": "attempt-2 natural termination 1",
+      "passed": true
+    },
+    {
+      "name": "distinct physical fixtures across attempts",
+      "passed": true
+    },
+    {
+      "name": "final summary exact identity and fixture",
+      "passed": true
+    },
+    {
+      "name": "final wrapper identity",
+      "passed": true
+    },
+    {
+      "name": "final summary baseline matches retained files",
+      "passed": true
+    },
+    {
+      "name": "summary result exact counts and booleans",
+      "passed": true
+    },
+    {
+      "name": "summary cycle fields 0",
+      "passed": true
+    },
+    {
+      "name": "summary cycle fields 1",
+      "passed": true
+    },
+    {
+      "name": "wrapper delta only attempt number and dedicated hash binding",
+      "passed": true
+    },
+    {
+      "name": "old leak after copy assertion before summary",
+      "passed": true
+    },
+    {
+      "name": "overwritten summary explicitly not reconstructed",
+      "passed": true
+    },
+    {
+      "name": "actual upstream INTEGRATED receipt",
+      "passed": true
+    }
+  ],
+  "sourceEntries": 7,
+  "cycleEvidence": [
+    {
+      "verdict": "PASS_ACTUAL_CORE_STDIN_EOF",
+      "node": "v24.18.0",
+      "cycles": [
+        {
+          "pid": 22427,
+          "sessionId": "sess_e83e7462-0622-4d74-b55d-1d4aa9ca4c2d",
+          "naturalExit": true,
+          "code": 0,
+          "signal": null,
+          "exitAfterEofMs": 85
+        },
+        {
+          "pid": 22453,
+          "sessionId": "sess_715ff39a-0063-4c7e-b2d1-b8117eafc37d",
+          "naturalExit": true,
+          "code": 0,
+          "signal": null,
+          "exitAfterEofMs": 82
+        }
+      ],
+      "scope": "Actual Core user-only session then stdin EOF; no model/active MCP/Android HostService proof"
+    },
+    {
+      "verdict": "PASS_ACTUAL_CORE_STDIN_EOF",
+      "node": "v24.18.0",
+      "cycles": [
+        {
+          "pid": 22818,
+          "sessionId": "sess_7a688a79-d0b9-424e-bcf2-fbbf94202f64",
+          "naturalExit": true,
+          "code": 0,
+          "signal": null,
+          "exitAfterEofMs": 64
+        },
+        {
+          "pid": 22844,
+          "sessionId": "sess_1884b4ff-ef00-4010-a9e6-08a7a7eed964",
+          "naturalExit": true,
+          "code": 0,
+          "signal": null,
+          "exitAfterEofMs": 46
+        }
+      ],
+      "scope": "Actual Core user-only session then stdin EOF; no model/active MCP/Android HostService proof"
+    }
+  ],
+  "fixtures": [
+    "/data/user/0/dev.zcode.nodepoc/cache/provider-core-eof-1792762564310862500",
+    "/data/user/0/dev.zcode.nodepoc/cache/provider-core-eof-1792762643977268700"
+  ],
+  "incomingExecution": 0,
+  "deviceActions": 0,
+  "productionEdits": 0,
+  "retentionLimit": "Attempt-1 erroneous summary original NOT_RETAINED; source, command records, raw test output and baselines retained. Do not reconstruct missing original.",
+  "scope": "USER-only Core stdin EOF; no model/tool/active MCP/Service/Gateway/production final acceptance.",
+  "next": "Codex Android17 active model/provider/artifact/cancellation and product-package restart acceptance; ZCode holds baseline pending next pinned substantive task."
+}

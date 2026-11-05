@@ -1,0 +1,23 @@
+{
+  "runtimeVersion": "0.16.9-runtime5",
+  "productRevision": "local-provider1",
+  "apkSha256": "B87638B935F77D225FD2EAD46D1C163B992D8398A5B7359362A9185D65A4650B",
+  "coreSha256": "B1DF2EF3E5BD76C4AF3ECB296BC003A10D3F13191A26610BD0BA940FEADAD529",
+  "changedSourceHashes": {
+    "app/src/main/java/dev/alita/androidagent/tools/JsonRpcStdioProvider.kt": "E7F7FE29BC60E3B71D97F11546462EE18A7AC79050916B82EFADFDDED6CD5087",
+    "app/src/main/java/dev/alita/androidagent/tools/LocalProviderCatalog.kt": "5C142DB42CDAA3C77145FB629BB3B7FD83819B524238C237221D9E85345C34D0",
+    "app/src/main/java/dev/alita/androidagent/AgentApplication.kt": "AC5D99C775FEEF5FD75DECA41C9D6FEB788478D87385EC33BE170F9EFFC0345B",
+    "app/src/main/java/dev/alita/androidagent/MainViewModel.kt": "E3F3D12096102E70ECC654ED14CB81D056EB5FA4521124DBFFC72668F265D31A",
+    "app/src/main/java/dev/alita/androidagent/zcode/adapter/ReadOnlyToolDispatcher.kt": "7EA29ACE90E00A5133DD8B0ED6E6A09E28362D7D9F837ACC26F03F29FF316CC6",
+    "app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeHostService.kt": "B002114CBDA0212CB4723DB28F1A666F6F30997FC3177A923E0EAC34E7B3D4DB",
+    "app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeCarrierWorker.kt": "9DAB3EBF673DD0DF2C0E4BB027E8FC578C5227D9959DE1FF3C5563372757E6EF",
+    "app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeRuntimeBundle.kt": "DADA0A66110348498A2DF65A61EE0B61643C04CDCEE151A750C5C5FBF440DF76",
+    "app/src/main/assets/providers/text-digest/provider.json": "357AB3229950496845399815ACD7EE0B0BCDF9A4E3C66D26ECA51CC33FCE0A68",
+    "app/src/main/assets/providers/text-digest/provider.cjs": "3E4B446A5C0994A08E36ECB0038D3BDD4739440010A776BFA69ABCE61E8ABCE5",
+    "app/src/main/assets/zcode-runtime/bootstrap.cjs": "851A3B0EBE094482C88DE645C313D19E77F90AD8760FA3BFAC4BCB3D1C9367B7",
+    "app/src/main/assets/zcode-runtime/gateway.cjs": "A5DDA32295BF72C3936E4DE8ABD0671649C8179EA7058B3CB1ECAB7E2AE73CF4",
+    "app/src/main/assets/zcode-runtime/runtime-manifest.json": "7D2EAB8D875ADD56474C620F108CE7F9F7E8A66485A6F92B21A3AA2B1D22ADD2",
+    "app/src/main/assets/zcode-runtime/payload-SHA256SUMS.txt": "F8694FF9B829649FED39B9AADFA74E2C437E48404BA535F8C0DDE68CC35417D6"
+  },
+  "origin": "receiving-product source changes; trusted runtime binaries unchanged; existing licensing/source metadata retained"
+}

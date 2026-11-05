@@ -1,0 +1,7 @@
+{
+  "app/src/main/assets/zcode-runtime/bootstrap.cjs": "768588e85c79ffc1b439ecdf2d7df5b1b01827f672f052a3daf085161dde942b",
+  "app/src/main/assets/zcode-runtime/payload-SHA256SUMS.txt": "4eb900732b8fa4e86b443da336fd63450bcc0237157312ddc51380eff798650a",
+  "tools/phase9/subscription-product-acceptance.py": "28e1e227f777c8e500f72d29f1722efdf86515d7df271659bfa6446035215e51",
+  "tools/phase9/core-subscription-protocol-test.cjs": "28f479f0853c373db55d108110a7a519dd82e284c81ba190a827476255793e45",
+  "tools/phase9/subscription-evidence-summary.py": "b85133c44f8815686966e75f608236883c90652554af53eb2a32a6fc31bcdacf"
+}

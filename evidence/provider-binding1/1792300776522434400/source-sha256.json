@@ -1,0 +1,23 @@
+{
+  "app/build.gradle.kts": "a84d7a7f1405db12971261938c9299755bc4d5836652d61d3e0e3db2408bef76",
+  "app/src/main/AndroidManifest.xml": "d97c65f07b2be3a8cc3dc48e302c3da94343505445ae269e035e3c7f0941c9ca",
+  "app/src/main/java/dev/alita/androidagent/AgentApplication.kt": "6cbcbd1bdea6bda1110f8593499724614a98f703f8b4d91b40b6f2df90349d5a",
+  "app/src/main/java/dev/alita/androidagent/execution/IsolatedProviderProcess.java": "9da8085f893152633e7985d82b0a3600bb332664819359e7a17a1eef86a1fa60",
+  "app/src/main/java/dev/alita/androidagent/tools/JsonRpcStdioProvider.kt": "0b1af1c701cf0dfb3c2e34745d867633bf333eca5c80d9232aeade5c284f256e",
+  "app/src/main/java/dev/alita/androidagent/execution/isolation/IsolatedNodeEndpoint.java": "ee97f4a894af78387713acc8247b50dd8f5aad4f4d0dd1a13ef598cb1ce57a8d",
+  "app/src/main/java/dev/alita/androidagent/execution/isolation/IsolatedNodeRuntime.java": "10f0347e84791720372d6ea84f3080b5717d4c0f42073ec8f5c3b64c3ce2df60",
+  "app/src/main/java/dev/alita/androidagent/execution/isolation/IsolatedNodeService.java": "6caa278055bcfebe9d05cc6882e98755478b6bd9d07cd559eae296ca37bf78d2",
+  "app/src/main/java/dev/alita/androidagent/tools/LocalProviderCatalog.kt": "b61bc072c4dda6ed4063ac64570091d02ef6469ec33477e854064b3f0958d83d",
+  "app/src/main/java/dev/alita/androidagent/tools/PinnedIsolatedProvider.kt": "6c8a6b89246098b0ae845c18bd8ed41ddf017ac3fa40b33f95368cf3d483fc23",
+  "app/src/main/java/dev/alita/androidagent/zcode/adapter/AndroidToolContracts.kt": "3a2465e338d335110f5c33c6958baccf1e6f89390c8f0154968491b63694572d",
+  "app/src/main/java/dev/alita/androidagent/zcode/adapter/ReadOnlyToolDispatcher.kt": "370f3d08fa65727798e57f403c5c67d431ee2bc002f0e41bf4d4f0965d961cc6",
+  "app/src/main/java/dev/alita/androidagent/zcode/adapter/ZCodeToolMapping.kt": "0593c8af6cf62639d235b1d6697befa3e0f8d5a5f298ea794cd75a7a9a768b0c",
+  "app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeCarrierWorker.kt": "b3a63c99b7e8571652bf9c5859425ae418dc401e3f98825c6c8f1cb0083dc047",
+  "app/src/isolationTest/AndroidManifest.xml": "a36d31bedb2037a23ff642efe2c6bde4eef8ca81607f500fceb8f09bea8a45ac",
+  "app/src/isolationTest/assets/provider-service-fixture.cjs": "8fa9515aa1f773a9326a6f74c19dddbc53af4624e4cb74b1486e8520c6ac6bea",
+  "app/src/isolationTest/java/dev/alita/androidagent/execution/isolation/BindingProbeActivity.kt": "79393ba99884cc6e4ed2d931c43376d1d3170d8d735a745ca2d831e62a71354f",
+  "app/src/isolationTest/java/dev/alita/androidagent/execution/isolation/ServiceProbeActivity.kt": "b30a3a81034d4c8324542c78b8367769f8b54a7b95d3af131eb7ec0d7d11d2d6",
+  "app/src/main/native/isolated_node.c": "31765dce56fa565072f6b589e57aa02335fc074cd6b1425f5c6d130f5e3310a1",
+  "tools/phase9/prepare-product-isolation.py": "52b793ceeed81eca377e054f24cd56ac167e6403f4c3f81a80eed80e8cc48d70",
+  "tools/phase9/provider-binding-device-acceptance.py": "d08e63258aaf3141999e265c0a802109e4c76428cc421198ae4db2f13e14f166"
+}

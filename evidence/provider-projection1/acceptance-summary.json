@@ -1,0 +1,82 @@
+{
+  "disposition": "PASS_SCOPED_CORE_GATEWAY_PROVIDER_TRANSPORT",
+  "deviceRun": "1792732851631460000",
+  "installedProductSha256": "C51DB531DCC9CB9CB398FAA061E9B53724E099E8456F1D3666A1E4604865C98D",
+  "hostReadiness": "NOT_VERIFIED; no production restart/install or readiness request",
+  "candidateSha256": "5A30BEED7F0A35749B3CF7BC4E7AE3C790B67CE951114F67DB0B2F7AB31BDD64",
+  "previousCandidateSha256": "4B2343D3662DF643F83185E5C62C9B96CB7BD33E5BD4F14917A4F7C57CEF0332",
+  "testApkSha256": "464ACE79BB8F91F4FBCA589F7EAAC0B6349F191E5EE172435A3F3ABCDD625342",
+  "changedApkAssets": [
+    "assets/isolated-provider-runtime.json",
+    "assets/zcode-runtime/bootstrap.cjs",
+    "assets/zcode-runtime/carrier-authorization.cjs",
+    "assets/zcode-runtime/payload-SHA256SUMS.txt",
+    "assets/zcode-runtime/runtime-manifest.json",
+    "assets/zcode-runtime/skill-session-bindings.cjs"
+  ],
+  "addedApkAssets": [
+    "assets/zcode-runtime/provider-review-bindings.cjs"
+  ],
+  "payloadHashRows": 41,
+  "payloadManifestSha256": "0640BA1FB3F540CF1B1C61773A715D84255D6B221B75AC04B99352A28B51A52D",
+  "runtimeManifestSha256": "C319EC51E8AEA1426C34D24EF41B9BDE087D5D3D2952F1494EBAE62E9FD4EF02",
+  "unitTests": {
+    "tests": 118,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "hostBoundary": {
+    "tests": 36,
+    "passed": 35,
+    "failed": 0,
+    "skipped": 1,
+    "skipReason": "Windows file symlink privilege unavailable"
+  },
+  "androidBoundary": {
+    "tests": 36,
+    "passed": 36,
+    "failed": 0,
+    "skipped": 0
+  },
+  "settlementRegressionChecks": 22,
+  "lint": {
+    "errors": 0,
+    "warnings": 28
+  },
+  "physicalReports": [
+    {
+      "callId": "call_mvkiuuu9s5poh9",
+      "sessionId": "sess_41de324c-15a7-48de-81d9-cf498c007d92",
+      "operationId": 4,
+      "version": "v1",
+      "uid": 99076,
+      "pid": 22363,
+      "artifactSha256": "233ECE275A8A6D3D0B9458B9D22C359E4BE7DA302674579D819D45707D3FDAD3"
+    },
+    {
+      "callId": "call_mvkiuvefaa72gg",
+      "sessionId": "sess_41de324c-15a7-48de-81d9-cf498c007d92",
+      "operationId": 5,
+      "version": "v1",
+      "uid": 99077,
+      "pid": 22427,
+      "artifactSha256": "3F47BCDC9B0032B0F950994C2B3F90ADD9317EDD6D089CF7316D19F3C4BDE2E6"
+    },
+    {
+      "callId": "call_mvkiuw1edcu4ml",
+      "sessionId": "sess_e8093f73-df96-4293-b8c6-c6d2a1b81af0",
+      "operationId": 6,
+      "version": "v2",
+      "uid": 99078,
+      "pid": 22484,
+      "artifactSha256": "3D02DDF7AFD142AC9B17C10E43FBCC18B468CEE5821007BFD0A6BAFED40B8950"
+    }
+  ],
+  "remaining": [
+    "Explicit user provider review/admission UI and startup enrollment",
+    "Real model-issued imported provider tool call/final answer",
+    "Full host/force-stop restart and imported-provider cancellation acceptance",
+    "Production APK installation and final acceptance"
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "id": "device_info",
+  "version": "1.0.0",
+  "command": ["/system/bin/sh", "${DIR}/provider.sh"]
+}

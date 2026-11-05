@@ -1,0 +1,58 @@
+{
+  "disposition": "PASS_SCOPED_ACTUAL_CATALOG_REVIEW_AND_SESSION_RESOLVER_EXECUTION; NOT_MODEL_GATEWAY_ACCEPTANCE",
+  "candidateSha256": "4B2343D3662DF643F83185E5C62C9B96CB7BD33E5BD4F14917A4F7C57CEF0332",
+  "installedProductSha256": "C51DB531DCC9CB9CB398FAA061E9B53724E099E8456F1D3666A1E4604865C98D",
+  "previousCandidateSha256": "8D0998B273F689FDEE771BA505BACF080324D1689A6C70EF0969FE385E89B132",
+  "changedApkAssets": [
+    "assets/isolated-provider-runtime.json",
+    "assets/zcode-runtime/payload-SHA256SUMS.txt",
+    "assets/zcode-runtime/runtime-manifest.json"
+  ],
+  "payloadHashRows": 40,
+  "unitTests": {
+    "tests": 118,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "lint": {
+    "errors": 0,
+    "warnings": 28
+  },
+  "newReviewUnitTests": 12,
+  "physicalArtifactReports": 3,
+  "versionSequence": [
+    "v1",
+    "v1",
+    "v2"
+  ],
+  "testApkSha256": "299A6E9F2C342488C34598071B3E4B2E89946B868C263D99E3ADD2AC0E7D5372",
+  "deviceRun": "1792729522969096400",
+  "sourceHashes": {
+    "tools/phase9/provider-review-device-acceptance.py": "CAE15778E12C6F450AFD789FE8744EB4A813EA6255E5C425A1B1A6B96F888F28",
+    "tools/phase9/provider-review-evidence-summary.py": "D358E678F8D6C198ED498C536916AC1D4A467ACAEE127846EE9CC9E7D070945D",
+    "app/src/main/java/dev/alita/androidagent/AgentApplication.kt": "B07234ACE2B9A493D4E201D08419FF4F0C3B2C479ACAC9010E8A384FE6A062BD",
+    "app/src/main/java/dev/alita/androidagent/tools/LocalProviderCatalog.kt": "AD7C50E670D4CA7F140FDC4DD7B0F63A0A14B5F03D051B98C4B0C92F05DDEF20",
+    "app/src/main/java/dev/alita/androidagent/tools/PinnedIsolatedProvider.kt": "45AC70BFBB5E9BB134A0A6D127DA2718BBA7D3A1D66F10EB64538B1CB7C90180",
+    "app/src/main/java/dev/alita/androidagent/tools/ProviderReviewStore.kt": "D710ABC89EA85B8481319DF3A12A96E2885B38F666B11AA2D2301EB4945041C0",
+    "app/src/main/java/dev/alita/androidagent/zcode/adapter/AndroidToolContracts.kt": "890661A1D6D8569742667CC9F492FCE72758826965CAF54F598C09C5D4DC5B5D",
+    "app/src/main/java/dev/alita/androidagent/zcode/adapter/ReadOnlyToolDispatcher.kt": "D419FA7C5E0327EBC6A5D47C987D42406E51F122231AC90EE41F399C4D23BF07",
+    "app/src/main/java/dev/alita/androidagent/zcode/adapter/ZCodeToolMapping.kt": "F51A4F11B68B59ECE433CA79FA2A45FB195E57323C8CDFCEE2D553E256FA7768",
+    "app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeCarrierWorker.kt": "4B428DCCB1EA5BD02F4BB472F2C08BD28BDF6A205DACA73283618196B509C211",
+    "app/src/test/java/dev/alita/androidagent/ProviderReviewStoreTest.kt": "F305A5975AFB7A6D88566950E85B9B7F5371BCF8EA708D1BDD6CEB2F384EF9FE",
+    "app/src/isolationTest/java/dev/alita/androidagent/execution/isolation/ReviewProbeActivity.kt": "8A766E624696DB1C8D83E36029F01BC10FB55C4A3F1ABC4D3245B22A058E25C5",
+    "app/src/isolationTest/AndroidManifest.xml": "FF6507C3333F2E97B67BE61F9130FFA1836C476FC1FE71E4FCB98CF9813FBF6C"
+  },
+  "installedHostPostflight": {
+    "apkSha256": "C51DB531DCC9CB9CB398FAA061E9B53724E099E8456F1D3666A1E4604865C98D",
+    "phase": "UNAVAILABLE_NO_HTTP_RESPONSE",
+    "errorType": "RemoteDisconnected",
+    "readiness": "NOT_VERIFIED; no HTTP response on read-only postflight, no production restart performed this increment"
+  },
+  "remaining": [
+    "Production bootstrap verifier/selection adapter and old-session carrier metadata routing",
+    "Explicit user review UI and startup registration",
+    "Real model/carrier/Dispatcher/Gateway/provider/artifact vertical acceptance",
+    "Production installation"
+  ]
+}

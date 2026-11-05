@@ -1,0 +1,12 @@
+{
+  "app/src/main/java/dev/alita/androidagent/execution/IsolatedProviderProcess.java": "9da8085f893152633e7985d82b0a3600bb332664819359e7a17a1eef86a1fa60",
+  "experiments/provider-isolation/src/main/java/dev/alita/providerprobe/BinderNodeEndpoint.java": "5e0a78b088b0abf29a410ad717798d36f297ac6b4b259e2918facf97c62ca84c",
+  "experiments/provider-isolation/src/main/java/dev/alita/providerprobe/IsolatedNodeService.java": "49db0c31fe40f93dddcc97d3a0fef4bbec03c1b38c93019369c2159989335a2d",
+  "experiments/provider-isolation/src/main/java/dev/alita/providerprobe/ProbeActivity.java": "e80b823882a87b18f782242f9c0fe33c90b7dca906783a16ed24749847a70dfb",
+  "experiments/provider-isolation/src/main/native/node_probe.c": "47a6f8f50ffee955380c49c01f0b70b1a5c1ca39c5691e0d2f1830176fe1c46d",
+  "experiments/provider-isolation/src/main/AndroidManifest.xml": "0a1334b8ba9e4ffecfdf73727cf43e68defa3bfcc4d4a821801cd3cb8b5963d6",
+  "experiments/provider-isolation/build.gradle.kts": "cbdd63c2da8419ebbedc42ffacc41285984701d013144a1531d5bba394d8ff85",
+  "experiments/provider-isolation/src/main/assets/probe-provider.cjs": "6c163a5878fa7c5859d0b61e609199de55f83f10d42e49c7122689d3bb43d5a8",
+  "tools/phase9/provider-isolation-device-probe.py": "0ba0a4a6d54204d55f6215b647940a8edce59b923162b7a1ab188485c7d85988",
+  "tools/phase9/prepare-provider-isolation-probe.py": "217562b7b5f1432ad796304da6238f9c012434e93608b27747c8d78788229a82"
+}

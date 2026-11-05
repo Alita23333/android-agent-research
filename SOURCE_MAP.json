@@ -1,0 +1,2480 @@
+[
+  {
+    "originalPath": "app/src/androidTest/AndroidManifest.xml",
+    "publishedPath": "app/src/androidTest/AndroidManifest.xml",
+    "originalSha256": "46759ac3fa844add06d0a373b83516fffccf2bb40e3f32fe89b8d4a2fc93df8e",
+    "publishedSha256": "46759ac3fa844add06d0a373b83516fffccf2bb40e3f32fe89b8d4a2fc93df8e",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/debug/AndroidManifest.xml",
+    "publishedPath": "app/src/debug/AndroidManifest.xml",
+    "originalSha256": "3c2f4d9462353d78f345505b3e7430316c3760642dc78171c47480627fbc9558",
+    "publishedSha256": "3c2f4d9462353d78f345505b3e7430316c3760642dc78171c47480627fbc9558",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/isolationTest/AndroidManifest.xml",
+    "publishedPath": "app/src/isolationTest/AndroidManifest.xml",
+    "originalSha256": "9543f13cd01f9799019270dfe06cdcc60fc05aebe1bb33fe4478f28baa87855d",
+    "publishedSha256": "9543f13cd01f9799019270dfe06cdcc60fc05aebe1bb33fe4478f28baa87855d",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/AndroidManifest.xml",
+    "publishedPath": "app/src/main/AndroidManifest.xml",
+    "originalSha256": "d97c65f07b2be3a8cc3dc48e302c3da94343505445ae269e035e3c7f0941c9ca",
+    "publishedSha256": "d97c65f07b2be3a8cc3dc48e302c3da94343505445ae269e035e3c7f0941c9ca",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/androidTest/java/dev/alita/androidagent/CoreSkillPackageDeviceTest.kt",
+    "publishedPath": "app/src/androidTest/java/dev/alita/androidagent/CoreSkillPackageDeviceTest.kt",
+    "originalSha256": "8e0e3b3554283b79c6d36002cb14137a84df500a995a4675e94374248650505f",
+    "publishedSha256": "8e0e3b3554283b79c6d36002cb14137a84df500a995a4675e94374248650505f",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/androidTest/java/dev/alita/androidagent/LocalProviderDeviceTest.kt",
+    "publishedPath": "app/src/androidTest/java/dev/alita/androidagent/LocalProviderDeviceTest.kt",
+    "originalSha256": "dd0647e5aa91020f40f54d35650f2f6025361c0c21c6ceff23278de5c627d78d",
+    "publishedSha256": "dd0647e5aa91020f40f54d35650f2f6025361c0c21c6ceff23278de5c627d78d",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/androidTest/java/dev/alita/androidagent/LocalProviderPackageDeviceTest.kt",
+    "publishedPath": "app/src/androidTest/java/dev/alita/androidagent/LocalProviderPackageDeviceTest.kt",
+    "originalSha256": "3f91ef9c661e334a1c976189a43f5f3f14826edb985a217fb9e18e4e370f6761",
+    "publishedSha256": "3f91ef9c661e334a1c976189a43f5f3f14826edb985a217fb9e18e4e370f6761",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/androidTest/java/dev/alita/androidagent/ManagedProviderModelFixtureTest.kt",
+    "publishedPath": "app/src/androidTest/java/dev/alita/androidagent/ManagedProviderModelFixtureTest.kt",
+    "originalSha256": "71fa4d05a8eeb1bb78384c731014ba661a54145f4e8aac756d61267d6c8d4797",
+    "publishedSha256": "71fa4d05a8eeb1bb78384c731014ba661a54145f4e8aac756d61267d6c8d4797",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/androidTest/java/dev/alita/androidagent/ManagedSkillBindingFixtureTest.kt",
+    "publishedPath": "app/src/androidTest/java/dev/alita/androidagent/ManagedSkillBindingFixtureTest.kt",
+    "originalSha256": "7e9655ac8a8383863a62e312933c03146b0f3c13bd76d84834c53449c3801ddc",
+    "publishedSha256": "7e9655ac8a8383863a62e312933c03146b0f3c13bd76d84834c53449c3801ddc",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/androidTest/java/dev/alita/androidagent/SkillFixtureDocumentsProvider.java",
+    "publishedPath": "app/src/androidTest/java/dev/alita/androidagent/SkillFixtureDocumentsProvider.java",
+    "originalSha256": "d0d5e443de176b4e82d3114c60a7765904fc0f319b447298dec693ff6d86c84f",
+    "publishedSha256": "d0d5e443de176b4e82d3114c60a7765904fc0f319b447298dec693ff6d86c84f",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/androidTest/java/dev/alita/androidagent/SkillManagerUiDeviceTest.kt",
+    "publishedPath": "app/src/androidTest/java/dev/alita/androidagent/SkillManagerUiDeviceTest.kt",
+    "originalSha256": "16106d1f9f17582f59a9df6cecc48053fb1efae4ed9704e4e9e17ccc74d0ee2a",
+    "publishedSha256": "16106d1f9f17582f59a9df6cecc48053fb1efae4ed9704e4e9e17ccc74d0ee2a",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/androidTest/java/dev/alita/androidagent/TestDeviceTarget.java",
+    "publishedPath": "app/src/androidTest/java/dev/alita/androidagent/TestDeviceTarget.java",
+    "originalSha256": "317975be2f87dd00522192980b5d01c5088bb04b35502676c710a94a351720ed",
+    "publishedSha256": "9d3cfbd9993698c1ab4be3e0bd085e2d4bbd249854c11db181511eb259a5f414",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "app/src/androidTest/java/dev/alita/androidagent/ZCodeDeviceIntegrationTest.kt",
+    "publishedPath": "app/src/androidTest/java/dev/alita/androidagent/ZCodeDeviceIntegrationTest.kt",
+    "originalSha256": "2b25363b78a120cb7369dce9d7eb601ec54855893370a4131d64cdfb9c2682e9",
+    "publishedSha256": "2b25363b78a120cb7369dce9d7eb601ec54855893370a4131d64cdfb9c2682e9",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/debug/java/dev/alita/androidagent/zcode/runtime/LongListActivity.kt",
+    "publishedPath": "app/src/debug/java/dev/alita/androidagent/zcode/runtime/LongListActivity.kt",
+    "originalSha256": "0a7c8fa339641bb23947bc73940c96761f878917fa60d2c392a80fa7a2e7f144",
+    "publishedSha256": "0a7c8fa339641bb23947bc73940c96761f878917fa60d2c392a80fa7a2e7f144",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/debug/java/dev/alita/androidagent/zcode/runtime/UiLabActivity.kt",
+    "publishedPath": "app/src/debug/java/dev/alita/androidagent/zcode/runtime/UiLabActivity.kt",
+    "originalSha256": "b72dd374bbc08d5e841d32eeeed66e8e48087ec64b61fdf24534f054df999c8c",
+    "publishedSha256": "b72dd374bbc08d5e841d32eeeed66e8e48087ec64b61fdf24534f054df999c8c",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/isolationTest/assets/provider-service-fixture.cjs",
+    "publishedPath": "app/src/isolationTest/assets/provider-service-fixture.cjs",
+    "originalSha256": "8fa9515aa1f773a9326a6f74c19dddbc53af4624e4cb74b1486e8520c6ac6bea",
+    "publishedSha256": "8fa9515aa1f773a9326a6f74c19dddbc53af4624e4cb74b1486e8520c6ac6bea",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/isolationTest/java/dev/alita/androidagent/TestDeviceTarget.java",
+    "publishedPath": "app/src/isolationTest/java/dev/alita/androidagent/TestDeviceTarget.java",
+    "originalSha256": "317975be2f87dd00522192980b5d01c5088bb04b35502676c710a94a351720ed",
+    "publishedSha256": "9d3cfbd9993698c1ab4be3e0bd085e2d4bbd249854c11db181511eb259a5f414",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "app/src/isolationTest/java/dev/alita/androidagent/execution/isolation/AdmissionProbeActivity.kt",
+    "publishedPath": "app/src/isolationTest/java/dev/alita/androidagent/execution/isolation/AdmissionProbeActivity.kt",
+    "originalSha256": "5eed041b04aeacc3cf39726eaba879632ceff0d74b9230cf10c1ea81da5fc550",
+    "publishedSha256": "5eed041b04aeacc3cf39726eaba879632ceff0d74b9230cf10c1ea81da5fc550",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/isolationTest/java/dev/alita/androidagent/execution/isolation/BindingProbeActivity.kt",
+    "publishedPath": "app/src/isolationTest/java/dev/alita/androidagent/execution/isolation/BindingProbeActivity.kt",
+    "originalSha256": "39049968d2f410d1a7807d1e4fdec50daa6f92dc80063e133bd7396915cf4306",
+    "publishedSha256": "39049968d2f410d1a7807d1e4fdec50daa6f92dc80063e133bd7396915cf4306",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/isolationTest/java/dev/alita/androidagent/execution/isolation/HostLifecycleProbeActivity.kt",
+    "publishedPath": "app/src/isolationTest/java/dev/alita/androidagent/execution/isolation/HostLifecycleProbeActivity.kt",
+    "originalSha256": "7a34b76de3463a2fa7ab072c1c5164315bbebfca6c12f885aba36354750a89b4",
+    "publishedSha256": "7a34b76de3463a2fa7ab072c1c5164315bbebfca6c12f885aba36354750a89b4",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/isolationTest/java/dev/alita/androidagent/execution/isolation/ProjectionProbeActivity.kt",
+    "publishedPath": "app/src/isolationTest/java/dev/alita/androidagent/execution/isolation/ProjectionProbeActivity.kt",
+    "originalSha256": "7633dd64b0eec1d6e2627c85829de7c404a5e85a1bf07b8d6b956ab1354bd70e",
+    "publishedSha256": "7633dd64b0eec1d6e2627c85829de7c404a5e85a1bf07b8d6b956ab1354bd70e",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/isolationTest/java/dev/alita/androidagent/execution/isolation/ReviewProbeActivity.kt",
+    "publishedPath": "app/src/isolationTest/java/dev/alita/androidagent/execution/isolation/ReviewProbeActivity.kt",
+    "originalSha256": "af541f8cd46eb8f0027a027ceafdaac53e5e0a4f8c2bf8d4aadde913648a3100",
+    "publishedSha256": "af541f8cd46eb8f0027a027ceafdaac53e5e0a4f8c2bf8d4aadde913648a3100",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/isolationTest/java/dev/alita/androidagent/execution/isolation/ServiceProbeActivity.kt",
+    "publishedPath": "app/src/isolationTest/java/dev/alita/androidagent/execution/isolation/ServiceProbeActivity.kt",
+    "originalSha256": "23f52a2df782fdac65d302cbb5e521e5969650ce9b440300579566498ab0e1d9",
+    "publishedSha256": "23f52a2df782fdac65d302cbb5e521e5969650ce9b440300579566498ab0e1d9",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/assets/zcode-runtime/analysis-worker.cjs",
+    "publishedPath": "app/src/main/assets/zcode-runtime/analysis-worker.cjs",
+    "originalSha256": "be6c2484fe582218387b759867425e308cf0eebe013350cd23ababe53794fe28",
+    "publishedSha256": "be6c2484fe582218387b759867425e308cf0eebe013350cd23ababe53794fe28",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/assets/zcode-runtime/android-carrier.cjs",
+    "publishedPath": "app/src/main/assets/zcode-runtime/android-carrier.cjs",
+    "originalSha256": "8453662e1ba721fa8c622672e9f6d13fbe6d850e54e4d23e70e1d38ff7f0ea0c",
+    "publishedSha256": "8453662e1ba721fa8c622672e9f6d13fbe6d850e54e4d23e70e1d38ff7f0ea0c",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/assets/zcode-runtime/bootstrap.cjs",
+    "publishedPath": "app/src/main/assets/zcode-runtime/bootstrap.cjs",
+    "originalSha256": "768588e85c79ffc1b439ecdf2d7df5b1b01827f672f052a3daf085161dde942b",
+    "publishedSha256": "768588e85c79ffc1b439ecdf2d7df5b1b01827f672f052a3daf085161dde942b",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/assets/zcode-runtime/payload-SHA256SUMS.txt",
+    "publishedPath": "app/src/main/assets/zcode-runtime/payload-SHA256SUMS.txt",
+    "originalSha256": "4eb900732b8fa4e86b443da336fd63450bcc0237157312ddc51380eff798650a",
+    "publishedSha256": "4eb900732b8fa4e86b443da336fd63450bcc0237157312ddc51380eff798650a",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/assets/zcode-runtime/provider-review-bindings.cjs",
+    "publishedPath": "app/src/main/assets/zcode-runtime/provider-review-bindings.cjs",
+    "originalSha256": "275abdc6361d67d380591e9affb071eafe38fa994b0a4092bdf63aeda16aeeca",
+    "publishedSha256": "275abdc6361d67d380591e9affb071eafe38fa994b0a4092bdf63aeda16aeeca",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/assets/zcode-runtime/runtime-manifest.json",
+    "publishedPath": "app/src/main/assets/zcode-runtime/runtime-manifest.json",
+    "originalSha256": "9b57799106a343717b8fdddbe19723cdb0d3d01403784251e5842076d7948dc4",
+    "publishedSha256": "9b57799106a343717b8fdddbe19723cdb0d3d01403784251e5842076d7948dc4",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/assets/zcode-runtime/skill-session-bindings.cjs",
+    "publishedPath": "app/src/main/assets/zcode-runtime/skill-session-bindings.cjs",
+    "originalSha256": "11fcb764319a46b109b5e0a0d8a1e7edeb661190e84c542db2642952987a8307",
+    "publishedSha256": "11fcb764319a46b109b5e0a0d8a1e7edeb661190e84c542db2642952987a8307",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/assets/zcode-runtime/vision-pipeline.cjs",
+    "publishedPath": "app/src/main/assets/zcode-runtime/vision-pipeline.cjs",
+    "originalSha256": "4bd2e3d62472a70a5d4f16ba29d14284f79ccb2ebaa83abe14459cc7ba158db6",
+    "publishedSha256": "4bd2e3d62472a70a5d4f16ba29d14284f79ccb2ebaa83abe14459cc7ba158db6",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/assets/zcode-runtime/web-search.cjs",
+    "publishedPath": "app/src/main/assets/zcode-runtime/web-search.cjs",
+    "originalSha256": "e5bbe82fdf35a655355a92aba4217b6cae2d844e773dbb1874c5418fedb4f693",
+    "publishedSha256": "e5bbe82fdf35a655355a92aba4217b6cae2d844e773dbb1874c5418fedb4f693",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/assets/zcode-runtime/workspace-analysis.cjs",
+    "publishedPath": "app/src/main/assets/zcode-runtime/workspace-analysis.cjs",
+    "originalSha256": "adc47b89b8808299b5108aae879821c14a935551acc256e1b0131c81ecf27132",
+    "publishedSha256": "adc47b89b8808299b5108aae879821c14a935551acc256e1b0131c81ecf27132",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/assets/providers/device-info/provider.json",
+    "publishedPath": "app/src/main/assets/providers/device-info/provider.json",
+    "originalSha256": "bf6dbde1bb28b6994b9dec3134b0fd310fba0ec6117d8785457f976dac081a48",
+    "publishedSha256": "bf6dbde1bb28b6994b9dec3134b0fd310fba0ec6117d8785457f976dac081a48",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/assets/providers/device-info/provider.sh",
+    "publishedPath": "app/src/main/assets/providers/device-info/provider.sh",
+    "originalSha256": "e19d0c97330e820fcdd4bc6576a9f795736902243a081a65a671a4ac7404d0d5",
+    "publishedSha256": "e19d0c97330e820fcdd4bc6576a9f795736902243a081a65a671a4ac7404d0d5",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/assets/providers/text-digest/provider.cjs",
+    "publishedPath": "app/src/main/assets/providers/text-digest/provider.cjs",
+    "originalSha256": "3e4b446a5c0994a08e36ecb0038d3bdd4739440010a776bfa69abce61e8abce5",
+    "publishedSha256": "3e4b446a5c0994a08e36ecb0038d3bdd4739440010a776bfa69abce61e8abce5",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/assets/providers/text-digest/provider.json",
+    "publishedPath": "app/src/main/assets/providers/text-digest/provider.json",
+    "originalSha256": "357ab3229950496845399815acd7ee0b0bcdf9a4e3c66d26eca51cc33fce0a68",
+    "publishedSha256": "357ab3229950496845399815acd7ee0b0bcdf9a4e3c66d26eca51cc33fce0a68",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/assets/zcode-runtime/contracts/config-disable-pack.json",
+    "publishedPath": "app/src/main/assets/zcode-runtime/contracts/config-disable-pack.json",
+    "originalSha256": "aba9fd6f38ba754f86bab0f7ce8610377c7663cf918f580eef480f3240c1ed0e",
+    "publishedSha256": "aba9fd6f38ba754f86bab0f7ce8610377c7663cf918f580eef480f3240c1ed0e",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/assets/zcode-runtime/contracts/hard-confirm-pack.json",
+    "publishedPath": "app/src/main/assets/zcode-runtime/contracts/hard-confirm-pack.json",
+    "originalSha256": "c511457a86d3329172db96821662287c28bc38592b0dfc3b6aebb5d73e0acd83",
+    "publishedSha256": "c511457a86d3329172db96821662287c28bc38592b0dfc3b6aebb5d73e0acd83",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/assets/zcode-runtime/contracts/journal.sql",
+    "publishedPath": "app/src/main/assets/zcode-runtime/contracts/journal.sql",
+    "originalSha256": "86867f08766fddf07fcfd91d15ec541a30d30bfb00f56daaf528a442ebec271b",
+    "publishedSha256": "86867f08766fddf07fcfd91d15ec541a30d30bfb00f56daaf528a442ebec271b",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/AgentApplication.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/AgentApplication.kt",
+    "originalSha256": "640d46a3c58b2c9347b74421a2a376afff8a1b407ab018fa4e53ee1cf7ab6e39",
+    "publishedSha256": "640d46a3c58b2c9347b74421a2a376afff8a1b407ab018fa4e53ee1cf7ab6e39",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/MainActivity.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/MainActivity.kt",
+    "originalSha256": "3baa252ea7c69877011584fcf8f968627e51279d5175eed389bc6d70690bf5e0",
+    "publishedSha256": "3baa252ea7c69877011584fcf8f968627e51279d5175eed389bc6d70690bf5e0",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/MainViewModel.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/MainViewModel.kt",
+    "originalSha256": "8e4ce94b3237885bd7f27aecfc69e91ec0a6572400f7075c36a430ce80be6469",
+    "publishedSha256": "8e4ce94b3237885bd7f27aecfc69e91ec0a6572400f7075c36a430ce80be6469",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/ProviderManagementScreen.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/ProviderManagementScreen.kt",
+    "originalSha256": "eb2e1bdc17b15aa70e84d5a81b72bd7dedf7c8833ae46dbe436b89a3ad2bd850",
+    "publishedSha256": "eb2e1bdc17b15aa70e84d5a81b72bd7dedf7c8833ae46dbe436b89a3ad2bd850",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/core/AgentEngine.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/core/AgentEngine.kt",
+    "originalSha256": "465bf3827ddee77bae9752623cc546865108870bc200d0c125443596086f313a",
+    "publishedSha256": "465bf3827ddee77bae9752623cc546865108870bc200d0c125443596086f313a",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/core/ContextAssembler.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/core/ContextAssembler.kt",
+    "originalSha256": "4dc3ec32f0cc6fd6153a67577d9aa8922f541fc77e857ec0237ee2b28b60ca9e",
+    "publishedSha256": "4dc3ec32f0cc6fd6153a67577d9aa8922f541fc77e857ec0237ee2b28b60ca9e",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/core/Domain.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/core/Domain.kt",
+    "originalSha256": "5f2031cf0b2f00b746fa002d78e8ddbf8911be91ce8e75f7da0c708879f9116f",
+    "publishedSha256": "5f2031cf0b2f00b746fa002d78e8ddbf8911be91ce8e75f7da0c708879f9116f",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/core/Storage.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/core/Storage.kt",
+    "originalSha256": "1bd2ae0232b17eea7746bbcd726c4cd29649528831fa615cab93817ae904b59a",
+    "publishedSha256": "1bd2ae0232b17eea7746bbcd726c4cd29649528831fa615cab93817ae904b59a",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/core/Tooling.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/core/Tooling.kt",
+    "originalSha256": "844809ad7dcc09b73c50ee3f3b9998315d27125b029383f9729d16ec43db8425",
+    "publishedSha256": "844809ad7dcc09b73c50ee3f3b9998315d27125b029383f9729d16ec43db8425",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/device/DeviceToolProvider.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/device/DeviceToolProvider.kt",
+    "originalSha256": "f06cd77a97e525915afe0e5bb364a4e6beea228874a09d639ab14206adad70a9",
+    "publishedSha256": "f06cd77a97e525915afe0e5bb364a4e6beea228874a09d639ab14206adad70a9",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/execution/Execution.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/execution/Execution.kt",
+    "originalSha256": "c526acbdcc1afe4f90170768d46e2b7ac2e104cb0318fba2151dd71c5644dc22",
+    "publishedSha256": "c526acbdcc1afe4f90170768d46e2b7ac2e104cb0318fba2151dd71c5644dc22",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/model/OpenAiCompatibleProvider.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/model/OpenAiCompatibleProvider.kt",
+    "originalSha256": "ac8cdec15077356506671a9729b30ced3e4076dddff231097d3d4be5d9643787",
+    "publishedSha256": "ac8cdec15077356506671a9729b30ced3e4076dddff231097d3d4be5d9643787",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/model/SecureSettings.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/model/SecureSettings.kt",
+    "originalSha256": "c53dbd234c3d0d21b144da4221675e1de55aade754ebc171fba743b8e58b71c1",
+    "publishedSha256": "c53dbd234c3d0d21b144da4221675e1de55aade754ebc171fba743b8e58b71c1",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/runtime/AgentForegroundService.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/runtime/AgentForegroundService.kt",
+    "originalSha256": "eb48acf715ee004bebf6dde0f328cb234ebed6473e76e37dc72fd01450be8d85",
+    "publishedSha256": "eb48acf715ee004bebf6dde0f328cb234ebed6473e76e37dc72fd01450be8d85",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/runtime/UiApprovalGateway.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/runtime/UiApprovalGateway.kt",
+    "originalSha256": "89359c423d10dabc4e25f9a0697440ac20c6f9b21a43f9d3b76090e7ee8d15f9",
+    "publishedSha256": "89359c423d10dabc4e25f9a0697440ac20c6f9b21a43f9d3b76090e7ee8d15f9",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/skills/Skills.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/skills/Skills.kt",
+    "originalSha256": "452ea13642c2182c67802080e6ace1e48d7a6284d6b463d40cf867ec2496a4f9",
+    "publishedSha256": "452ea13642c2182c67802080e6ace1e48d7a6284d6b463d40cf867ec2496a4f9",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/tools/BuiltinTools.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/tools/BuiltinTools.kt",
+    "originalSha256": "b53bdcaaecff1696bdfa37382bc27577ed203070f10ad9659cfb5ab25c3399f4",
+    "publishedSha256": "b53bdcaaecff1696bdfa37382bc27577ed203070f10ad9659cfb5ab25c3399f4",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/tools/JsonRpcStdioProvider.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/tools/JsonRpcStdioProvider.kt",
+    "originalSha256": "0b1af1c701cf0dfb3c2e34745d867633bf333eca5c80d9232aeade5c284f256e",
+    "publishedSha256": "0b1af1c701cf0dfb3c2e34745d867633bf333eca5c80d9232aeade5c284f256e",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/tools/LocalProviderCatalog.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/tools/LocalProviderCatalog.kt",
+    "originalSha256": "ad7c50e670d4ca7f140fdc4dd7b0f63a0a14b5f03d051b98c4b0c92f05ddef20",
+    "publishedSha256": "ad7c50e670d4ca7f140fdc4dd7b0f63a0a14b5f03d051b98c4b0c92f05ddef20",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/tools/LocalToolProtocol.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/tools/LocalToolProtocol.kt",
+    "originalSha256": "fcaf7c30edb3123f52390a984c3233932f9c28daacc91036789b8ee3110f85a3",
+    "publishedSha256": "fcaf7c30edb3123f52390a984c3233932f9c28daacc91036789b8ee3110f85a3",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/tools/PinnedIsolatedProvider.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/tools/PinnedIsolatedProvider.kt",
+    "originalSha256": "45ac70bfbb5e9bb134a0a6d127da2718bba7d3a1d66f10eb64538b1cb7c90180",
+    "publishedSha256": "45ac70bfbb5e9bb134a0a6d127da2718bba7d3a1d66f10eb64538b1cb7c90180",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/tools/ProviderAdmissionController.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/tools/ProviderAdmissionController.kt",
+    "originalSha256": "c89b686d7d3acab40f3bd643408c8c03f2d7951ff8a605504224fc2c0b4bb3f3",
+    "publishedSha256": "c89b686d7d3acab40f3bd643408c8c03f2d7951ff8a605504224fc2c0b4bb3f3",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/tools/ProviderReviewStore.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/tools/ProviderReviewStore.kt",
+    "originalSha256": "3c80c6e81296c2bd18822b996f316db606d3c8083ea3bdb32ac545fab73d0d6e",
+    "publishedSha256": "3c80c6e81296c2bd18822b996f316db606d3c8083ea3bdb32ac545fab73d0d6e",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/zcode/adapter/AndroidToolContracts.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/zcode/adapter/AndroidToolContracts.kt",
+    "originalSha256": "890661a1d6d8569742667cc9f492fce72758826965caf54f598c09c5d4dc5b5d",
+    "publishedSha256": "890661a1d6d8569742667cc9f492fce72758826965caf54f598c09c5d4dc5b5d",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/zcode/adapter/ReadOnlyToolDispatcher.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/zcode/adapter/ReadOnlyToolDispatcher.kt",
+    "originalSha256": "d419fa7c5e0327ebc6a5d47c987d42406e51f122231ac90ee41f399c4d23bf07",
+    "publishedSha256": "d419fa7c5e0327ebc6a5d47c987d42406e51f122231ac90ee41f399c4d23bf07",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/zcode/adapter/ZCodeToolMapping.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/zcode/adapter/ZCodeToolMapping.kt",
+    "originalSha256": "f51a4f11b68b59ece433ca79fa2a45fb195e57323c8cdfcee2d553e256fa7768",
+    "publishedSha256": "f51a4f11b68b59ece433ca79fa2a45fb195e57323c8cdfcee2d553e256fa7768",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/zcode/capability/Capability.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/zcode/capability/Capability.kt",
+    "originalSha256": "ee10986781b21da4bc267aa15a7e2ab84b000f488a66851b8b7783f4a6b10764",
+    "publishedSha256": "ee10986781b21da4bc267aa15a7e2ab84b000f488a66851b8b7783f4a6b10764",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/zcode/capability/EnhancedProviders.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/zcode/capability/EnhancedProviders.kt",
+    "originalSha256": "3fdf0909596df4051c46f6bd1dd9c139f09896b05c2eecb84b89311e01d9a134",
+    "publishedSha256": "3fdf0909596df4051c46f6bd1dd9c139f09896b05c2eecb84b89311e01d9a134",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/zcode/capability/StandardAndroidProvider.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/zcode/capability/StandardAndroidProvider.kt",
+    "originalSha256": "d9790d409bbcf87e3f122786574dfeaf9397204afe036fd3415adb9f608820bb",
+    "publishedSha256": "d9790d409bbcf87e3f122786574dfeaf9397204afe036fd3415adb9f608820bb",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/zcode/runtime/WorkspaceActivity.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/zcode/runtime/WorkspaceActivity.kt",
+    "originalSha256": "48d0e7bdaa55c78ab26140b35f5f59d77cc09295c62f908ed0031fe465624b39",
+    "publishedSha256": "48d0e7bdaa55c78ab26140b35f5f59d77cc09295c62f908ed0031fe465624b39",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeActivity.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeActivity.kt",
+    "originalSha256": "c8a7cea60c0fdc2a68072fa003dd548f0498d5be970ca7bb00f0b92558929e53",
+    "publishedSha256": "c8a7cea60c0fdc2a68072fa003dd548f0498d5be970ca7bb00f0b92558929e53",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeCarrierWorker.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeCarrierWorker.kt",
+    "originalSha256": "0c3703ad258c2a412bd0f8123faa1bfeb0c62d5727d9d9d6f44fffc2e399ad50",
+    "publishedSha256": "0c3703ad258c2a412bd0f8123faa1bfeb0c62d5727d9d9d6f44fffc2e399ad50",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeGatewayClient.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeGatewayClient.kt",
+    "originalSha256": "f3e20a8a143301202155a233fad2c4e22a51420311d005fbc538ce3d3107beb9",
+    "publishedSha256": "f3e20a8a143301202155a233fad2c4e22a51420311d005fbc538ce3d3107beb9",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeHostService.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeHostService.kt",
+    "originalSha256": "b68ea3e95b245ffc53b1e6e0a0ba6bbf6fb36eaf4bd5c14fb915ecaea8dcbcb3",
+    "publishedSha256": "b68ea3e95b245ffc53b1e6e0a0ba6bbf6fb36eaf4bd5c14fb915ecaea8dcbcb3",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeProtocol.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeProtocol.kt",
+    "originalSha256": "8dcd09388bc1441ec423db9d6b1b7fa115660bed46c73308d3ad7d22da6b9198",
+    "publishedSha256": "8dcd09388bc1441ec423db9d6b1b7fa115660bed46c73308d3ad7d22da6b9198",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeProviderConfigWriter.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeProviderConfigWriter.kt",
+    "originalSha256": "824d0c756ea143c76532c657dcde3de9cd140da4f702d8a5cae0372625e5b2ca",
+    "publishedSha256": "824d0c756ea143c76532c657dcde3de9cd140da4f702d8a5cae0372625e5b2ca",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeRuntimeBundle.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeRuntimeBundle.kt",
+    "originalSha256": "d8502223af35f32096e8fef03cca3e6a178a0349827cb8a5d78a6ed35af81c01",
+    "publishedSha256": "d8502223af35f32096e8fef03cca3e6a178a0349827cb8a5d78a6ed35af81c01",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeScreenFrames.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeScreenFrames.kt",
+    "originalSha256": "a82b650bb34b02fb58ac2ab38577dbec4c927bf7d38b4bac03431af3e035c9b4",
+    "publishedSha256": "a82b650bb34b02fb58ac2ab38577dbec4c927bf7d38b4bac03431af3e035c9b4",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeSearchConfigWriter.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeSearchConfigWriter.kt",
+    "originalSha256": "10f0a6a7c26c98165f1d7292f954cf25e1fc1408a4faa10077b4e3f65698add5",
+    "publishedSha256": "10f0a6a7c26c98165f1d7292f954cf25e1fc1408a4faa10077b4e3f65698add5",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeVisionConfigWriter.kt",
+    "publishedPath": "app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeVisionConfigWriter.kt",
+    "originalSha256": "5765f0e867636ad57cd8b7ee067d15d734d9567e2df85a437ea32dbf2da5c15a",
+    "publishedSha256": "5765f0e867636ad57cd8b7ee067d15d734d9567e2df85a437ea32dbf2da5c15a",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/res/drawable/ic_agent.xml",
+    "publishedPath": "app/src/main/res/drawable/ic_agent.xml",
+    "originalSha256": "d3efebdca6aaa8f68ecb0345387499f7815d901ee3eed81a35c42ecd286055f1",
+    "publishedSha256": "d3efebdca6aaa8f68ecb0345387499f7815d901ee3eed81a35c42ecd286055f1",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/res/values/strings.xml",
+    "publishedPath": "app/src/main/res/values/strings.xml",
+    "originalSha256": "314619d265eb2c056996850fb6cfc47de6894d031bb49ccfe6bf6a8341513be6",
+    "publishedSha256": "314619d265eb2c056996850fb6cfc47de6894d031bb49ccfe6bf6a8341513be6",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/res/values/themes.xml",
+    "publishedPath": "app/src/main/res/values/themes.xml",
+    "originalSha256": "d9819743d4e9d2fb93d80066555034efdfbbe66f5c23e27c9a7a18d65e0ea9cd",
+    "publishedSha256": "d9819743d4e9d2fb93d80066555034efdfbbe66f5c23e27c9a7a18d65e0ea9cd",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/res/xml/accessibility_service_config.xml",
+    "publishedPath": "app/src/main/res/xml/accessibility_service_config.xml",
+    "originalSha256": "a906b12670a4c0543604e99eb5b8cf50eb31d6f5ea39d6aaa46c4bb4c3ea2291",
+    "publishedSha256": "a906b12670a4c0543604e99eb5b8cf50eb31d6f5ea39d6aaa46c4bb4c3ea2291",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/res/xml/data_extraction_rules.xml",
+    "publishedPath": "app/src/main/res/xml/data_extraction_rules.xml",
+    "originalSha256": "c1648248f5da1d4a14636eb7e3d5917b07f41686222ab1f22a8e8c7b09b00e4b",
+    "publishedSha256": "c1648248f5da1d4a14636eb7e3d5917b07f41686222ab1f22a8e8c7b09b00e4b",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/test/java/dev/alita/androidagent/CoreIntegrationTest.kt",
+    "publishedPath": "app/src/test/java/dev/alita/androidagent/CoreIntegrationTest.kt",
+    "originalSha256": "11c33ee51f8b88442a11f4f0ca15782f5e8d33fc6504ca18a510cef7e6d77433",
+    "publishedSha256": "11c33ee51f8b88442a11f4f0ca15782f5e8d33fc6504ca18a510cef7e6d77433",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/test/java/dev/alita/androidagent/CoreSkillPackageStoreTest.kt",
+    "publishedPath": "app/src/test/java/dev/alita/androidagent/CoreSkillPackageStoreTest.kt",
+    "originalSha256": "3b2090ec72c6fe3f03bd7773b9bc5202f2c390cbbbf37ae084678cf711180f0f",
+    "publishedSha256": "3b2090ec72c6fe3f03bd7773b9bc5202f2c390cbbbf37ae084678cf711180f0f",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/test/java/dev/alita/androidagent/IsolatedApplicationTest.java",
+    "publishedPath": "app/src/test/java/dev/alita/androidagent/IsolatedApplicationTest.java",
+    "originalSha256": "82fdc7efe75c0d662cbd073b3b9e4b59f3f7529f89a0c22e362d97af54ef7344",
+    "publishedSha256": "82fdc7efe75c0d662cbd073b3b9e4b59f3f7529f89a0c22e362d97af54ef7344",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/test/java/dev/alita/androidagent/IsolatedProviderProcessTest.java",
+    "publishedPath": "app/src/test/java/dev/alita/androidagent/IsolatedProviderProcessTest.java",
+    "originalSha256": "b62af527484c9dc836c02122fec5ad3a0a345fa9882cc9cd3d47ddab14972896",
+    "publishedSha256": "b62af527484c9dc836c02122fec5ad3a0a345fa9882cc9cd3d47ddab14972896",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/test/java/dev/alita/androidagent/LocalProviderBoundaryTest.kt",
+    "publishedPath": "app/src/test/java/dev/alita/androidagent/LocalProviderBoundaryTest.kt",
+    "originalSha256": "7cd039cbfa068fcf4ce2bd98675042116ba55129d0397ca0ee50945ae678d6d9",
+    "publishedSha256": "7cd039cbfa068fcf4ce2bd98675042116ba55129d0397ca0ee50945ae678d6d9",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/test/java/dev/alita/androidagent/LocalProviderPackageTest.kt",
+    "publishedPath": "app/src/test/java/dev/alita/androidagent/LocalProviderPackageTest.kt",
+    "originalSha256": "ec2c5e1e251e7bb0b2da926203b3387d8b5463e8267e7b2fd8eba76915d57060",
+    "publishedSha256": "ec2c5e1e251e7bb0b2da926203b3387d8b5463e8267e7b2fd8eba76915d57060",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/test/java/dev/alita/androidagent/Phase8WorkspaceMutationScaffoldTest.kt",
+    "publishedPath": "app/src/test/java/dev/alita/androidagent/Phase8WorkspaceMutationScaffoldTest.kt",
+    "originalSha256": "411536b7f979bc509f1562d64b3c6f34c4bb0f35bb59ad55d3b52b23c8770caf",
+    "publishedSha256": "411536b7f979bc509f1562d64b3c6f34c4bb0f35bb59ad55d3b52b23c8770caf",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/test/java/dev/alita/androidagent/Phase9VisionBoundaryTest.kt",
+    "publishedPath": "app/src/test/java/dev/alita/androidagent/Phase9VisionBoundaryTest.kt",
+    "originalSha256": "43813f070c084cd38410f315ec0e7b375cddfe5fa360379ae8a8764d1be80730",
+    "publishedSha256": "43813f070c084cd38410f315ec0e7b375cddfe5fa360379ae8a8764d1be80730",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/test/java/dev/alita/androidagent/PinnedIsolatedProviderTest.kt",
+    "publishedPath": "app/src/test/java/dev/alita/androidagent/PinnedIsolatedProviderTest.kt",
+    "originalSha256": "c0fc0b0c8661894d75ac94f3bbd863025ffa252640e6e1d55fb7799fc5a2bb80",
+    "publishedSha256": "c0fc0b0c8661894d75ac94f3bbd863025ffa252640e6e1d55fb7799fc5a2bb80",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/test/java/dev/alita/androidagent/ProviderAdmissionControllerTest.kt",
+    "publishedPath": "app/src/test/java/dev/alita/androidagent/ProviderAdmissionControllerTest.kt",
+    "originalSha256": "16de9b5139c665f4a0844ca3f771177b3668ae3dc356eada7bc5f072327e9ae9",
+    "publishedSha256": "16de9b5139c665f4a0844ca3f771177b3668ae3dc356eada7bc5f072327e9ae9",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/test/java/dev/alita/androidagent/ProviderReviewStoreTest.kt",
+    "publishedPath": "app/src/test/java/dev/alita/androidagent/ProviderReviewStoreTest.kt",
+    "originalSha256": "f305a5975afb7a6d88566950e85b9b7f5371bcf8ea708d1bdd6ceb2f384ef9fe",
+    "publishedSha256": "f305a5975afb7a6d88566950e85b9b7f5371bcf8ea708d1bdd6ceb2f384ef9fe",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/test/java/dev/alita/androidagent/ZCodeCarrierWorkerLifecycleTest.kt",
+    "publishedPath": "app/src/test/java/dev/alita/androidagent/ZCodeCarrierWorkerLifecycleTest.kt",
+    "originalSha256": "760ab0ba8f2ee9a25abcd01036c0c988ed33d000092cc92b7976204660b9bfd6",
+    "publishedSha256": "760ab0ba8f2ee9a25abcd01036c0c988ed33d000092cc92b7976204660b9bfd6",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/test/java/dev/alita/androidagent/ZCodeIntegrationContractTest.kt",
+    "publishedPath": "app/src/test/java/dev/alita/androidagent/ZCodeIntegrationContractTest.kt",
+    "originalSha256": "8ae356fb7e61499b5ef0ee7072e148e56ce66c4ca327c20f4201fa27e1a2ffe3",
+    "publishedSha256": "d28d132f50a3902a2594d4116800ad2e0426cb335b0bf897ac8767826123b8b2",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "app/src/test/java/dev/alita/androidagent/execution/isolation/IsolatedNodeEndpointTest.java",
+    "publishedPath": "app/src/test/java/dev/alita/androidagent/execution/isolation/IsolatedNodeEndpointTest.java",
+    "originalSha256": "7472867fbbc32d601faf38275313e1616414703160188914916dd6d9f73fc7b9",
+    "publishedSha256": "7472867fbbc32d601faf38275313e1616414703160188914916dd6d9f73fc7b9",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/android15_takeover.py",
+    "publishedPath": "tools/android15_takeover.py",
+    "originalSha256": "211abbf692448a189aeec65a98a39a4f4f88e7458d46aa746c3969f0eff4d16b",
+    "publishedSha256": "096e2c8cadafd75c054fee86a8e8b467f01666113b2b06fc09321e89647e09f7",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/device_target.py",
+    "publishedPath": "tools/device_target.py",
+    "originalSha256": "3a60c6f4ab765a05fb19806af7fe6cf5c8ac6dbb5c74b42cfc228b8762ea64c6",
+    "publishedSha256": "be8aba030e555a24fbf285c7e6c25e6f26b748c42af383dbcfcdcd2467bff0af",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/test_device_target.py",
+    "publishedPath": "tools/test_device_target.py",
+    "originalSha256": "042542ca179a6b57bbefd674a7a7e912e57bdd63621dea01f60b9aa113bc5985",
+    "publishedSha256": "100b0d16b272331ec4227e56640f78c1efa15ae17c1e3dce45c7fcef39ea5715",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/handoff/file-exchange.py",
+    "publishedPath": "tools/handoff/file-exchange.py",
+    "originalSha256": "5f7b4d002945f6ef6329602f5761134d6dd5e37f385c15cab8df623147149e41",
+    "publishedSha256": "5f7b4d002945f6ef6329602f5761134d6dd5e37f385c15cab8df623147149e41",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/handoff/package-zcode-phase9-sync.py",
+    "publishedPath": "tools/handoff/package-zcode-phase9-sync.py",
+    "originalSha256": "297b98c6ab6da7510e807fc1951a6f4cd5207fb9fae77362aaea24c793405b00",
+    "publishedSha256": "088419e4964871002031a917ad5c6575e2c0613da7a727866da8993a96cae2a2",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/handoff/phase9-sync-contract-review.cjs",
+    "publishedPath": "tools/handoff/phase9-sync-contract-review.cjs",
+    "originalSha256": "f65abeb5d3a773202b4c0cd18d0a8de7e9619cd52d8bc47dd966885b6166a064",
+    "publishedSha256": "f65abeb5d3a773202b4c0cd18d0a8de7e9619cd52d8bc47dd966885b6166a064",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/handoff/test-file-exchange.py",
+    "publishedPath": "tools/handoff/test-file-exchange.py",
+    "originalSha256": "3bdf08ca1c587bdd4e360e523205aaaf9864797f2cb61599c8c75faf63229beb",
+    "publishedSha256": "21a183ef2f6b0a341c98e3bfa4ef97dc9cd0d4e10a17b5453bd1b264c5b234fc",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/handoff/verify-phase9-sync-review.py",
+    "publishedPath": "tools/handoff/verify-phase9-sync-review.py",
+    "originalSha256": "2653ff5e96304137280e47d61f7d9042118474199abe9ebb32ccc1311c01e9d7",
+    "publishedSha256": "2653ff5e96304137280e47d61f7d9042118474199abe9ebb32ccc1311c01e9d7",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase4/dbcheck.cjs",
+    "publishedPath": "tools/phase4/dbcheck.cjs",
+    "originalSha256": "763ff843c9b0b9994c7425f00d1fca0ba4b2f51b1ddd0932b7db2be66d9372fc",
+    "publishedSha256": "763ff843c9b0b9994c7425f00d1fca0ba4b2f51b1ddd0932b7db2be66d9372fc",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase4/gateway-unittest.cjs",
+    "publishedPath": "tools/phase4/gateway-unittest.cjs",
+    "originalSha256": "9a3faf187d4d790ea3803f1f7ac2bdbb607a459be4684d2667671b99786c66d4",
+    "publishedSha256": "9a3faf187d4d790ea3803f1f7ac2bdbb607a459be4684d2667671b99786c66d4",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase7/journal-migration-test.cjs",
+    "publishedPath": "tools/phase7/journal-migration-test.cjs",
+    "originalSha256": "3f111bfbd8478360b719881e59d38da470c6d5434308353753f1eacf0669cf5a",
+    "publishedSha256": "3f111bfbd8478360b719881e59d38da470c6d5434308353753f1eacf0669cf5a",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase7/web-search-unittest.cjs",
+    "publishedPath": "tools/phase7/web-search-unittest.cjs",
+    "originalSha256": "5ccfe5b647044c7b9bd63977421f9e79572cb64fe349500a7dd48b38c0683cc4",
+    "publishedSha256": "5ccfe5b647044c7b9bd63977421f9e79572cb64fe349500a7dd48b38c0683cc4",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase8/carrier-artifacts-check.cjs",
+    "publishedPath": "tools/phase8/carrier-artifacts-check.cjs",
+    "originalSha256": "597e393094971427c3e31635803356492c8d6888ddcd54a75c1f4250d522b0bf",
+    "publishedSha256": "597e393094971427c3e31635803356492c8d6888ddcd54a75c1f4250d522b0bf",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase8/carrier-product-regression.cjs",
+    "publishedPath": "tools/phase8/carrier-product-regression.cjs",
+    "originalSha256": "d49cb0a3db5347631734982bf0157b35312b561ca6345fb862100edef4bee050",
+    "publishedSha256": "d49cb0a3db5347631734982bf0157b35312b561ca6345fb862100edef4bee050",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase8/gateway-unittest.cjs",
+    "publishedPath": "tools/phase8/gateway-unittest.cjs",
+    "originalSha256": "1f7ece55c878e3fb247fec9bd599cc40eba1f98c80b6abd3be5d0589ee227dfc",
+    "publishedSha256": "1f7ece55c878e3fb247fec9bd599cc40eba1f98c80b6abd3be5d0589ee227dfc",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase8/product-journal-audit.cjs",
+    "publishedPath": "tools/phase8/product-journal-audit.cjs",
+    "originalSha256": "1f2a8d5d216dfd9f5375bdf365a3bab0b77948e931fc232110eb48b5882918ce",
+    "publishedSha256": "1f2a8d5d216dfd9f5375bdf365a3bab0b77948e931fc232110eb48b5882918ce",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase8/ui-boundary-regression.cjs",
+    "publishedPath": "tools/phase8/ui-boundary-regression.cjs",
+    "originalSha256": "21d22986967ca249938f9f621224721ffcd0e015f8326667e8aafea9f9ac090a",
+    "publishedSha256": "21d22986967ca249938f9f621224721ffcd0e015f8326667e8aafea9f9ac090a",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase8/verify-phase8.sh",
+    "publishedPath": "tools/phase8/verify-phase8.sh",
+    "originalSha256": "640e8e0dc076c8f4ed1177d6eb540e6afaf8fcfe155ef0c2b90a8df27e4afbe7",
+    "publishedSha256": "640e8e0dc076c8f4ed1177d6eb540e6afaf8fcfe155ef0c2b90a8df27e4afbe7",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase8/web-search-unittest.cjs",
+    "publishedPath": "tools/phase8/web-search-unittest.cjs",
+    "originalSha256": "5ccfe5b647044c7b9bd63977421f9e79572cb64fe349500a7dd48b38c0683cc4",
+    "publishedSha256": "5ccfe5b647044c7b9bd63977421f9e79572cb64fe349500a7dd48b38c0683cc4",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase8/wws-unittest.cjs",
+    "publishedPath": "tools/phase8/wws-unittest.cjs",
+    "originalSha256": "6fc3dd378c871f37cf2d6ebc533e89f58ee6593f153b07f1ad6530083bfa395a",
+    "publishedSha256": "6fc3dd378c871f37cf2d6ebc533e89f58ee6593f153b07f1ad6530083bfa395a",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/accept-product.py",
+    "publishedPath": "tools/phase9/accept-product.py",
+    "originalSha256": "41eb6967795e2b0e891eb0ee9e46e5855259326370186f4ea09549c15163b878",
+    "publishedSha256": "9ccaede5bade690b3f6e905baaf32e4312aa2db6aaebc0f46374c78268bc2476",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/carrier-authorization-regression.cjs",
+    "publishedPath": "tools/phase9/carrier-authorization-regression.cjs",
+    "originalSha256": "d5891420a799c535828be55224c1cc671856d8b62e843f58da7ab155fbcd146c",
+    "publishedSha256": "d5891420a799c535828be55224c1cc671856d8b62e843f58da7ab155fbcd146c",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/carrier-cancellation-regression.cjs",
+    "publishedPath": "tools/phase9/carrier-cancellation-regression.cjs",
+    "originalSha256": "c7bcf18f665071364365dd057b3f54c76d1a648ae220baf6aef44feb33153941",
+    "publishedSha256": "c7bcf18f665071364365dd057b3f54c76d1a648ae220baf6aef44feb33153941",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/close-carrier-boundaries.py",
+    "publishedPath": "tools/phase9/close-carrier-boundaries.py",
+    "originalSha256": "1b6c3a12fdad6f06374f6db66362092eee7cc5a449217aab5e67daf39680d270",
+    "publishedSha256": "1b6c3a12fdad6f06374f6db66362092eee7cc5a449217aab5e67daf39680d270",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/close-vision-boundaries.py",
+    "publishedPath": "tools/phase9/close-vision-boundaries.py",
+    "originalSha256": "56b05b76f1988a6af90fdfb7dea623a698a36d5ffd282d404d30f413170e6230",
+    "publishedSha256": "56b05b76f1988a6af90fdfb7dea623a698a36d5ffd282d404d30f413170e6230",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/command-analysis-device.py",
+    "publishedPath": "tools/phase9/command-analysis-device.py",
+    "originalSha256": "37e745492d69d41933e2a87948185cdf02b8eee64fa7709fd361aaa97615da51",
+    "publishedSha256": "4b79581a78d56e8a68b023203f74e590acf2a6267354c5de9ea78a03e60a6d5b",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/command-analysis-model.py",
+    "publishedPath": "tools/phase9/command-analysis-model.py",
+    "originalSha256": "f7f9b21086ccfe9511fe32acbc9d76b1fd462c22f63daeb0829e5b94bd954948",
+    "publishedSha256": "12761890169160e991006c53b4779e855a5d4409553b309a38de15986e706982",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/command-process-groundwork.cjs",
+    "publishedPath": "tools/phase9/command-process-groundwork.cjs",
+    "originalSha256": "53287b2d05d94c697e63064e6339cbf229607c92ce9b97c69ba38d3206987009",
+    "publishedSha256": "53287b2d05d94c697e63064e6339cbf229607c92ce9b97c69ba38d3206987009",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/config-disable-regression.cjs",
+    "publishedPath": "tools/phase9/config-disable-regression.cjs",
+    "originalSha256": "0087d9f8c172883e255e062c2705540d51fcc7949a7108570d3615c9fe25f6e5",
+    "publishedSha256": "0087d9f8c172883e255e062c2705540d51fcc7949a7108570d3615c9fe25f6e5",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/core-skill-acceptance.py",
+    "publishedPath": "tools/phase9/core-skill-acceptance.py",
+    "originalSha256": "31c6e98dab719dd7d235b83225da8e04a8fb01f3a13c3478e36719bf4311e089",
+    "publishedSha256": "ae2c36e9e784b2a60ab017195410eb492cd722414bc7bafd81c3ddadb4e5c724",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/core-skill-catalog-android15.py",
+    "publishedPath": "tools/phase9/core-skill-catalog-android15.py",
+    "originalSha256": "350e7dab8bbc7754004c48c5945891cfb208867b69608c92df8ed79075d9b5f7",
+    "publishedSha256": "8b5669fcd6ae4a03c9cb4d84b9d19ec9f2f384f5f447f5e8d49199b17eba4db0",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/core-skill-catalog-device.cjs",
+    "publishedPath": "tools/phase9/core-skill-catalog-device.cjs",
+    "originalSha256": "6f39c515c47696bd389fa5d3f453893618865e932341f2ff9ba040ad841b7859",
+    "publishedSha256": "6f39c515c47696bd389fa5d3f453893618865e932341f2ff9ba040ad841b7859",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/core-skill-session-seam-android15.py",
+    "publishedPath": "tools/phase9/core-skill-session-seam-android15.py",
+    "originalSha256": "20750a1d90b4ef4b0b7c7c86d3c58d42767e4a48d1819265038343fe7c8bc9f1",
+    "publishedSha256": "d68e8eeb1bbda453004b290bc1072b8142e9b68b253a489f258059fc203a093a",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/core-skill-session-seam.cjs",
+    "publishedPath": "tools/phase9/core-skill-session-seam.cjs",
+    "originalSha256": "f6aa8113bee048b7e2b220c2e611f99eb761621129bcc96d6cd84f8e6c8b5457",
+    "publishedSha256": "f6aa8113bee048b7e2b220c2e611f99eb761621129bcc96d6cd84f8e6c8b5457",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/core-stdin-eof-test.cjs",
+    "publishedPath": "tools/phase9/core-stdin-eof-test.cjs",
+    "originalSha256": "e9e03ff72fc60136b9834f7e907e1e3ae5df0bc87af558793bd962b82bdaf348",
+    "publishedSha256": "e9e03ff72fc60136b9834f7e907e1e3ae5df0bc87af558793bd962b82bdaf348",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/core-subscription-android15.py",
+    "publishedPath": "tools/phase9/core-subscription-android15.py",
+    "originalSha256": "f8b9778a0e58a403020feea5ee53eef33b7f19e441d5c253a7aed06f6b237c0d",
+    "publishedSha256": "3b511dda2a8bd7023f3798fa3f150528006e9738cf6b7154ba5f55a2474dfb4e",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/core-subscription-protocol-test.cjs",
+    "publishedPath": "tools/phase9/core-subscription-protocol-test.cjs",
+    "originalSha256": "28f479f0853c373db55d108110a7a519dd82e284c81ba190a827476255793e45",
+    "publishedSha256": "28f479f0853c373db55d108110a7a519dd82e284c81ba190a827476255793e45",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/device-boundaries.cjs",
+    "publishedPath": "tools/phase9/device-boundaries.cjs",
+    "originalSha256": "1714156367b8451c88941d38681037710bb0afafa4659209739c7bcc3bd7503b",
+    "publishedSha256": "f22f3947285ac852741e2ccb612e9047d68b3422070ec16e408caaaedd323ec6",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/device-setup.sh",
+    "publishedPath": "tools/phase9/device-setup.sh",
+    "originalSha256": "dd7631b28bd72656aeedce7cd5b8a7d3106208013dca094af280f67ad178f162",
+    "publishedSha256": "dd7631b28bd72656aeedce7cd5b8a7d3106208013dca094af280f67ad178f162",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/f1-device-acceptance.py",
+    "publishedPath": "tools/phase9/f1-device-acceptance.py",
+    "originalSha256": "592bb2eaa52165c2071797904acabb5cb4d027cd96c72fe659339bd4516c2c25",
+    "publishedSha256": "de781e9adc7a03dce52ba557bf5fa97ae9856e66549770f0806445af40e4c201",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/f1-runtime-regression.py",
+    "publishedPath": "tools/phase9/f1-runtime-regression.py",
+    "originalSha256": "a9a0b056a75920fa3dcb10da540e16d26c8b7966ad1a01079378f0b6c542a17b",
+    "publishedSha256": "5e5eec3844403dbb6a6554c86e82f20e8ea1f26d7720f7f229b832f83f25abcb",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/finalize-status.py",
+    "publishedPath": "tools/phase9/finalize-status.py",
+    "originalSha256": "2a112fab4608adb415add998f60ae8b3379b3c2aa9600dfce58f756413ad146d",
+    "publishedSha256": "47b3c8b0b319eddf56e1ac27b37abd538825e442dddd381f2c9f4c909e4a3463",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/freeze-evidence.py",
+    "publishedPath": "tools/phase9/freeze-evidence.py",
+    "originalSha256": "def3359707bd5a6aefe807f2867225441023f4f417350b88ebd004786f83808e",
+    "publishedSha256": "711634212f6cdc0792f6f7d0044b5c65d670cedad4bdfdd9fe46233b0ee0995a",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/integrate-runtime.py",
+    "publishedPath": "tools/phase9/integrate-runtime.py",
+    "originalSha256": "fccfe138f3bbcd1ed758fb51a42e3a69f99e766f691dcd9a9ecea0b5aa552469",
+    "publishedSha256": "fccfe138f3bbcd1ed758fb51a42e3a69f99e766f691dcd9a9ecea0b5aa552469",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/internal-boundary-regression.cjs",
+    "publishedPath": "tools/phase9/internal-boundary-regression.cjs",
+    "originalSha256": "976176520e25df32fa773b02f08c6fafcd4d63dbfbb346ffed1a94f704232a89",
+    "publishedSha256": "976176520e25df32fa773b02f08c6fafcd4d63dbfbb346ffed1a94f704232a89",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/local-provider-android15.py",
+    "publishedPath": "tools/phase9/local-provider-android15.py",
+    "originalSha256": "49bebccbeb5f3ad71ac3aee1bc9385a75da5777c2d8cb3a5390f8f6299bf384d",
+    "publishedSha256": "fdb74b4371b8a223bdf617881d8e137756034c1f3355e0e1a6e5c2e97744f7b4",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/local-provider-gateway-regression.cjs",
+    "publishedPath": "tools/phase9/local-provider-gateway-regression.cjs",
+    "originalSha256": "d77e08e92c1c7c52d5b7b6de6771db6a667547ee43baea8c15731a216eeb0cd3",
+    "publishedSha256": "d77e08e92c1c7c52d5b7b6de6771db6a667547ee43baea8c15731a216eeb0cd3",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/local-provider-stdio-probe.cjs",
+    "publishedPath": "tools/phase9/local-provider-stdio-probe.cjs",
+    "originalSha256": "0c69ebef6b254fc43f45c579645c0dcc7a9235dbf24ebfebb37269e7eac021cb",
+    "publishedSha256": "0c69ebef6b254fc43f45c579645c0dcc7a9235dbf24ebfebb37269e7eac021cb",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/local-provider1-acceptance.py",
+    "publishedPath": "tools/phase9/local-provider1-acceptance.py",
+    "originalSha256": "f603f9597e8ac87718d4d263ad01fa982d9dc7d70f2aef9ba8ff8a2cce64c81f",
+    "publishedSha256": "b9039646e47c59f27ba5a6ab3f6e4335c5dcdfe5170d49dc6a5aa2a865d745af",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/mainline-safety-device.cjs",
+    "publishedPath": "tools/phase9/mainline-safety-device.cjs",
+    "originalSha256": "24d42449fb396bbe6ea9c91efd38d7d0131afd9ac8bf9f926529cbf09a1f55d7",
+    "publishedSha256": "02a6bf16e0176b08bf97bf6469fd69f5694967e713ebd3c29f8172535a648d7b",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/managed-skill-postflight.py",
+    "publishedPath": "tools/phase9/managed-skill-postflight.py",
+    "originalSha256": "a35fa95a591d331b200cf555f87736eae356bd77c79b50d1277a70314c6d2460",
+    "publishedSha256": "90a916916789012555b71663ebd7e116b58622fd95059fe3acf6c1451ff7f1ee",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/managed-skill-product-acceptance.py",
+    "publishedPath": "tools/phase9/managed-skill-product-acceptance.py",
+    "originalSha256": "613964de7c4eb00c3f3f5ab4c51605a614bc41cd5ff9d5d4aaccc3d4362ff823",
+    "publishedSha256": "778ccfbc1437eee0f60bfff6aa0cceeea6a5a10687d97398d4e21af340f0fd74",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/package-provider-admission1.py",
+    "publishedPath": "tools/phase9/package-provider-admission1.py",
+    "originalSha256": "1a143f32107974708fa238d2b2ac03684f82f449a41fe1034f68f4d6c630846c",
+    "publishedSha256": "1a143f32107974708fa238d2b2ac03684f82f449a41fe1034f68f4d6c630846c",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/package-provider-model1.py",
+    "publishedPath": "tools/phase9/package-provider-model1.py",
+    "originalSha256": "f6e9b79d8dd2277e87462ca0341523492217c8ea28890a4bddbe48e7ca1af642",
+    "publishedSha256": "70d1c23c2eb0be8cd29da97c86d6d6188fad2e7b55cc1ce132c71fefbcb1a333",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/package-provider-projection1.py",
+    "publishedPath": "tools/phase9/package-provider-projection1.py",
+    "originalSha256": "ec673605392efed414aaa712dfd2837ff10165b7a47afee407cf25d07b0a0f23",
+    "publishedSha256": "ec673605392efed414aaa712dfd2837ff10165b7a47afee407cf25d07b0a0f23",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/package-subscription1.py",
+    "publishedPath": "tools/phase9/package-subscription1.py",
+    "originalSha256": "a0e8cff8b710c2b9a482e3abd1c49769a5eda519af05599c8650f779cef138b1",
+    "publishedSha256": "3b30465353733dd0aa64cf8db707a351b7dbe8582f4c65aed79c48a670fc4d69",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/phase8-repair-regression.cjs",
+    "publishedPath": "tools/phase9/phase8-repair-regression.cjs",
+    "originalSha256": "7a7926870b1bc0f649f3e0f952ca2dca2b8b62e30e32d65c33dfe69b28954cdd",
+    "publishedSha256": "7a7926870b1bc0f649f3e0f952ca2dca2b8b62e30e32d65c33dfe69b28954cdd",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/prepare-device.py",
+    "publishedPath": "tools/phase9/prepare-device.py",
+    "originalSha256": "1c2607bb6ff0a903e1ac981089bb9a493298bdcbd7102494141b6d9d05a86f78",
+    "publishedSha256": "250dbea6d2c3aa9236eee9c59fa26ac86bfb7bf76ef08d7cf24de9dfb992d26b",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/prepare-product-isolation.py",
+    "publishedPath": "tools/phase9/prepare-product-isolation.py",
+    "originalSha256": "52b793ceeed81eca377e054f24cd56ac167e6403f4c3f81a80eed80e8cc48d70",
+    "publishedSha256": "52b793ceeed81eca377e054f24cd56ac167e6403f4c3f81a80eed80e8cc48d70",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/prepare-provider-isolation-probe.py",
+    "publishedPath": "tools/phase9/prepare-provider-isolation-probe.py",
+    "originalSha256": "217562b7b5f1432ad796304da6238f9c012434e93608b27747c8d78788229a82",
+    "publishedSha256": "217562b7b5f1432ad796304da6238f9c012434e93608b27747c8d78788229a82",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/provider-abandoned-carrier-test.cjs",
+    "publishedPath": "tools/phase9/provider-abandoned-carrier-test.cjs",
+    "originalSha256": "ff9b772a25747cca5b701db1d1df39c4d7dd867513e34661e8482a992d09fa71",
+    "publishedSha256": "ff9b772a25747cca5b701db1d1df39c4d7dd867513e34661e8482a992d09fa71",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/provider-admission-device-acceptance.py",
+    "publishedPath": "tools/phase9/provider-admission-device-acceptance.py",
+    "originalSha256": "f67b786e353ed1d419d7f502038067b5e0b10c1d1626fb5f29cf5c079e7b02ee",
+    "publishedSha256": "f478267ef3782a99a7fecce89cb7664287175b9a205504389e9de22f6d84c571",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/provider-admission-evidence-summary.py",
+    "publishedPath": "tools/phase9/provider-admission-evidence-summary.py",
+    "originalSha256": "e4a011a1cd47890d0ad080b93ded1ad74130e18dae6b8e88bfa1dcde5f260763",
+    "publishedSha256": "e4a011a1cd47890d0ad080b93ded1ad74130e18dae6b8e88bfa1dcde5f260763",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/provider-admission-ui-actions.py",
+    "publishedPath": "tools/phase9/provider-admission-ui-actions.py",
+    "originalSha256": "05c809b14cf13583b2f6fbc2281edddc4e076bb6b03ea25213428b14de1fa2b3",
+    "publishedSha256": "f4dbfe7d246a75d56bc3d4baf7049956f84cc5ef032b0ca58e3c9861014ef23f",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/provider-admission-ui-smoke.py",
+    "publishedPath": "tools/phase9/provider-admission-ui-smoke.py",
+    "originalSha256": "637bece6ea59c732869d7b1bfac00d933b46304e6565956ad24f6e1e51183b8b",
+    "publishedSha256": "6b280ea4e41d5f8b9377a92262aa17223bed85862b4bbbde3d85b2a46690975a",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/provider-binding-device-acceptance.py",
+    "publishedPath": "tools/phase9/provider-binding-device-acceptance.py",
+    "originalSha256": "d08e63258aaf3141999e265c0a802109e4c76428cc421198ae4db2f13e14f166",
+    "publishedSha256": "5667f76e16ecb099a84237eb8ebb3eb16b6b0a7dbc961e55f1d22d54025dada3",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/provider-binding-evidence-summary.py",
+    "publishedPath": "tools/phase9/provider-binding-evidence-summary.py",
+    "originalSha256": "5f1abdf93f7ff75718173b582cc956641166bdee9a9ddc0553df1d9628daa2ff",
+    "publishedSha256": "2606e7000426fb0bd3cec9db767532177a506a2a4b61631f8f527b6bbf9d3f84",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/provider-binding-postflight.py",
+    "publishedPath": "tools/phase9/provider-binding-postflight.py",
+    "originalSha256": "57dfbeb1e0752e4b1c8fd4c9390ebfbad959005330eed08f5a5fdd7ab9720bd0",
+    "publishedSha256": "1be3a83e64a3a213cd9ea34df5b76fc3d5d2500069d3760b1e11f24654f3dd93",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/provider-declaration-settlement-test.cjs",
+    "publishedPath": "tools/phase9/provider-declaration-settlement-test.cjs",
+    "originalSha256": "b2a87b723b3e78a27375bfd4f543a1b085f4ad8eafbf8e593f8eb3ffd18a69e2",
+    "publishedSha256": "b2a87b723b3e78a27375bfd4f543a1b085f4ad8eafbf8e593f8eb3ffd18a69e2",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/provider-host-lifecycle-device-acceptance.py",
+    "publishedPath": "tools/phase9/provider-host-lifecycle-device-acceptance.py",
+    "originalSha256": "679ec9c929beaee382050b66b2cde964a521916af6836566cb60fa76c9620a03",
+    "publishedSha256": "ba05fbaa95a3e86f0590218d543144c13b4f3192e7661d8e4a0fa2f36fee29ec",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/provider-inert-startup.py",
+    "publishedPath": "tools/phase9/provider-inert-startup.py",
+    "originalSha256": "e9c513b2490b09dd33a65429cb716f6e1c1ba3fc9c37e7be1dae826fe717b1e8",
+    "publishedSha256": "83b0bb9bfd138b63f2af71a6cac4c2c973b71c0cfcf09b2756dcbf160b16ebbe",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/provider-isolation-device-probe.py",
+    "publishedPath": "tools/phase9/provider-isolation-device-probe.py",
+    "originalSha256": "eb69fbadf0b111e3907f89abf338c6dc15885c53057a88ef502e2852a4faf2fd",
+    "publishedSha256": "26ef4b9c3c23010c246112cdbebae7e0979a07ab59bf13c322adcced361511f8",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/provider-isolation-evidence-summary.py",
+    "publishedPath": "tools/phase9/provider-isolation-evidence-summary.py",
+    "originalSha256": "94fa89ce124d2000408be59e3d7bf71448dbd5c9df9b55c51afb5b1579086dcb",
+    "publishedSha256": "d5f4a7ad339d926798f29b899b902dcfb2fe7879e2a78b4e1a6d7991631e64e0",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/provider-model-evidence-summary.py",
+    "publishedPath": "tools/phase9/provider-model-evidence-summary.py",
+    "originalSha256": "1a17f3ada7597576621c1d0e2dc37e5c6eddb4f505d91cbec14b744b55108ece",
+    "publishedSha256": "c22e2605d90980b7fc6b4893e3c65ac1514667e9ae6c5e76170500e4f8b63698",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/provider-model-product-acceptance.py",
+    "publishedPath": "tools/phase9/provider-model-product-acceptance.py",
+    "originalSha256": "ed4d6233e9ec61b6a78359f4550bd9cfcd577b38dfd79d2d9ac5c4ca4bd26f64",
+    "publishedSha256": "9131e66f20aa980baf124e9c76cecbefc6bb47e75e6bd3707047392e7994d28e",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/provider-package-device-acceptance.py",
+    "publishedPath": "tools/phase9/provider-package-device-acceptance.py",
+    "originalSha256": "d2f2136c74bde0a3a5ceb469e3fee4500e4921f69cc0b180dfc44b2f83f75765",
+    "publishedSha256": "991e0018a6ebeb356a4a820600adefab2fcfef4f132bb72949a4cd3c00eeab66",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/provider-package-evidence-summary.py",
+    "publishedPath": "tools/phase9/provider-package-evidence-summary.py",
+    "originalSha256": "522d22f732b6ad1658f2070200dda181fdbb86d239977bf9aee805c452e8737b",
+    "publishedSha256": "f4d8abfcc68a02a32713178e6fdea428be67bc9664229eb830e1e6e7c7e95de8",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/provider-process-evidence-summary.py",
+    "publishedPath": "tools/phase9/provider-process-evidence-summary.py",
+    "originalSha256": "c6bf2e0ae719b17127e7fbc5133ca20ab06f49df2c1115bb7feada91fd80bce1",
+    "publishedSha256": "85c8399e87278b6c1e2fa3c1327e633f1554fee0271f6373a0a5f1269613972b",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/provider-projection-device-acceptance.py",
+    "publishedPath": "tools/phase9/provider-projection-device-acceptance.py",
+    "originalSha256": "1963c30a1fbcf88f1374e4c81b0618c42157bed3f269d9628c116476453c5279",
+    "publishedSha256": "2d750e54175cb6e1668ee2b833cf091edfcd042b323f382ddc73fbce28dc31a1",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/provider-projection-evidence-summary.py",
+    "publishedPath": "tools/phase9/provider-projection-evidence-summary.py",
+    "originalSha256": "835b002301120e75198ec40c99d6a57261f62e3baeeacb97d1b4eaa5808a6c9b",
+    "publishedSha256": "835b002301120e75198ec40c99d6a57261f62e3baeeacb97d1b4eaa5808a6c9b",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/provider-projection-fixture.cjs",
+    "publishedPath": "tools/phase9/provider-projection-fixture.cjs",
+    "originalSha256": "338a12f312fd85b4ddc1ad2e74adda5c9b6024dfc6e78a868ac18735a99da1fc",
+    "publishedSha256": "338a12f312fd85b4ddc1ad2e74adda5c9b6024dfc6e78a868ac18735a99da1fc",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/provider-projection-test.cjs",
+    "publishedPath": "tools/phase9/provider-projection-test.cjs",
+    "originalSha256": "b99f4b5505e3cf8dc211b7946c93f6ef27279542c84447ccd6dcb76938fb6330",
+    "publishedSha256": "b99f4b5505e3cf8dc211b7946c93f6ef27279542c84447ccd6dcb76938fb6330",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/provider-review-device-acceptance.py",
+    "publishedPath": "tools/phase9/provider-review-device-acceptance.py",
+    "originalSha256": "cae15778e12c6f450afd789fe8744eb4a813ea6255e5c425a1b1a6b96f888f28",
+    "publishedSha256": "69aea28a3b3d3844de3fb59420af31de51cf20b944cf11eb0430ac1928228853",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/provider-review-evidence-summary.py",
+    "publishedPath": "tools/phase9/provider-review-evidence-summary.py",
+    "originalSha256": "d358e678f8d6c198ed498c536916ac1d4a467acaee127846ee9cc9e7d070945d",
+    "publishedSha256": "557a20980479e314fe0c87ad62f8fe921c51b0be305833363e3223ca73c4190c",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/provider-service-device-acceptance.py",
+    "publishedPath": "tools/phase9/provider-service-device-acceptance.py",
+    "originalSha256": "dff47f9623d8d8265f244ec03283c80020a80c5211a0db5072049bdc1a476b1d",
+    "publishedSha256": "7c9af7198b5fac8c849b43358d3c9ae7986bba84e3e808850266cf22bd486467",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/provider-service-evidence-summary.py",
+    "publishedPath": "tools/phase9/provider-service-evidence-summary.py",
+    "originalSha256": "40816cb968686e6923fb5814498353c63f03d1eb7c4320b6f84d7026e9ec160f",
+    "publishedSha256": "19006352ed171934c33ce305479f393476435600ca4897a5f2fb7bff1054a66b",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/provider-service-postflight.py",
+    "publishedPath": "tools/phase9/provider-service-postflight.py",
+    "originalSha256": "4bfaa04cb8ff3462af233c3e14db88badb6318c5c51e91bf507531096b8b50ad",
+    "publishedSha256": "24371a22f9da27bbf016a83647d0cc91091b30ceee4fc85ee7dc2e0b897d44d0",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/provider-session-bindings-test.cjs",
+    "publishedPath": "tools/phase9/provider-session-bindings-test.cjs",
+    "originalSha256": "058cba79ba35f3632a993a84f25bace3d296cc209a38e4e522508ead8937c9b7",
+    "publishedSha256": "058cba79ba35f3632a993a84f25bace3d296cc209a38e4e522508ead8937c9b7",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/provider-session-core-test.cjs",
+    "publishedPath": "tools/phase9/provider-session-core-test.cjs",
+    "originalSha256": "26eebdf46de2eaa68c93a38c5e9a6cefe6a0d779efc809914643a6740f2bc62c",
+    "publishedSha256": "26eebdf46de2eaa68c93a38c5e9a6cefe6a0d779efc809914643a6740f2bc62c",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/provider-session-device-acceptance.py",
+    "publishedPath": "tools/phase9/provider-session-device-acceptance.py",
+    "originalSha256": "bf47b0d402166ebe1b25e4dbe13cbceaa4e3f5e376c6aff2998cbb6323c617eb",
+    "publishedSha256": "3f3e937485e73d1a72b6f2183b74996d86bd3f4f899094abe94d0c305710ceb3",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/provider-session-evidence-summary.py",
+    "publishedPath": "tools/phase9/provider-session-evidence-summary.py",
+    "originalSha256": "3932a4bbb082af962640e36734caa8106ca5cc8175ca9cf230b2d2feaa5049b5",
+    "publishedSha256": "f4459300e46cc9333c78ce7c7f4fb1992bfe1992a9c25c5161995dc252b46ec3",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/provider-settlement-device-acceptance.py",
+    "publishedPath": "tools/phase9/provider-settlement-device-acceptance.py",
+    "originalSha256": "5ddff260ae55dc233fffb6b61a7feabc40fb1e51eb57e8867c17da5967371e2a",
+    "publishedSha256": "3b065a006b4c34fab1e0677158030092fe7b079736ba1bb4d019b0d10ec672bc",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/provider-settlement-evidence-summary.py",
+    "publishedPath": "tools/phase9/provider-settlement-evidence-summary.py",
+    "originalSha256": "3c51ad16762f15791c80ecd1411be966293bc99f87c9c8e0af6c7e068e3ee537",
+    "publishedSha256": "297df5309e1a6dbfc6030f113515bdaf6e3e835efab353e4dd72a064af3a45c5",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/provider-settlement-regression.cjs",
+    "publishedPath": "tools/phase9/provider-settlement-regression.cjs",
+    "originalSha256": "b18bf87e475b0a3fc6cef683456d530a13e4186f4023ea572fd918469e37260a",
+    "publishedSha256": "b18bf87e475b0a3fc6cef683456d530a13e4186f4023ea572fd918469e37260a",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/provider-startup-evidence-summary.py",
+    "publishedPath": "tools/phase9/provider-startup-evidence-summary.py",
+    "originalSha256": "e7f88d06337bba137a71dc9beee6c5ab9b425368d16879fce1d884637a34b3ed",
+    "publishedSha256": "c492d038758991e495f6c714029b74c2c449d11679e9dbc68c1880707c1b9028",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/refresh-payload-hashes.py",
+    "publishedPath": "tools/phase9/refresh-payload-hashes.py",
+    "originalSha256": "d2741b5ccdfe64ed28037fa6bb1f92e89ba6705d8a6fd44b5be6afa390275770",
+    "publishedSha256": "d2741b5ccdfe64ed28037fa6bb1f92e89ba6705d8a6fd44b5be6afa390275770",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/review-zcode-bindings1-results.py",
+    "publishedPath": "tools/phase9/review-zcode-bindings1-results.py",
+    "originalSha256": "a26851dcc5cab60a031914bd5149f462833cce8fbb843d50b7c06266b4922d7f",
+    "publishedSha256": "7c21a59a10ffb4bf394420de30d11a289870849736e552fd5d7619d0d59c3834",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/review-zcode-core-eof1-results.py",
+    "publishedPath": "tools/phase9/review-zcode-core-eof1-results.py",
+    "originalSha256": "6c75750d86ff069cb5d7d8af38b664e9d801d812aebdcfff41eb1ac8d725e3d2",
+    "publishedSha256": "9d5263b54094b509340169eafce54bf689a2aeea80cc0da3264912ddf3a2882b",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/review-zcode-provider-admission1-results.py",
+    "publishedPath": "tools/phase9/review-zcode-provider-admission1-results.py",
+    "originalSha256": "d9f2fb73eadc8e60690aebc2fd932caefd9dbd2f61c548cd856cd7410822d174",
+    "publishedSha256": "d9f2fb73eadc8e60690aebc2fd932caefd9dbd2f61c548cd856cd7410822d174",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/review-zcode-provider-model1-results.py",
+    "publishedPath": "tools/phase9/review-zcode-provider-model1-results.py",
+    "originalSha256": "296c5015bf7c90ed3042251fd75190a6e305f4c0ba8eafafd705ea2dc7161fd6",
+    "publishedSha256": "c024ce807e1588f56da330ea312b6b49f7fca2dd6cec812df1950629c3fef848",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/review-zcode-provider-package1-results.py",
+    "publishedPath": "tools/phase9/review-zcode-provider-package1-results.py",
+    "originalSha256": "4a5efe462cb954ab60aadf7b02d15bc9f350b77760319a0cafda0fc33b15b79c",
+    "publishedSha256": "81f65f352143b3c38bffdf50066a1194186bd0049102d9d5c4a609126a6df618",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/review-zcode-provider-projection1-results.py",
+    "publishedPath": "tools/phase9/review-zcode-provider-projection1-results.py",
+    "originalSha256": "aba805b72b8bd8703c98401dcb7df918e5e7bd4d4f003b5798d9f54b3baf50d4",
+    "publishedSha256": "d7663bd28fb3f6c0ab383319bea2681600aba3798274743661357ce8bb6ff543",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/review-zcode-skill-ui1-results.py",
+    "publishedPath": "tools/phase9/review-zcode-skill-ui1-results.py",
+    "originalSha256": "115860cd4b2904825f2cc34e83922c451defdcdd9ccc1bf3455bdfc1cb82e675",
+    "publishedSha256": "ad12a0f4e3e22c1819838c692ed45a4176b4967d30d9474d32b11105882b3f52",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/run-device-suites.py",
+    "publishedPath": "tools/phase9/run-device-suites.py",
+    "originalSha256": "8576181d8315aee0ea92d217613c189dd2d998ac8f76a7553067722691ec9328",
+    "publishedSha256": "056e92f35e131e3059c168b4d0c9e0c1ea22ca0dda0aedd2747bdff000bc7127",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/safety-model-scroll.py",
+    "publishedPath": "tools/phase9/safety-model-scroll.py",
+    "originalSha256": "408a0705f17ce1829a9566ff43905a60b669fea3846ca53fac59cdcc15bffe8f",
+    "publishedSha256": "142a29b2adb335955a971b6a70e7fd74c233b1c449ead75000c77405a82b51e9",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/safety-native-acceptance.py",
+    "publishedPath": "tools/phase9/safety-native-acceptance.py",
+    "originalSha256": "eb81f912b24adbf1d940456c5394a2d23f2ee9366696bbaa3a17d6a8d4e48c92",
+    "publishedSha256": "eb4044c5a2a2a643bc9e50215278473048e0fc441f57aa7d1ada8ede17de77c0",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/skill-control-path-android15.py",
+    "publishedPath": "tools/phase9/skill-control-path-android15.py",
+    "originalSha256": "28ce573fcef157401338d415b5723e6fcb9cdc8ad7ab180891443019ab1fc876",
+    "publishedSha256": "7079f2486b95b5408478899b1d60e4f37f92d6fd30ffbb562497df29202affc7",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/skill-control-path-regression.cjs",
+    "publishedPath": "tools/phase9/skill-control-path-regression.cjs",
+    "originalSha256": "b6498cc72cbf5783442c1ade3395c48afdf372231c611b85eec3dc89b87ffdc2",
+    "publishedSha256": "b6498cc72cbf5783442c1ade3395c48afdf372231c611b85eec3dc89b87ffdc2",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/skill-package-device-acceptance.py",
+    "publishedPath": "tools/phase9/skill-package-device-acceptance.py",
+    "originalSha256": "dce6b9b4004f89bf7b651a774b83b9f15ed8cd1e5bc2afaecaefabc85bb73d0a",
+    "publishedSha256": "e1d078bf5ecabe368fd58498ab72d912ce772d4305594c094544397133e7276e",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/skill-session-bindings-android15.py",
+    "publishedPath": "tools/phase9/skill-session-bindings-android15.py",
+    "originalSha256": "e06c8b0347a44b23d15816c6ee64c8fd794ad04911a5086736c8091b5ca90cd8",
+    "publishedSha256": "324def82634cbed81eb1f8999b5a99b7bc920ace79f5cb8444c216986896ec45",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/skill-session-bindings-android17.py",
+    "publishedPath": "tools/phase9/skill-session-bindings-android17.py",
+    "originalSha256": "426bf1a3e53624472f5d18d9041a3fd51655c06e2a118162985a790bdff71d8b",
+    "publishedSha256": "8bcbd9c5271f563ad26071c33db8054b1eb275436a2d9ac548365f9340bdfde2",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/skill-session-bindings-core-test.cjs",
+    "publishedPath": "tools/phase9/skill-session-bindings-core-test.cjs",
+    "originalSha256": "8a3110b3a691494bfb4527c703115b4329e54b968b59e85724d7ddcc3f371a13",
+    "publishedSha256": "8a3110b3a691494bfb4527c703115b4329e54b968b59e85724d7ddcc3f371a13",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/skill-session-bindings-test.cjs",
+    "publishedPath": "tools/phase9/skill-session-bindings-test.cjs",
+    "originalSha256": "cb9f582d145090270ad32419cc23b89fc16fcaaae78135644ae05a1de7a0a080",
+    "publishedSha256": "cb9f582d145090270ad32419cc23b89fc16fcaaae78135644ae05a1de7a0a080",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/skill-ui-device-acceptance.py",
+    "publishedPath": "tools/phase9/skill-ui-device-acceptance.py",
+    "originalSha256": "9bc8e6aac17545c3ef498939b221e26cede32295f7bc7db177ddff03dfed3ef9",
+    "publishedSha256": "65ffb6d65ff711cdedaf96fa0269a177529c0a59bde01b8ac10d5d735eb85286",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/skill-ui-evidence-summary.py",
+    "publishedPath": "tools/phase9/skill-ui-evidence-summary.py",
+    "originalSha256": "25fe7521c4f301e9e1610df043c71bd1a2c2ef405758024d93584bffc0c68f26",
+    "publishedSha256": "f168257322300fa2b5fcc9ceb5fb156fe716c5174c8d6da208148a884d9511d7",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/skill-ui-resume-check.py",
+    "publishedPath": "tools/phase9/skill-ui-resume-check.py",
+    "originalSha256": "a6a0b49cd59fac90671bf4efc587168a97b38b283c519c2a891c912e31bcd358",
+    "publishedSha256": "a7c7d35dfad1b575c1d5bc066098f676d16ff76651183a9909d4f40ad6836a44",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/subscription-evidence-summary.py",
+    "publishedPath": "tools/phase9/subscription-evidence-summary.py",
+    "originalSha256": "b85133c44f8815686966e75f608236883c90652554af53eb2a32a6fc31bcdacf",
+    "publishedSha256": "b85133c44f8815686966e75f608236883c90652554af53eb2a32a6fc31bcdacf",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/subscription-product-acceptance.py",
+    "publishedPath": "tools/phase9/subscription-product-acceptance.py",
+    "originalSha256": "28e1e227f777c8e500f72d29f1722efdf86515d7df271659bfa6446035215e51",
+    "publishedSha256": "6587be5bb03119ee21fe303fe15075616c37084503ca712bf077def323a40557",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "tools/phase9/vision-product-regression.cjs",
+    "publishedPath": "tools/phase9/vision-product-regression.cjs",
+    "originalSha256": "d3208147a335a4f5a6798eeb5dcf1561bfc82b857f668874f57062aa3edae905",
+    "publishedSha256": "d3208147a335a4f5a6798eeb5dcf1561bfc82b857f668874f57062aa3edae905",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/workspace-analysis-regression.cjs",
+    "publishedPath": "tools/phase9/workspace-analysis-regression.cjs",
+    "originalSha256": "6aaa0e7392e0871e0c366268235e2c4d798766b4707f837e0cade98f0ea357d9",
+    "publishedSha256": "6aaa0e7392e0871e0c366268235e2c4d798766b4707f837e0cade98f0ea357d9",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/zcode/bridge-acceptance.cjs",
+    "publishedPath": "tools/zcode/bridge-acceptance.cjs",
+    "originalSha256": "4b944f531d0a9f6a3baa1ae567adadb29e08652370a176dfe3ff29c8a9bae1ed",
+    "publishedSha256": "d812bf11c7595f32223e5926d4bde1d0ee0dffec903d0153a83e59c331591f8d",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "examples/package-examples.ps1",
+    "publishedPath": "examples/package-examples.ps1",
+    "originalSha256": "9d9154df4450b8238369496e637c82a6d8428c89d9f4ac3c2bfd0353d0c4bdfe",
+    "publishedSha256": "9d9154df4450b8238369496e637c82a6d8428c89d9f4ac3c2bfd0353d0c4bdfe",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "examples/providers/device-info/provider.json",
+    "publishedPath": "examples/providers/device-info/provider.json",
+    "originalSha256": "bf6dbde1bb28b6994b9dec3134b0fd310fba0ec6117d8785457f976dac081a48",
+    "publishedSha256": "bf6dbde1bb28b6994b9dec3134b0fd310fba0ec6117d8785457f976dac081a48",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "examples/providers/device-info/provider.sh",
+    "publishedPath": "examples/providers/device-info/provider.sh",
+    "originalSha256": "e38947df70afa7c49d87c36718358f15cb43d55013d33fa2951fcd4399786648",
+    "publishedSha256": "e38947df70afa7c49d87c36718358f15cb43d55013d33fa2951fcd4399786648",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "examples/skills/organize-downloads/SKILL.md",
+    "publishedPath": "examples/skills/organize-downloads/SKILL.md",
+    "originalSha256": "ad098cf5274cdd1eb35aae1fa5097d4af108a62d3491cbfd0e63abd0c0916b80",
+    "publishedSha256": "ad098cf5274cdd1eb35aae1fa5097d4af108a62d3491cbfd0e63abd0c0916b80",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "examples/skills/organize-downloads/references/rules.md",
+    "publishedPath": "examples/skills/organize-downloads/references/rules.md",
+    "originalSha256": "612f327df86f95c742052be77fa19f101fd0ef784b2aff299daff38b17cbd9bc",
+    "publishedSha256": "612f327df86f95c742052be77fa19f101fd0ef784b2aff299daff38b17cbd9bc",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "examples/skills/organize-downloads/scripts/preview.sh",
+    "publishedPath": "examples/skills/organize-downloads/scripts/preview.sh",
+    "originalSha256": "0fa42206e2c212f0ca017b089b7df09a1a6eb7204ced38d753ac536d9eba6659",
+    "publishedSha256": "0fa42206e2c212f0ca017b089b7df09a1a6eb7204ced38d753ac536d9eba6659",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "build.gradle.kts",
+    "publishedPath": "build.gradle.kts",
+    "originalSha256": "3a4b82559d8b90403bfd8c7fb5cefd394097fc1cfe6a2de77cf2741bac4288e8",
+    "publishedSha256": "3a4b82559d8b90403bfd8c7fb5cefd394097fc1cfe6a2de77cf2741bac4288e8",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "settings.gradle.kts",
+    "publishedPath": "settings.gradle.kts",
+    "originalSha256": "ee4a8e2e379457e03492c958fbe4623865de27975b6bd6560a3ec0000388a58e",
+    "publishedSha256": "ee4a8e2e379457e03492c958fbe4623865de27975b6bd6560a3ec0000388a58e",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "gradle.properties",
+    "publishedPath": "gradle.properties",
+    "originalSha256": "1b0d06c4540bd61cab45f373e963c74fa139d08167d7786012d2496666a0b258",
+    "publishedSha256": "1b0d06c4540bd61cab45f373e963c74fa139d08167d7786012d2496666a0b258",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "gradlew",
+    "publishedPath": "gradlew",
+    "originalSha256": "a5a5c199ba02189ae8c46a334223371a20599d9c298ef65e7540ede4a3f72d59",
+    "publishedSha256": "a5a5c199ba02189ae8c46a334223371a20599d9c298ef65e7540ede4a3f72d59",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "gradlew.bat",
+    "publishedPath": "gradlew.bat",
+    "originalSha256": "d539676c48b596afda64c963ec8f7ee56c7b3fe7e3b81d1dbe2d1a1e3dd9e9f8",
+    "publishedSha256": "d539676c48b596afda64c963ec8f7ee56c7b3fe7e3b81d1dbe2d1a1e3dd9e9f8",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/build.gradle.kts",
+    "publishedPath": "app/build.gradle.kts",
+    "originalSha256": "a84d7a7f1405db12971261938c9299755bc4d5836652d61d3e0e3db2408bef76",
+    "publishedSha256": "a84d7a7f1405db12971261938c9299755bc4d5836652d61d3e0e3db2408bef76",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/proguard-rules.pro",
+    "publishedPath": "app/proguard-rules.pro",
+    "originalSha256": "0f90c618e4ddd5b222ee31bfae34c79feabb437b94a9b5fb620dba98ca406832",
+    "publishedSha256": "0f90c618e4ddd5b222ee31bfae34c79feabb437b94a9b5fb620dba98ca406832",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "gradle/wrapper/gradle-wrapper.properties",
+    "publishedPath": "gradle/wrapper/gradle-wrapper.properties",
+    "originalSha256": "94c3a7cce4cdb7b52232c72acc2083ca2d35ae1951602448ce8d40dc59908a69",
+    "publishedSha256": "94c3a7cce4cdb7b52232c72acc2083ca2d35ae1951602448ce8d40dc59908a69",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/android15-safety-receiving-review-20261012.md",
+    "publishedPath": "history/docs/handoff/android15-safety-receiving-review-20261012.md",
+    "originalSha256": "fe6ed2b88c89790e6efad2fcdffb03182d37882173cd3388d46875b67c3bfb42",
+    "publishedSha256": "fe6ed2b88c89790e6efad2fcdffb03182d37882173cd3388d46875b67c3bfb42",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/carrier-boundary-analysis-receiving-review.md",
+    "publishedPath": "history/docs/handoff/carrier-boundary-analysis-receiving-review.md",
+    "originalSha256": "b70179671520ecce02585ce190920e39a4fa03de3910268c1ba3a370de3e48f2",
+    "publishedSha256": "b70179671520ecce02585ce190920e39a4fa03de3910268c1ba3a370de3e48f2",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/codex-status-for-zcode.md",
+    "publishedPath": "history/docs/handoff/codex-status-for-zcode.md",
+    "originalSha256": "ff02c84d373f43059d10ee9bf87432046aa8b6f545ebcbe95354b61a69b3204f",
+    "publishedSha256": "67d92a042c5953c5ff00b50ffc279706fb392545ff5e81ea75561f070ab74c7f",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/command-analysis1-android15-review-20261012.md",
+    "publishedPath": "history/docs/handoff/command-analysis1-android15-review-20261012.md",
+    "originalSha256": "7255c84019f836e496eb50525f9555b959729b8639b6aaf9b657ce5d31d50710",
+    "publishedSha256": "7255c84019f836e496eb50525f9555b959729b8639b6aaf9b657ce5d31d50710",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/command-analysis1-android17-acceptance.md",
+    "publishedPath": "history/docs/handoff/command-analysis1-android17-acceptance.md",
+    "originalSha256": "04491754c87ebdd6dabe9050afde803a82ae3b57cfe3a2b11bb6e52565052da8",
+    "publishedSha256": "04491754c87ebdd6dabe9050afde803a82ae3b57cfe3a2b11bb6e52565052da8",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/command-groundwork-android15-review-20261012.md",
+    "publishedPath": "history/docs/handoff/command-groundwork-android15-review-20261012.md",
+    "originalSha256": "ef26ad2b3ac2101c156c604f1b7d620ba9bd7e7a5afb2cb8dddcfde6610c1c6f",
+    "publishedSha256": "ef26ad2b3ac2101c156c604f1b7d620ba9bd7e7a5afb2cb8dddcfde6610c1c6f",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/core-skill1-android15-review-20261013.md",
+    "publishedPath": "history/docs/handoff/core-skill1-android15-review-20261013.md",
+    "originalSha256": "6ee79783aa03b3274b1a234778fb188a112b96c9793ec777179036260bda7784",
+    "publishedSha256": "88f72628291f7218e5c47215e36576f7d467bc843e19aaabf4a5c7ada46b93d7",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/core-skill1-android17-acceptance.md",
+    "publishedPath": "history/docs/handoff/core-skill1-android17-acceptance.md",
+    "originalSha256": "59fdbfef4fb956b3c0d3d253f17e7dce3c6c79d5a777273510b0edd340ecdd7c",
+    "publishedSha256": "59fdbfef4fb956b3c0d3d253f17e7dce3c6c79d5a777273510b0edd340ecdd7c",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/dsha-context-for-phase9.md",
+    "publishedPath": "history/docs/handoff/dsha-context-for-phase9.md",
+    "originalSha256": "60d4ce7e4f708257fd3fc3858fb4f46fe3fc6c33953a1bf8c09f0f56123ad393",
+    "publishedSha256": "fb6667f6d768d7d569ee322266e4628cade65951be40326ce46fa49e2090efe2",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/FILE_EXCHANGE_AGREEMENT.md",
+    "publishedPath": "history/docs/handoff/FILE_EXCHANGE_AGREEMENT.md",
+    "originalSha256": "02eeff019e53637dabdd3dc54b4ee2f99b5027b4d128064ac10599edccc2605f",
+    "publishedSha256": "05835d3f1c5c78ceb47b4dab0fcc718c2aab966d4ee36efb6c79df9102815448",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/FILE_EXCHANGE_STATUS.md",
+    "publishedPath": "history/docs/handoff/FILE_EXCHANGE_STATUS.md",
+    "originalSha256": "efccd97d948d703a03676266c8a3f7e63aedc5886de7e71cbcf3c3e58b6c6481",
+    "publishedSha256": "0d6938d1b761b591591116f7d56fb2914d2645157ac08f637949c5031957257b",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/local-provider1-android15-review-20261013.md",
+    "publishedPath": "history/docs/handoff/local-provider1-android15-review-20261013.md",
+    "originalSha256": "ab9a9cc6a085c01587c1bd2d3698a40d049952ee7d93bf8361720ce111e1c805",
+    "publishedSha256": "2fa0a515c39a3d9026c919202d7e55bc915b9e0b4d1bf5f9ab8e61af17d6e329",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/local-provider1-android17-acceptance.md",
+    "publishedPath": "history/docs/handoff/local-provider1-android17-acceptance.md",
+    "originalSha256": "a407a146d991f0c914f67188ce18507d0b07864519d5bc50efefeca91b475775",
+    "publishedSha256": "bd0c487b06f1947f56c2c092aa80cc0fe861c60ae1ddf00ad750520f29adec23",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/mainline-safety-acceptance.md",
+    "publishedPath": "history/docs/handoff/mainline-safety-acceptance.md",
+    "originalSha256": "b49f73a3628683f1adfdeaca1960704ddbbdf278b3c50de919c0867aef619198",
+    "publishedSha256": "9ccc8a1a6150dabc32d63f2a0e84adf7984091f9fed667ae8ef410165ed86131",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/managed-skill-product-acceptance-20261017.md",
+    "publishedPath": "history/docs/handoff/managed-skill-product-acceptance-20261017.md",
+    "originalSha256": "8a98625590ab1eeef5a4dc7e0336bd5f9dfeab04d2c7e0eded2e71aba1b1f893",
+    "publishedSha256": "3639e49fceec421bd432fc5388f3290274ba07a26dc636276f098aa286d11813",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/organizing-fixture-android15-review-20261012.md",
+    "publishedPath": "history/docs/handoff/organizing-fixture-android15-review-20261012.md",
+    "originalSha256": "a38fae8a83a3368e6c60dd222d7a3c27cb4e25df5b22e4bfbf180ecb87df50f5",
+    "publishedSha256": "a38fae8a83a3368e6c60dd222d7a3c27cb4e25df5b22e4bfbf180ecb87df50f5",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/phase7-baseline-freeze.md",
+    "publishedPath": "history/docs/handoff/phase7-baseline-freeze.md",
+    "originalSha256": "b5c71807097baa4dfb89cf56547a6b9835fdceefe444c97c45471365e1a87bf1",
+    "publishedSha256": "1f52b00b4b45fe52cc396819e7932a07d29563df1ef28afb17ae372ce0dfa166",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/phase8-workspace-write-gap-analysis.md",
+    "publishedPath": "history/docs/handoff/phase8-workspace-write-gap-analysis.md",
+    "originalSha256": "185403d5b7b16f50faf3cf1fd7865eef56ce194598807a4b1986daf12bea4c67",
+    "publishedSha256": "185403d5b7b16f50faf3cf1fd7865eef56ce194598807a4b1986daf12bea4c67",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/phase9-f1-product-acceptance.md",
+    "publishedPath": "history/docs/handoff/phase9-f1-product-acceptance.md",
+    "originalSha256": "d0627b968a07c8304abe8e71061e7cf2328138dcf7c791139b0a01c5324fa057",
+    "publishedSha256": "3137a11a443c107509df947816354826d6b3c872434903b5913f23f56cf574e2",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/phase9-integration-plan.md",
+    "publishedPath": "history/docs/handoff/phase9-integration-plan.md",
+    "originalSha256": "18ef1138d7d61113e63e8e9e38aa61665d7f1f859ff45b4b494d96fdfaebf40d",
+    "publishedSha256": "ea294b5e520e0575adf1d9ac0cc2450f7f26a0c7141f4ef502888bdb5b5a196f",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/phase9-product-acceptance.md",
+    "publishedPath": "history/docs/handoff/phase9-product-acceptance.md",
+    "originalSha256": "a8c4b31739f03009d187d4e01829d0a9a225040e8145b392aed083ed39d55d31",
+    "publishedSha256": "3fb18cb52f8664c933b0048476f143af5d0fb133fdd94f8fbe1ed861b2dcb54d",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/phase9-r2-correction-acceptance.md",
+    "publishedPath": "history/docs/handoff/phase9-r2-correction-acceptance.md",
+    "originalSha256": "f291d63f82a8f80030b61e9a751beaf1fa2b4876e51ecadfa65adebe00a2af5e",
+    "publishedSha256": "f291d63f82a8f80030b61e9a751beaf1fa2b4876e51ecadfa65adebe00a2af5e",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/phase9-r2-receiving-review.md",
+    "publishedPath": "history/docs/handoff/phase9-r2-receiving-review.md",
+    "originalSha256": "d937de7c605b7aa8fb4afada93b66572b4b4fcd280d35888126117f9aa0d8e67",
+    "publishedSha256": "ffb07841820acfd66d5d1be1d24d17ca0c4c9ea121d7a87bf85b90372ba9f12f",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/phase9-sync-receiving-review.md",
+    "publishedPath": "history/docs/handoff/phase9-sync-receiving-review.md",
+    "originalSha256": "020be4c6dba35c3ad69264b38c6465d5f3e0bf6a3d16883f07982632b3eb5c8c",
+    "publishedSha256": "fdd0a13598bdc3bb88cf275d024b2440f0784090f8ad5018e12372bfa3eaef31",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/phase9-tests-r2-correction-acceptance.md",
+    "publishedPath": "history/docs/handoff/phase9-tests-r2-correction-acceptance.md",
+    "originalSha256": "029e059246d674a80809bb28d24c6aa2d1b8f7deca8fad658cea398bd3d6f69c",
+    "publishedSha256": "029e059246d674a80809bb28d24c6aa2d1b8f7deca8fad658cea398bd3d6f69c",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/phase9-tests-receiving-review-20261004.md",
+    "publishedPath": "history/docs/handoff/phase9-tests-receiving-review-20261004.md",
+    "originalSha256": "bf7284fe827766e82ad8da8146d1981b416be94b6b9f96c3e705cdf1d1c7bf32",
+    "publishedSha256": "bf7284fe827766e82ad8da8146d1981b416be94b6b9f96c3e705cdf1d1c7bf32",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/provider-admission1-android17-20261023.md",
+    "publishedPath": "history/docs/handoff/provider-admission1-android17-20261023.md",
+    "originalSha256": "62c192ad1427d5b881de8123bd64cf694620d3a555e5f32267414f85e06ad152",
+    "publishedSha256": "62c192ad1427d5b881de8123bd64cf694620d3a555e5f32267414f85e06ad152",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/provider-admission1-readiness-20261023.md",
+    "publishedPath": "history/docs/handoff/provider-admission1-readiness-20261023.md",
+    "originalSha256": "025a9d3c619e08c23380ace9d52b57b449d59512a6447a1f9f9c961125b3b254",
+    "publishedSha256": "025a9d3c619e08c23380ace9d52b57b449d59512a6447a1f9f9c961125b3b254",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/provider-admission1-source-receiving-review-20261023.md",
+    "publishedPath": "history/docs/handoff/provider-admission1-source-receiving-review-20261023.md",
+    "originalSha256": "6a7bb95ce966f908b4da424cd98801e23aefc5355889351128ca3471eec1ed53",
+    "publishedSha256": "6a7bb95ce966f908b4da424cd98801e23aefc5355889351128ca3471eec1ed53",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/provider-binding1-android17-20261018.md",
+    "publishedPath": "history/docs/handoff/provider-binding1-android17-20261018.md",
+    "originalSha256": "1e8addd50eaf5fc98e5684f4251ccc6996294d90c14ba33450798b569bc6d910",
+    "publishedSha256": "1e8addd50eaf5fc98e5684f4251ccc6996294d90c14ba33450798b569bc6d910",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/provider-core-eof1-receiving-review-20261023.md",
+    "publishedPath": "history/docs/handoff/provider-core-eof1-receiving-review-20261023.md",
+    "originalSha256": "18532bf00c85f6e8f37b5e6a930f42a3e69719656556abb430b81325ae1d87f0",
+    "publishedSha256": "785797486abc2060681e837803ec6e4871b4cd4ea56e6ce2f0494b22d2cb6dce",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/provider-host-lifecycle1-android17-20261023.md",
+    "publishedPath": "history/docs/handoff/provider-host-lifecycle1-android17-20261023.md",
+    "originalSha256": "edba9528cd702930bba8a560b798d8e89551a865630ee687baf9615abc9e0a55",
+    "publishedSha256": "edba9528cd702930bba8a560b798d8e89551a865630ee687baf9615abc9e0a55",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/provider-isolation1-android17-feasibility-20261018.md",
+    "publishedPath": "history/docs/handoff/provider-isolation1-android17-feasibility-20261018.md",
+    "originalSha256": "38bf1044f598012d27d5ae3482e84874c0e5ca4177863d716269eb7708070c22",
+    "publishedSha256": "259030cad97df9185883a24b2f5b6b7c8c98481abed7129d099ebb8aafffcd08",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/provider-model1-android15-receiving-review-20261025.md",
+    "publishedPath": "history/docs/handoff/provider-model1-android15-receiving-review-20261025.md",
+    "originalSha256": "21122548302db894406b66ec8ad5a3035b615327b29250434e9846662c77c7bb",
+    "publishedSha256": "810cbcc98b11b375782e17e5a6f7134372fa27024fc836692005f2c7a6cb68e6",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/provider-model1-product-acceptance-20261025.md",
+    "publishedPath": "history/docs/handoff/provider-model1-product-acceptance-20261025.md",
+    "originalSha256": "85ca636ab38a47f546dd8f4110203275877d9801fed5659f8450dc4c44498838",
+    "publishedSha256": "3b1c639845aaa518bc5cf65fc728b19cfdfff227e5d5063513d955a70a143f0a",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/provider-package1-android15-review-20261018.md",
+    "publishedPath": "history/docs/handoff/provider-package1-android15-review-20261018.md",
+    "originalSha256": "76cd7d64635fe0e2c1c777dce72f33a5afe7b7172df852a2ad296ae25013fc5e",
+    "publishedSha256": "b866fa13fe1e67ae6dabc52e44880a193da3bfe77d2802f8cb3633266e88919f",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/provider-package1-android17-acceptance-20261018.md",
+    "publishedPath": "history/docs/handoff/provider-package1-android17-acceptance-20261018.md",
+    "originalSha256": "603aec554ca7ab8f114de7d0a30266511295465a5f10333c5073a57e816a5f38",
+    "publishedSha256": "d55620a3a5bd230d69d8a9443890b1def6b5fe513e6c8ef070ea704adaeff6e6",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/provider-process1-android17-20261018.md",
+    "publishedPath": "history/docs/handoff/provider-process1-android17-20261018.md",
+    "originalSha256": "22acbb6ab50366ee8efbae11c307b7b5dbb9a1f9b85bf1d1e6e3d61be0ea0fd5",
+    "publishedSha256": "c46a3f17bcca3f2e807f1e10217ec8a30ca124f043f35af8a7b3bfd8489b7e80",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/provider-projection1-android15-receiving-review-20261023.md",
+    "publishedPath": "history/docs/handoff/provider-projection1-android15-receiving-review-20261023.md",
+    "originalSha256": "ca985e9af3a356db1ff6490ff0def54738970228b1b2a801b565060073e37b61",
+    "publishedSha256": "497980221e04ea6b12446f796b68b6112d75d65ecdc2f46ddedc495a540222f7",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/provider-projection1-android17-20261023.md",
+    "publishedPath": "history/docs/handoff/provider-projection1-android17-20261023.md",
+    "originalSha256": "e9910daee649cc687396f340dc8b42f0cbb3ffe4927eeb13a891e7a470ce9628",
+    "publishedSha256": "e9910daee649cc687396f340dc8b42f0cbb3ffe4927eeb13a891e7a470ce9628",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/provider-projection1-zcode-next-task-20261023.md",
+    "publishedPath": "history/docs/handoff/provider-projection1-zcode-next-task-20261023.md",
+    "originalSha256": "7a00c10faf8f4c44840cb9c99c9085c1ac1eaa3c8c020baf4b15aa545605d7ee",
+    "publishedSha256": "e9f9bc2a34e1159a43a295f2095c0b2859a3bb66adfd200ceb27b8bdcd4b1ade",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/provider-review1-android17-20261023.md",
+    "publishedPath": "history/docs/handoff/provider-review1-android17-20261023.md",
+    "originalSha256": "019d3ba0c8a81937966ed70766c20e666af2410b446281396b8bc6d6a0f1e2e8",
+    "publishedSha256": "019d3ba0c8a81937966ed70766c20e666af2410b446281396b8bc6d6a0f1e2e8",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/provider-review1-source-receiving-review-20261023.md",
+    "publishedPath": "history/docs/handoff/provider-review1-source-receiving-review-20261023.md",
+    "originalSha256": "b49f83ace0401941fbe1881a5f16fb7853a3212c4ffe5dd3f6a988c40750bb7d",
+    "publishedSha256": "b49f83ace0401941fbe1881a5f16fb7853a3212c4ffe5dd3f6a988c40750bb7d",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/provider-service1-android17-20261018.md",
+    "publishedPath": "history/docs/handoff/provider-service1-android17-20261018.md",
+    "originalSha256": "eff9035cb4bb5a8204cbb0475e8ed1b66407c1ec35ae68487b70b6f74f436ecd",
+    "publishedSha256": "9c6f02665f4ab09ee56b1eb01c262aebf13c4debe1f4a0cb4e5a43d1abadf5c5",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/provider-session1-android15-receiving-review-20261023.md",
+    "publishedPath": "history/docs/handoff/provider-session1-android15-receiving-review-20261023.md",
+    "originalSha256": "8c16adb0b79f5816f1e0c240682813c1dc2b6a4f2eefea5619c40f6bcf37cee3",
+    "publishedSha256": "5cca5bf40a1ba69d80bd9a0ad563c6d2e9f4d68104440e103df2739ab9f89561",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/provider-session1-android17-20261018.md",
+    "publishedPath": "history/docs/handoff/provider-session1-android17-20261018.md",
+    "originalSha256": "23f1957b3b1324113b901aa8cc107abde5d460ae753f04c3f5c2dd4f16f56e91",
+    "publishedSha256": "413912537f1f8f211f4b28c1c6bde7217a0fa21e2052f9c9b7bb26520ab2fcbf",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/provider-settlement1-android15-receiving-review-20261018.md",
+    "publishedPath": "history/docs/handoff/provider-settlement1-android15-receiving-review-20261018.md",
+    "originalSha256": "4153695c5febfae14e80f8818f04e0f6d24060e98b84122ccf9d5fec8b0b57ce",
+    "publishedSha256": "f588664550216371700fdb61fea1530990ceb13bead2caba72ab6de13e983530",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/provider-settlement1-android17-20261018.md",
+    "publishedPath": "history/docs/handoff/provider-settlement1-android17-20261018.md",
+    "originalSha256": "cfde6ecae620189ade3ed0bfa3acbd45c32eb81554137c06b487b342779ec880",
+    "publishedSha256": "021b30bef48fa9cd3d1d968594fb4d96891c3f97296fc39eb75825ebeda73aee",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/provider-startup1-android17-20261018.md",
+    "publishedPath": "history/docs/handoff/provider-startup1-android17-20261018.md",
+    "originalSha256": "891c9c592b87591978a16f6f0b80167ccdc243f6891511614826416d4b261d40",
+    "publishedSha256": "0764ddbc27fc481fe82afadd7be2aacc052a93660648ef7162d06ef10e364830",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/runtime-payload-licenses.md",
+    "publishedPath": "history/docs/handoff/runtime-payload-licenses.md",
+    "originalSha256": "7f54c5bc629abe29f5c21c9b71d53a6c28ecb2c4b5381f9df7aec65b396cbc2b",
+    "publishedSha256": "7f54c5bc629abe29f5c21c9b71d53a6c28ecb2c4b5381f9df7aec65b396cbc2b",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/skill-bindings1-android15-review-20261017.md",
+    "publishedPath": "history/docs/handoff/skill-bindings1-android15-review-20261017.md",
+    "originalSha256": "158636f07dfc2150c447e87c0d69a7cbad585f60760749e98d6151cd560e02c0",
+    "publishedSha256": "58e261ca5d4e8b47e17c38a5d1eb7ed843494b1480627c219cf816ba176a07a5",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/skill-package1-android15-review-20261013.md",
+    "publishedPath": "history/docs/handoff/skill-package1-android15-review-20261013.md",
+    "originalSha256": "ada3ed53ce2e533744b33c3c94b93c0e222f843e5f73673ff3ad286218656784",
+    "publishedSha256": "7d6629b39c85a6f7a742e82326eb353590e064f687058972c5f8873066721273",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/skill-package1-host-preparation-20261013.md",
+    "publishedPath": "history/docs/handoff/skill-package1-host-preparation-20261013.md",
+    "originalSha256": "59ea5d102bb40df38050ab6e22364b230bcb9aa12f8d4fc27816f04b24005a66",
+    "publishedSha256": "59ea5d102bb40df38050ab6e22364b230bcb9aa12f8d4fc27816f04b24005a66",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/skill-session-bindings1-status-20261016.md",
+    "publishedPath": "history/docs/handoff/skill-session-bindings1-status-20261016.md",
+    "originalSha256": "ce9dbb04dac5b9c0b227373682f64b2f5c4ccf097e74f14c821f3285f1971276",
+    "publishedSha256": "748baf45ef8898d41f735dbd4866f6f39a08311ddfb6f10aecb9d8015222d7ac",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/skill-session-seam1-android17-acceptance-20261013.md",
+    "publishedPath": "history/docs/handoff/skill-session-seam1-android17-acceptance-20261013.md",
+    "originalSha256": "d292ee035be192fbcd0378fbd7e24a67f5dce06e93465359433641b197ea9ff8",
+    "publishedSha256": "d292ee035be192fbcd0378fbd7e24a67f5dce06e93465359433641b197ea9ff8",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/skill-ui1-android17-acceptance-20261017.md",
+    "publishedPath": "history/docs/handoff/skill-ui1-android17-acceptance-20261017.md",
+    "originalSha256": "ea411b321824090fef0e4d0ba90f79c92c58c4903f783f684ea62d45d0aff50f",
+    "publishedSha256": "e08236be8b1befa1408ee9416ffcf767bddbd0bd2e40a370b1bbf11d3bc0a46d",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/skill-ui1-review-closure-20261018.md",
+    "publishedPath": "history/docs/handoff/skill-ui1-review-closure-20261018.md",
+    "originalSha256": "a3e707b5abbbb49c12e7c185ad3815d8ee841e6c8a67d2ad0f2afa67b32e9960",
+    "publishedSha256": "a3e707b5abbbb49c12e7c185ad3815d8ee841e6c8a67d2ad0f2afa67b32e9960",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/subscription1-product-acceptance-20261025.md",
+    "publishedPath": "history/docs/handoff/subscription1-product-acceptance-20261025.md",
+    "originalSha256": "5d3e3b0fd50d75876309fb0fbc10b6f92f9c725634e872ee3971315f6ed1b51a",
+    "publishedSha256": "bec5af664765842cd129b35c04953ca13048440c40422bf30c0b7da83ac56b16",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/zcode-integration-status.md",
+    "publishedPath": "history/docs/handoff/zcode-integration-status.md",
+    "originalSha256": "5e54f82761a3826516b29c74ba70d38bb90dd4ccfddeb891dc8fbfa1cf9827de",
+    "publishedSha256": "0c7abb5a0f7e894a1ec4ffc91a4dd7d42c949e9a5db6a0e76c56ce8eab2a530d",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/ZCODE_PHASE9_SYNC_REVIEW_FOLLOWUP.md",
+    "publishedPath": "history/docs/handoff/ZCODE_PHASE9_SYNC_REVIEW_FOLLOWUP.md",
+    "originalSha256": "4dbc03c089ea8f7f07869b6def0620d55a519fbedbf4e87b1cb5c78151592e1b",
+    "publishedSha256": "ca1ec95e272e3e57c50131aa4bcd51b22f607c6b2014ebff8c9405308043e4f1",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/ZCODE_PHASE9_SYNC_TASK.md",
+    "publishedPath": "history/docs/handoff/ZCODE_PHASE9_SYNC_TASK.md",
+    "originalSha256": "073e478138c10ebcc12b7c4c980f5188b62dce0c0f267c22e554c9db63ede8da",
+    "publishedSha256": "b62f54cad2c28dbed5c619543aa1b78cd006ddb5267ab93b2abb6aca38c46cdc",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/local-tool-protocol.md",
+    "publishedPath": "history/docs/local-tool-protocol.md",
+    "originalSha256": "bb6bb9a4017dd6266866379dc1d24856670b62c145022dd08c3330ddcdf6942c",
+    "publishedSha256": "bb6bb9a4017dd6266866379dc1d24856670b62c145022dd08c3330ddcdf6942c",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/project/CODEX_ANDROID15_TAKEOVER_2026-10-29.md",
+    "publishedPath": "history/docs/project/CODEX_ANDROID15_TAKEOVER_2026-10-29.md",
+    "originalSha256": "d75a6cf78e7523cbd500adbf9ff9fdc93db4623e0f57a0048fac9841e37b1417",
+    "publishedSha256": "dc0a386937118fb2042805221ff8a36e3e02beb7bfd4d7f4bb769417fc0a57b2",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/project/command-skill-readiness.md",
+    "publishedPath": "history/docs/project/command-skill-readiness.md",
+    "originalSha256": "9e28d736893891f7ccfb4d9abf637d67767b8ed3100aaa82bc7c67d57881bbce",
+    "publishedSha256": "5d680a948f0c98e39132cdc613e6767378f2a3c5dd8376ee1b602ad6625f69ee",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/project/CURRENT_STATE.md",
+    "publishedPath": "history/docs/project/CURRENT_STATE.md",
+    "originalSha256": "21b6425942125044df28a79341c438436d272e4fea08377d4e06fd549fa8110c",
+    "publishedSha256": "08dfbe52bac09ec4208a38472392dac28281e47d355f33a460809ea48ae39497",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/project/local-provider-admission-gap-20261018.md",
+    "publishedPath": "history/docs/project/local-provider-admission-gap-20261018.md",
+    "originalSha256": "dc3d5d1b16c04dfee68c90693190b73e527ddb364c3ae412da5f4f2b34416016",
+    "publishedSha256": "dc3d5d1b16c04dfee68c90693190b73e527ddb364c3ae412da5f4f2b34416016",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/project/MAINLINE_EXECUTION_AND_ACCEPTANCE_PLAN_2026-10-04.md",
+    "publishedPath": "history/docs/project/MAINLINE_EXECUTION_AND_ACCEPTANCE_PLAN_2026-10-04.md",
+    "originalSha256": "cb5ac85e2a8d7ecd977218d8aa39bab8eb50228008ac87b5d43348739ceed6e6",
+    "publishedSha256": "55c886fcff025215601f451e4a63438e07a9c997e5ba7599d0eccf8ee1f3a0bb",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/research/dsha-reuse-assessment-2026-10-03.md",
+    "publishedPath": "history/docs/research/dsha-reuse-assessment-2026-10-03.md",
+    "originalSha256": "4ed090a05a559d3d9730ab67ca65aab6221a67712924669ab12eacfa5714428b",
+    "publishedSha256": "952aa44fa9760d3cb1abc7ca2bc1b6c11c3e7f040f4e84964f8222765ea41815",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/research/typed-event-consumer-audit-2026-10-29.md",
+    "publishedPath": "history/docs/research/typed-event-consumer-audit-2026-10-29.md",
+    "originalSha256": "b40c6d9376ff49dca57dd6248adc659910fd0b7108ab978a2ea835e0e46e8fba",
+    "publishedSha256": "b40c6d9376ff49dca57dd6248adc659910fd0b7108ab978a2ea835e0e46e8fba",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/skill-format.md",
+    "publishedPath": "history/docs/skill-format.md",
+    "originalSha256": "fa1aed204005bd65875f6a7a22d9abd5fb9c0ff4ad4e84cb4f0617bb3310ca03",
+    "publishedSha256": "fa1aed204005bd65875f6a7a22d9abd5fb9c0ff4ad4e84cb4f0617bb3310ca03",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/zcode-merge-gap-analysis.md",
+    "publishedPath": "history/docs/zcode-merge-gap-analysis.md",
+    "originalSha256": "e6ed468ed0aab968382f5c7582a44e60e2b41aa94109ec003e146c3d67fcb25d",
+    "publishedSha256": "18d794d313dad0f1298c26631ae7f304dffd44063be0985f236c8727f2976616",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/zcode-reuse-decision.md",
+    "publishedPath": "history/docs/zcode-reuse-decision.md",
+    "originalSha256": "614aa61498dbe983def958d7a1d3cc44e86032d2a71df3bdf4f8086365e7b903",
+    "publishedSha256": "614aa61498dbe983def958d7a1d3cc44e86032d2a71df3bdf4f8086365e7b903",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/local-provider1/SOURCE_IDENTITY.json",
+    "publishedPath": "evidence/local-provider1/SOURCE_IDENTITY.json",
+    "originalSha256": "222eab19143cb5410be5c4515138e11767b51542881bb798fbccb8bdb5cb4c18",
+    "publishedSha256": "222eab19143cb5410be5c4515138e11767b51542881bb798fbccb8bdb5cb4c18",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/local-provider1/validation-summary.json",
+    "publishedPath": "evidence/local-provider1/validation-summary.json",
+    "originalSha256": "e60e4e0d2a126fc08b924962dca1da657df9cf1a6e9732d3223070e7fed9ee72",
+    "publishedSha256": "e60e4e0d2a126fc08b924962dca1da657df9cf1a6e9732d3223070e7fed9ee72",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-admission1/acceptance-summary.json",
+    "publishedPath": "evidence/provider-admission1/acceptance-summary.json",
+    "originalSha256": "eed19e64fbb0690cf4ff4db9fefdc0f2fb3fbb887a589b9fbdf7e5dc26a616a0",
+    "publishedSha256": "eed19e64fbb0690cf4ff4db9fefdc0f2fb3fbb887a589b9fbdf7e5dc26a616a0",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-admission1-receiving/offline-review.json",
+    "publishedPath": "evidence/provider-admission1-receiving/offline-review.json",
+    "originalSha256": "b28949f62be5a7bbedb063359431aa78f701827329d8828fa9156463a03c3f5a",
+    "publishedSha256": "b28949f62be5a7bbedb063359431aa78f701827329d8828fa9156463a03c3f5a",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-binding1/acceptance-summary.json",
+    "publishedPath": "evidence/provider-binding1/acceptance-summary.json",
+    "originalSha256": "db66f7f0e7146e2dc45b3b6eab66179c0fe183cbcca6d4838ab66490ef932297",
+    "publishedSha256": "db66f7f0e7146e2dc45b3b6eab66179c0fe183cbcca6d4838ab66490ef932297",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-core-eof1-receiving/offline-review.json",
+    "publishedPath": "evidence/provider-core-eof1-receiving/offline-review.json",
+    "originalSha256": "98bc68c890316213e149426e80352de7c903471f3d327647ea0ce880d8c7a34e",
+    "publishedSha256": "98bc68c890316213e149426e80352de7c903471f3d327647ea0ce880d8c7a34e",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-isolation1/acceptance-summary.json",
+    "publishedPath": "evidence/provider-isolation1/acceptance-summary.json",
+    "originalSha256": "32b71c7e684a71453a04761c20dc1a1cfe40df6e26df616387cb6ccf35871067",
+    "publishedSha256": "32b71c7e684a71453a04761c20dc1a1cfe40df6e26df616387cb6ccf35871067",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-model1-receiving/offline-review.json",
+    "publishedPath": "evidence/provider-model1-receiving/offline-review.json",
+    "originalSha256": "06a054b63516950bb082c854984c665943c43074f1a16b2a72735f795a517ff4",
+    "publishedSha256": "06a054b63516950bb082c854984c665943c43074f1a16b2a72735f795a517ff4",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-package1/acceptance-summary.json",
+    "publishedPath": "evidence/provider-package1/acceptance-summary.json",
+    "originalSha256": "83c6d8c274baae3f8e08224a757cf0bb48876d4ca160c058d2170f27bfaae770",
+    "publishedSha256": "85d3d9d51dd1183a13b179a261a5fb4fdb58ff5cdf20701a8a2d062337b114a2",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-process1/acceptance-summary.json",
+    "publishedPath": "evidence/provider-process1/acceptance-summary.json",
+    "originalSha256": "0884bc8587d0160d3ad284f3bc26de0a651bfebacf650d03ad301b16b227d773",
+    "publishedSha256": "0884bc8587d0160d3ad284f3bc26de0a651bfebacf650d03ad301b16b227d773",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-projection1/acceptance-summary.json",
+    "publishedPath": "evidence/provider-projection1/acceptance-summary.json",
+    "originalSha256": "3e5e4734d7540bf307bd17d562bfd685f82849bf280d37e124b3a643f94e1ae9",
+    "publishedSha256": "3e5e4734d7540bf307bd17d562bfd685f82849bf280d37e124b3a643f94e1ae9",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-projection1-receiving/offline-review.json",
+    "publishedPath": "evidence/provider-projection1-receiving/offline-review.json",
+    "originalSha256": "06a4cae21ea5f14e8908476f015d6dcf76a4bca8d1136e3c96a520208ef978d5",
+    "publishedSha256": "06a4cae21ea5f14e8908476f015d6dcf76a4bca8d1136e3c96a520208ef978d5",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-review1/acceptance-summary.json",
+    "publishedPath": "evidence/provider-review1/acceptance-summary.json",
+    "originalSha256": "5e51d9b467907ff0e323de8dcd568122fbe0cead295518b0eef83ca0c714efb7",
+    "publishedSha256": "5e51d9b467907ff0e323de8dcd568122fbe0cead295518b0eef83ca0c714efb7",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-review1-receiving/offline-review.json",
+    "publishedPath": "evidence/provider-review1-receiving/offline-review.json",
+    "originalSha256": "d23128970c07da60494aeed18b2c27d0b23878ce4362a1bf76ace5a091228a31",
+    "publishedSha256": "d23128970c07da60494aeed18b2c27d0b23878ce4362a1bf76ace5a091228a31",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-service1/acceptance-summary.json",
+    "publishedPath": "evidence/provider-service1/acceptance-summary.json",
+    "originalSha256": "1a9f37f64ce45d721be8f6e2eaff9fc89c5e49d115c8bb38ca834e2a5977b421",
+    "publishedSha256": "1a9f37f64ce45d721be8f6e2eaff9fc89c5e49d115c8bb38ca834e2a5977b421",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-session1/acceptance-summary.json",
+    "publishedPath": "evidence/provider-session1/acceptance-summary.json",
+    "originalSha256": "c2035cea93b4c1ab1fbd05efe33794812a62338d19a1edd00f396915216d454d",
+    "publishedSha256": "c2035cea93b4c1ab1fbd05efe33794812a62338d19a1edd00f396915216d454d",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-session1-receiving/offline-review.json",
+    "publishedPath": "evidence/provider-session1-receiving/offline-review.json",
+    "originalSha256": "0c2030a6d67d900276a17d142e4b619a3582578783322d8caa5019f474c5076b",
+    "publishedSha256": "0c2030a6d67d900276a17d142e4b619a3582578783322d8caa5019f474c5076b",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-settlement1/acceptance-summary.json",
+    "publishedPath": "evidence/provider-settlement1/acceptance-summary.json",
+    "originalSha256": "4433991a624080d0f4e2127133124c92b08399d4b9b2cfffcf59737980dba998",
+    "publishedSha256": "4433991a624080d0f4e2127133124c92b08399d4b9b2cfffcf59737980dba998",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-settlement1-receiving/offline-review.json",
+    "publishedPath": "evidence/provider-settlement1-receiving/offline-review.json",
+    "originalSha256": "eed980251c8ff0d68f9ec7bc7502bb36e7d3fcfc35c8fe876f3ccf7cca87b211",
+    "publishedSha256": "eed980251c8ff0d68f9ec7bc7502bb36e7d3fcfc35c8fe876f3ccf7cca87b211",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-startup1/acceptance-summary.json",
+    "publishedPath": "evidence/provider-startup1/acceptance-summary.json",
+    "originalSha256": "5cbe1344e4035655fe7be38954a38c8e016f2ff44d890692172e18b270f8e328",
+    "publishedSha256": "5cbe1344e4035655fe7be38954a38c8e016f2ff44d890692172e18b270f8e328",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/skill-package1/SOURCE_IDENTITY.json",
+    "publishedPath": "evidence/skill-package1/SOURCE_IDENTITY.json",
+    "originalSha256": "d86edbc7ae87787ce2791b16aba91db5ad685b22ac275872e5f7e692dbd0261c",
+    "publishedSha256": "d86edbc7ae87787ce2791b16aba91db5ad685b22ac275872e5f7e692dbd0261c",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/skill-package1/validation-summary.json",
+    "publishedPath": "evidence/skill-package1/validation-summary.json",
+    "originalSha256": "62855bb04d3b2619b59898089610b89998de579756055e94e1c8ff3b7548a0d7",
+    "publishedSha256": "476b2e8f533079dae62c4939f846492759cf940a063d585c1d3981430bf204ec",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/skill-ui1/acceptance-summary.json",
+    "publishedPath": "evidence/skill-ui1/acceptance-summary.json",
+    "originalSha256": "1e10dc34a89f1cc77e148616bc751206126dc0e8eeb43268838148d972ed0e85",
+    "publishedSha256": "1e10dc34a89f1cc77e148616bc751206126dc0e8eeb43268838148d972ed0e85",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/local-provider1/candidate-before-autoload-ceiling/validation-summary.json",
+    "publishedPath": "evidence/local-provider1/candidate-before-autoload-ceiling/validation-summary.json",
+    "originalSha256": "b4a1b45a973ca72ce6523383803f0c0430a43c25eef573c47e82e71b345670b0",
+    "publishedSha256": "b4a1b45a973ca72ce6523383803f0c0430a43c25eef573c47e82e71b345670b0",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-admission1/1792759464379526800/source-sha256.json",
+    "publishedPath": "evidence/provider-admission1/1792759464379526800/source-sha256.json",
+    "originalSha256": "b57b35959b07a534719f3aaf017aeb2ac87b262cb6c303710927c27d71cef3ad",
+    "publishedSha256": "b57b35959b07a534719f3aaf017aeb2ac87b262cb6c303710927c27d71cef3ad",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-admission1/1792759831813604200/source-sha256.json",
+    "publishedPath": "evidence/provider-admission1/1792759831813604200/source-sha256.json",
+    "originalSha256": "4356722b5502610fab3f7481e099ed6abcceae7e6a4d9d7b1e129d84c70a782c",
+    "publishedSha256": "4356722b5502610fab3f7481e099ed6abcceae7e6a4d9d7b1e129d84c70a782c",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-admission1/1792760006423232400/source-sha256.json",
+    "publishedPath": "evidence/provider-admission1/1792760006423232400/source-sha256.json",
+    "originalSha256": "777e8fbc849895c6e1b0af238a43b50195d75a33c75858dcc29001851edd885a",
+    "publishedSha256": "777e8fbc849895c6e1b0af238a43b50195d75a33c75858dcc29001851edd885a",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-binding1/1792300776522434400/source-sha256.json",
+    "publishedPath": "evidence/provider-binding1/1792300776522434400/source-sha256.json",
+    "originalSha256": "549bf85b9abc7c4e5f42e90546b1faa8ad7d4e53237e633c4565638980803171",
+    "publishedSha256": "549bf85b9abc7c4e5f42e90546b1faa8ad7d4e53237e633c4565638980803171",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-binding1/1792301127522516900/source-sha256.json",
+    "publishedPath": "evidence/provider-binding1/1792301127522516900/source-sha256.json",
+    "originalSha256": "52b2e3060ba777a858e8db538852453547f13405a1d141b370443b4881cfb701",
+    "publishedSha256": "52b2e3060ba777a858e8db538852453547f13405a1d141b370443b4881cfb701",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-model1/acceptance-20261025-1792937892173990600/acceptance-summary.json",
+    "publishedPath": "evidence/provider-model1/acceptance-20261025-1792937892173990600/acceptance-summary.json",
+    "originalSha256": "d0df883f9ae510f1ad01c4e136ade659eaf8292833d2d633401a69d6c55967f1",
+    "publishedSha256": "d0df883f9ae510f1ad01c4e136ade659eaf8292833d2d633401a69d6c55967f1",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-model1/acceptance-20261025-1792937892173990600/source-sha256.json",
+    "publishedPath": "evidence/provider-model1/acceptance-20261025-1792937892173990600/source-sha256.json",
+    "originalSha256": "27e7d4d78f51dfffecf5465f9e49961fe009709d1cb4eaf092c9ee8f2d5c5eba",
+    "publishedSha256": "27e7d4d78f51dfffecf5465f9e49961fe009709d1cb4eaf092c9ee8f2d5c5eba",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-process1/1792298042836113300/source-sha256.json",
+    "publishedPath": "evidence/provider-process1/1792298042836113300/source-sha256.json",
+    "originalSha256": "df0855cfa441f161b886e2083e202473513fbbe3feeadf3842c1845e4e70e29d",
+    "publishedSha256": "df0855cfa441f161b886e2083e202473513fbbe3feeadf3842c1845e4e70e29d",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-projection1/1792732635982405900/source-sha256.json",
+    "publishedPath": "evidence/provider-projection1/1792732635982405900/source-sha256.json",
+    "originalSha256": "2c4162324e564f6bc9a0a11e8debeb66c6f12c4bee4c06c4480f4cb21d4e248d",
+    "publishedSha256": "2c4162324e564f6bc9a0a11e8debeb66c6f12c4bee4c06c4480f4cb21d4e248d",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-projection1/1792732851631460000/source-sha256.json",
+    "publishedPath": "evidence/provider-projection1/1792732851631460000/source-sha256.json",
+    "originalSha256": "576390f1d01e7bfbfe4c42ef3f06d108c071178d4f72c1fc62734c2d0077ac36",
+    "publishedSha256": "576390f1d01e7bfbfe4c42ef3f06d108c071178d4f72c1fc62734c2d0077ac36",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-review1/1792729334201604500/source-sha256.json",
+    "publishedPath": "evidence/provider-review1/1792729334201604500/source-sha256.json",
+    "originalSha256": "857354abd0ae4bd5dd0c13d751f281c4d082e3d219045df3a46c1ac4075a426d",
+    "publishedSha256": "857354abd0ae4bd5dd0c13d751f281c4d082e3d219045df3a46c1ac4075a426d",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-review1/1792729468622776800/source-sha256.json",
+    "publishedPath": "evidence/provider-review1/1792729468622776800/source-sha256.json",
+    "originalSha256": "bc93c021a718aec1c0f7216bc8e594322f0d3abd73d1ce5a72ad8881562ccfa3",
+    "publishedSha256": "bc93c021a718aec1c0f7216bc8e594322f0d3abd73d1ce5a72ad8881562ccfa3",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-review1/1792729522969096400/source-sha256.json",
+    "publishedPath": "evidence/provider-review1/1792729522969096400/source-sha256.json",
+    "originalSha256": "2185f7ba4d5fbd98736c9261d179aee56509501fb22be4857457be5a667324f5",
+    "publishedSha256": "2185f7ba4d5fbd98736c9261d179aee56509501fb22be4857457be5a667324f5",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-service1/1792299203409274200/source-sha256.json",
+    "publishedPath": "evidence/provider-service1/1792299203409274200/source-sha256.json",
+    "originalSha256": "fec3ce6b64ee547a37ed8fb00bc392e0970c9c05ea6fdc0b1326e6925c54ed40",
+    "publishedSha256": "fec3ce6b64ee547a37ed8fb00bc392e0970c9c05ea6fdc0b1326e6925c54ed40",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-service1/1792299279992218100/source-sha256.json",
+    "publishedPath": "evidence/provider-service1/1792299279992218100/source-sha256.json",
+    "originalSha256": "934252c92d6163a9bfaeac6fcc5a9c9ff3f69aceb8cb99069bce584a7cc59cea",
+    "publishedSha256": "934252c92d6163a9bfaeac6fcc5a9c9ff3f69aceb8cb99069bce584a7cc59cea",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-service1/1792299374367559300/source-sha256.json",
+    "publishedPath": "evidence/provider-service1/1792299374367559300/source-sha256.json",
+    "originalSha256": "7ee944984fd2a2992c75baba49b8ccc494b6bbaa6d16e4cfb2bff30d516279eb",
+    "publishedSha256": "7ee944984fd2a2992c75baba49b8ccc494b6bbaa6d16e4cfb2bff30d516279eb",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-service1/1792299429577716000/source-sha256.json",
+    "publishedPath": "evidence/provider-service1/1792299429577716000/source-sha256.json",
+    "originalSha256": "3f1a1dda3981f961339ce554d8a299101c8af27273e1989c52333afe3cfa1b82",
+    "publishedSha256": "3f1a1dda3981f961339ce554d8a299101c8af27273e1989c52333afe3cfa1b82",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-service1/1792299540959343800/source-sha256.json",
+    "publishedPath": "evidence/provider-service1/1792299540959343800/source-sha256.json",
+    "originalSha256": "e7133e107f43d23ec3a5c18fee612979a1232bfece97560ba9b333d9a68d9324",
+    "publishedSha256": "e7133e107f43d23ec3a5c18fee612979a1232bfece97560ba9b333d9a68d9324",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-startup1/1792298506636710400/source-sha256.json",
+    "publishedPath": "evidence/provider-startup1/1792298506636710400/source-sha256.json",
+    "originalSha256": "a0695c14acc57e124929d02611c579811af3a19e87293f87d6b1557292563ff1",
+    "publishedSha256": "a0695c14acc57e124929d02611c579811af3a19e87293f87d6b1557292563ff1",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-startup1/1792298519124769200/source-sha256.json",
+    "publishedPath": "evidence/provider-startup1/1792298519124769200/source-sha256.json",
+    "originalSha256": "a0695c14acc57e124929d02611c579811af3a19e87293f87d6b1557292563ff1",
+    "publishedSha256": "a0695c14acc57e124929d02611c579811af3a19e87293f87d6b1557292563ff1",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-startup1/1792298603781943800/source-sha256.json",
+    "publishedPath": "evidence/provider-startup1/1792298603781943800/source-sha256.json",
+    "originalSha256": "fbdec9b258e4b3262a2678a1b4e934aa37893f5b6cbfba740991966877a157d8",
+    "publishedSha256": "fbdec9b258e4b3262a2678a1b4e934aa37893f5b6cbfba740991966877a157d8",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/provider-startup1/1792298608451768900/source-sha256.json",
+    "publishedPath": "evidence/provider-startup1/1792298608451768900/source-sha256.json",
+    "originalSha256": "fbdec9b258e4b3262a2678a1b4e934aa37893f5b6cbfba740991966877a157d8",
+    "publishedSha256": "fbdec9b258e4b3262a2678a1b4e934aa37893f5b6cbfba740991966877a157d8",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/subscription1/summary-20261025/acceptance-summary.json",
+    "publishedPath": "evidence/subscription1/summary-20261025/acceptance-summary.json",
+    "originalSha256": "3967d9961a1fc85c86610ea256b7d32e2471cfc787e2e840cbab16bce2b44fbb",
+    "publishedSha256": "3967d9961a1fc85c86610ea256b7d32e2471cfc787e2e840cbab16bce2b44fbb",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/handoff/evidence/subscription1/summary-20261025/source-sha256.json",
+    "publishedPath": "evidence/subscription1/summary-20261025/source-sha256.json",
+    "originalSha256": "ff85878f86476a7307b4a234c1bf1757f48977db30de5a9b82b39ccc039d4f85",
+    "publishedSha256": "ff85878f86476a7307b4a234c1bf1757f48977db30de5a9b82b39ccc039d4f85",
+    "change": "byte-identical"
+  }
+]

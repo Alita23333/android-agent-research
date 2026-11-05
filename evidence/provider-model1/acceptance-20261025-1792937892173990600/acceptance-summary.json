@@ -1,0 +1,744 @@
+{
+  "verdict": "PASS_SCOPED_PRODUCT_MODEL_PROVIDER_AND_CANCELLATION",
+  "apkSha256": "1FF91047068AF96339F2E451016C593DE28FDD360D3325B351D0A24B9966B8F9",
+  "runtime": "0.16.9-runtime5",
+  "payloadSha256": "c03768314ac26dca9b8e52fe08d8dbc429204aa08ffeef1a3beea159c008af84",
+  "packagedPayloads": 41,
+  "installedPayloads": 40,
+  "changedPayloads": [
+    "assets/zcode-runtime/bootstrap.cjs",
+    "assets/zcode-runtime/runtime-manifest.json"
+  ],
+  "killSwitches": {
+    "memory": false,
+    "memoryExtraction": false,
+    "plugins": false
+  },
+  "models": [
+    {
+      "evidence": "1792764185483531200\\first-1792764234778049100",
+      "operation": 651,
+      "version": "v1",
+      "sessionId": "sess_d20c7ff7-caac-43a9-8f76-313a20cd607a",
+      "artifactSha256": "fbe0eb51aeba61705c978123b4a5825c22c518d01fe87de38b58a476d7a781ec"
+    },
+    {
+      "evidence": "1792764185483531200\\restart-1792764280673947600",
+      "operation": 652,
+      "version": "v1",
+      "sessionId": "sess_d20c7ff7-caac-43a9-8f76-313a20cd607a",
+      "artifactSha256": "ce5468d6b439ab8175b3b83b8e61c3c3d05f0323abd4368d09d144bfc12acd1c"
+    },
+    {
+      "evidence": "1792764185483531200\\restart-1792937203361089300",
+      "operation": 657,
+      "version": "v1",
+      "sessionId": "sess_d20c7ff7-caac-43a9-8f76-313a20cd607a",
+      "artifactSha256": "6b0b5d959975c6b9de3a7a2a7fef55bc2fce0c95e8b7039b379ab2a803782d0c"
+    },
+    {
+      "evidence": "1792764185483531200\\restart-1792937601798959500",
+      "operation": 663,
+      "version": "v1",
+      "sessionId": "sess_d20c7ff7-caac-43a9-8f76-313a20cd607a",
+      "artifactSha256": "730b092cb0946fedd84b9591c15d4163a6e2bcae12922def1d294b8c064ae902"
+    },
+    {
+      "evidence": "1792764185483531200\\service-stop-1792937487398807800",
+      "operation": 660,
+      "version": "v2",
+      "sessionId": "sess_dd1b2295-f103-4f36-b311-a953e3d809a6",
+      "artifactSha256": "c5aaf3dac02d69e85647470e43690c6c717a391abde56a3d683d237aca0348bc"
+    },
+    {
+      "evidence": "1792764185483531200\\service-stop-1792937558786619300",
+      "operation": 662,
+      "version": "v2",
+      "sessionId": "sess_c111b92f-b6b7-4220-8dce-4cc8850fd77f",
+      "artifactSha256": "6525febfc634f4c9948ea2a491493e84ee134a6303e2329cc8f02829366b7ba7"
+    },
+    {
+      "evidence": "1792764185483531200\\update-1792764309500663800",
+      "operation": 654,
+      "version": "v2",
+      "sessionId": "sess_80f64597-2a87-462d-8c0f-495a0428f407",
+      "artifactSha256": "bdf6e04c728e83a9c40145b5e1af0fa3bff37ea3acfe35d5e0856e5b13f2add8"
+    },
+    {
+      "evidence": "1792764185483531200\\update-1792764309500663800",
+      "operation": 653,
+      "version": "v1",
+      "sessionId": "sess_d20c7ff7-caac-43a9-8f76-313a20cd607a",
+      "artifactSha256": "8847dede4e11ffa76d21dcb9d6aec8512acc5aa9c6008556c4803b33b806f2e0"
+    }
+  ],
+  "finalServiceStop": {
+    "sessionId": "sess_ad576a0d-2481-433f-b0c0-9d7f1860f4df",
+    "carrierCall": {
+      "type": "carrier-call",
+      "callId": "call_mvnwqffagvgfex",
+      "toolId": "aa_model_1792764185483531200_compute",
+      "argumentKeys": [
+        "base64"
+      ],
+      "ts": 1792937565334
+    },
+    "ownedPids": [
+      20086,
+      20119,
+      20174,
+      21187,
+      21217
+    ],
+    "survivors": [],
+    "operation": {
+      "id": 661,
+      "ts": "2026-10-25T14:12:45.292Z",
+      "session": "sess_ad576a0d-2481-433f-b0c0-9d7f1860f4df",
+      "task": null,
+      "tool": "mcp__android-host__aa_model_1792764185483531200_compute",
+      "args": "{\"base64\":\"V0FJVDpzZXJ2aWNlLXN0b3AtMTc5Mjc2NDE4NTQ4MzUzMTIwMA==\"}",
+      "provider": "agent-core",
+      "capability": null,
+      "risk": "PRIVILEGED",
+      "mode": "ask",
+      "decision": "allow",
+      "approval_source": "ui",
+      "rule_hits": "[]",
+      "hard_confirm": 0,
+      "result": "CANCELLED",
+      "files_modified": null,
+      "before_hash": null,
+      "after_hash": null,
+      "backup_path": null,
+      "reversible": 0,
+      "detail": "native_provider_result call_id=call_mvnwqffagvgfex provider_sha256=637df0116a5ef07dfe2c7630f404fe6073c7e238b4065d0f6094b2c2442373a3 declaration_sha256=f338e96c6a7d24b4129678d063831a8130bb6427d99175314d1c3a30c2ed1445"
+    },
+    "admissionUnlockedInActualUi": true,
+    "relaunched": true,
+    "journalSettled": true,
+    "scope": "Actual product Service UI stop during real model/isolated provider call; no manual process kill or force-stop"
+  },
+  "finalServiceProcessObservation": {
+    "ownedPids": [
+      20086,
+      20119,
+      20174,
+      21187,
+      21217
+    ],
+    "survivingPids": [],
+    "elapsedMs": 781
+  },
+  "finalCancel": {
+    "sessionId": "sess_00f4fcd2-6a7c-4d39-9ea7-b9999b429b0e",
+    "carrierCall": {
+      "type": "carrier-call",
+      "callId": "call_mvnwtrmugv4nqh",
+      "toolId": "aa_model_1792764185483531200_compute",
+      "argumentKeys": [
+        "base64"
+      ],
+      "ts": 1792937721126
+    },
+    "activeIsolatedPid": 24586,
+    "activeUid": "99428",
+    "processGone": true,
+    "exitAfterStopMs": 141,
+    "stopReply": {},
+    "operation": {
+      "id": 664,
+      "ts": "2026-10-25T14:15:21.097Z",
+      "session": "sess_00f4fcd2-6a7c-4d39-9ea7-b9999b429b0e",
+      "task": null,
+      "tool": "mcp__android-host__aa_model_1792764185483531200_compute",
+      "args": "{\"base64\":\"V0FJVDpjYW5jZWwtMTc5Mjc2NDE4NTQ4MzUzMTIwMA==\"}",
+      "provider": "agent-core",
+      "capability": null,
+      "risk": "PRIVILEGED",
+      "mode": "ask",
+      "decision": "allow",
+      "approval_source": "ui",
+      "rule_hits": "[]",
+      "hard_confirm": 0,
+      "result": "CANCELLED",
+      "files_modified": null,
+      "before_hash": null,
+      "after_hash": null,
+      "backup_path": null,
+      "reversible": 0,
+      "detail": "native_provider_result call_id=call_mvnwtrmugv4nqh provider_sha256=637df0116a5ef07dfe2c7630f404fe6073c7e238b4065d0f6094b2c2442373a3 declaration_sha256=f338e96c6a7d24b4129678d063831a8130bb6427d99175314d1c3a30c2ed1445"
+    },
+    "noSuccessRecorded": true,
+    "noCallArtifact": true,
+    "journalSettled": true
+  },
+  "reconnect": {
+    "sameRuntime": true,
+    "sessionId": "sess_d20c7ff7-caac-43a9-8f76-313a20cd607a",
+    "exactMessagesRetained": true,
+    "beforeStartedAt": 1792937611307,
+    "afterStartedAt": 1792937611307
+  },
+  "streamChunks": 357,
+  "jvm": {
+    "tests": 134,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "lint": {
+    "Error": 0,
+    "Warning": 28
+  },
+  "offlineChecks": 135,
+  "checks": [
+    {
+      "name": "Android17 assigned device",
+      "passed": true
+    },
+    {
+      "name": "final installed package exact frozen APK",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/providers/text-digest/provider.cjs",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/providers/text-digest/provider.json",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/zcode-runtime/analysis-worker.cjs",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/zcode-runtime/android-carrier.cjs",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/zcode-runtime/bootstrap.cjs",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/zcode-runtime/carrier-authorization.cjs",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/zcode-runtime/contracts/config-disable-pack.json",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/zcode-runtime/contracts/hard-confirm-pack.json",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/zcode-runtime/contracts/journal.sql",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/zcode-runtime/gateway.cjs",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/zcode-runtime/lab-tls/ca.pem",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/zcode-runtime/lab-tls/server-key.pem",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/zcode-runtime/lab-tls/server.pem",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/zcode-runtime/lib/libc++_shared.so",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/zcode-runtime/lib/libcares.so",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/zcode-runtime/lib/libcrypto.so.3",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/zcode-runtime/lib/libicudata.so.78",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/zcode-runtime/lib/libicui18n.so.78",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/zcode-runtime/lib/libicuuc.so.78",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/zcode-runtime/lib/libsqlite3.so",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/zcode-runtime/lib/libssl.so.3",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/zcode-runtime/lib/libz.so.1",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/zcode-runtime/provider-review-bindings.cjs",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/zcode-runtime/provider/personal_provider_config.json",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/zcode-runtime/provider/zcode-builtin.json",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/zcode-runtime/runtime-manifest.json",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/zcode-runtime/shell-lib/libandroid-support.so",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/zcode-runtime/shell-lib/libcharset.so",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/zcode-runtime/shell-lib/libhistory.so.8",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/zcode-runtime/shell-lib/libiconv.so",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/zcode-runtime/shell-lib/libncursesw.so.6",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/zcode-runtime/shell-lib/libreadline.so.8",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/zcode-runtime/skill-session-bindings.cjs",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/zcode-runtime/ui-tree.cjs",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/zcode-runtime/vision-pipeline.cjs",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/zcode-runtime/web-search.cjs",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/zcode-runtime/workspace-analysis.cjs",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/zcode-runtime/workspace-files.cjs",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload assets/zcode-runtime/zcode.cjs",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload jniLibs/arm64-v8a/libbash.so",
+      "passed": true
+    },
+    {
+      "name": "packaged exact payload jniLibs/arm64-v8a/libnode.so",
+      "passed": true
+    },
+    {
+      "name": "payload changes only bootstrap and manifest description",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/providers/text-digest/provider.cjs",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/providers/text-digest/provider.json",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/zcode-runtime/analysis-worker.cjs",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/zcode-runtime/android-carrier.cjs",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/zcode-runtime/bootstrap.cjs",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/zcode-runtime/carrier-authorization.cjs",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/zcode-runtime/contracts/config-disable-pack.json",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/zcode-runtime/contracts/hard-confirm-pack.json",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/zcode-runtime/contracts/journal.sql",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/zcode-runtime/gateway.cjs",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/zcode-runtime/lab-tls/ca.pem",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/zcode-runtime/lab-tls/server-key.pem",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/zcode-runtime/lab-tls/server.pem",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/zcode-runtime/lib/libc++_shared.so",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/zcode-runtime/lib/libcares.so",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/zcode-runtime/lib/libcrypto.so.3",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/zcode-runtime/lib/libicudata.so.78",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/zcode-runtime/lib/libicui18n.so.78",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/zcode-runtime/lib/libicuuc.so.78",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/zcode-runtime/lib/libsqlite3.so",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/zcode-runtime/lib/libssl.so.3",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/zcode-runtime/lib/libz.so.1",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/zcode-runtime/provider-review-bindings.cjs",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/zcode-runtime/provider/zcode-builtin.json",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/zcode-runtime/runtime-manifest.json",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/zcode-runtime/shell-lib/libandroid-support.so",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/zcode-runtime/shell-lib/libcharset.so",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/zcode-runtime/shell-lib/libhistory.so.8",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/zcode-runtime/shell-lib/libiconv.so",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/zcode-runtime/shell-lib/libncursesw.so.6",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/zcode-runtime/shell-lib/libreadline.so.8",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/zcode-runtime/skill-session-bindings.cjs",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/zcode-runtime/ui-tree.cjs",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/zcode-runtime/vision-pipeline.cjs",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/zcode-runtime/web-search.cjs",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/zcode-runtime/workspace-analysis.cjs",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/zcode-runtime/workspace-files.cjs",
+      "passed": true
+    },
+    {
+      "name": "installed payload assets/zcode-runtime/zcode.cjs",
+      "passed": true
+    },
+    {
+      "name": "installed payload jniLibs/arm64-v8a/libbash.so",
+      "passed": true
+    },
+    {
+      "name": "installed payload jniLibs/arm64-v8a/libnode.so",
+      "passed": true
+    },
+    {
+      "name": "production memory/plugins kill switches retained",
+      "passed": true
+    },
+    {
+      "name": "fresh real runtime ready",
+      "passed": true
+    },
+    {
+      "name": "durable old/new session provider version bindings",
+      "passed": true
+    },
+    {
+      "name": "artifact exact bytes first-1792764234778049100first",
+      "passed": true
+    },
+    {
+      "name": "JSON-RPC2 actual provider trace first-1792764234778049100first",
+      "passed": true
+    },
+    {
+      "name": "exact successful operation provenance 651",
+      "passed": true
+    },
+    {
+      "name": "independent input checksum 651",
+      "passed": true
+    },
+    {
+      "name": "actual model tool part 651",
+      "passed": true
+    },
+    {
+      "name": "artifact exact bytes restart-1792764280673947600restart",
+      "passed": true
+    },
+    {
+      "name": "JSON-RPC2 actual provider trace restart-1792764280673947600restart",
+      "passed": true
+    },
+    {
+      "name": "exact successful operation provenance 652",
+      "passed": true
+    },
+    {
+      "name": "independent input checksum 652",
+      "passed": true
+    },
+    {
+      "name": "actual model tool part 652",
+      "passed": true
+    },
+    {
+      "name": "artifact exact bytes restart-1792937203361089300restart",
+      "passed": true
+    },
+    {
+      "name": "JSON-RPC2 actual provider trace restart-1792937203361089300restart",
+      "passed": true
+    },
+    {
+      "name": "exact successful operation provenance 657",
+      "passed": true
+    },
+    {
+      "name": "independent input checksum 657",
+      "passed": true
+    },
+    {
+      "name": "actual model tool part 657",
+      "passed": true
+    },
+    {
+      "name": "artifact exact bytes restart-1792937601798959500restart",
+      "passed": true
+    },
+    {
+      "name": "JSON-RPC2 actual provider trace restart-1792937601798959500restart",
+      "passed": true
+    },
+    {
+      "name": "exact successful operation provenance 663",
+      "passed": true
+    },
+    {
+      "name": "independent input checksum 663",
+      "passed": true
+    },
+    {
+      "name": "actual model tool part 663",
+      "passed": true
+    },
+    {
+      "name": "artifact exact bytes service-stop-1792937487398807800after-service-stop",
+      "passed": true
+    },
+    {
+      "name": "JSON-RPC2 actual provider trace service-stop-1792937487398807800after-service-stop",
+      "passed": true
+    },
+    {
+      "name": "exact successful operation provenance 660",
+      "passed": true
+    },
+    {
+      "name": "independent input checksum 660",
+      "passed": true
+    },
+    {
+      "name": "actual model tool part 660",
+      "passed": true
+    },
+    {
+      "name": "artifact exact bytes service-stop-1792937558786619300after-service-stop",
+      "passed": true
+    },
+    {
+      "name": "JSON-RPC2 actual provider trace service-stop-1792937558786619300after-service-stop",
+      "passed": true
+    },
+    {
+      "name": "exact successful operation provenance 662",
+      "passed": true
+    },
+    {
+      "name": "independent input checksum 662",
+      "passed": true
+    },
+    {
+      "name": "actual model tool part 662",
+      "passed": true
+    },
+    {
+      "name": "artifact exact bytes update-1792764309500663800new-after-update",
+      "passed": true
+    },
+    {
+      "name": "JSON-RPC2 actual provider trace update-1792764309500663800new-after-update",
+      "passed": true
+    },
+    {
+      "name": "exact successful operation provenance 654",
+      "passed": true
+    },
+    {
+      "name": "independent input checksum 654",
+      "passed": true
+    },
+    {
+      "name": "actual model tool part 654",
+      "passed": true
+    },
+    {
+      "name": "artifact exact bytes update-1792764309500663800old-after-update",
+      "passed": true
+    },
+    {
+      "name": "JSON-RPC2 actual provider trace update-1792764309500663800old-after-update",
+      "passed": true
+    },
+    {
+      "name": "exact successful operation provenance 653",
+      "passed": true
+    },
+    {
+      "name": "independent input checksum 653",
+      "passed": true
+    },
+    {
+      "name": "actual model tool part 653",
+      "passed": true
+    },
+    {
+      "name": "eight retained real-model successful physical reports",
+      "passed": true
+    },
+    {
+      "name": "final actual UI Service stop fully observed",
+      "passed": true
+    },
+    {
+      "name": "final ordinary cancel settled and dead process",
+      "passed": true
+    },
+    {
+      "name": "final force-stop preserves exact full messages",
+      "passed": true
+    },
+    {
+      "name": "Activity reconnect same runtime and messages",
+      "passed": true
+    },
+    {
+      "name": "real streamed response multiple chunks observed",
+      "passed": true
+    },
+    {
+      "name": "fresh JVM134 zero failure error skip",
+      "passed": true
+    },
+    {
+      "name": "lint0 errors28warnings",
+      "passed": true
+    }
+  ],
+  "residuals": [
+    "Pre-repair operation655 and658 remain historically incomplete, not retrospectively rewritten.",
+    "Native fixture imports package through real product store; ZIP picker import not exercised in this round.",
+    "Per-call Gateway approval uses exact-tool/exact-input test responder; actual product admission/Service stop use real UI taps.",
+    "SSE contains existing web consumer deliveryKind Invalid params errors: 12. Model streaming is observed; complete web event-subscription compatibility is not claimed.",
+    "No whole-app crash while a side-effecting operation is active, universal process deadline or Android15 model acceptance claim."
+  ]
+}

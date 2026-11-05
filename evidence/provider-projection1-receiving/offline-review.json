@@ -1,0 +1,591 @@
+{
+  "disposition": "ACCEPTED_SCOPED_ANDROID15_COMPATIBILITY",
+  "archiveSha256": "929D776CE29C215273C71B2A0E3C148CFF5E037FB2FCE7CD49C11F2B1CD5F42C",
+  "checkCount": 139,
+  "checks": [
+    {
+      "name": "incoming eleven files complete and integrity",
+      "passed": true
+    },
+    {
+      "name": "incoming exact archive identity",
+      "passed": true
+    },
+    {
+      "name": "local extracted sealed bytes HANDOFF.md",
+      "passed": true
+    },
+    {
+      "name": "local extracted sealed bytes PACKAGE.json",
+      "passed": true
+    },
+    {
+      "name": "local extracted sealed bytes SHA256SUMS.txt",
+      "passed": true
+    },
+    {
+      "name": "local extracted sealed bytes residuals/RESIDUALS.md",
+      "passed": true
+    },
+    {
+      "name": "local extracted sealed bytes results/BASELINE-RESULT.json",
+      "passed": true
+    },
+    {
+      "name": "local extracted sealed bytes results/SOURCE-REVIEW.md",
+      "passed": true
+    },
+    {
+      "name": "local extracted sealed bytes results/baseline-post.json",
+      "passed": true
+    },
+    {
+      "name": "local extracted sealed bytes results/baseline-pre.json",
+      "passed": true
+    },
+    {
+      "name": "local extracted sealed bytes results/commands-and-exits.json",
+      "passed": true
+    },
+    {
+      "name": "local extracted sealed bytes results/source-verification.json",
+      "passed": true
+    },
+    {
+      "name": "local extracted sealed bytes results/tap.stderr",
+      "passed": true
+    },
+    {
+      "name": "local extracted sealed bytes results/tap.stdout",
+      "passed": true
+    },
+    {
+      "name": "local extracted sealed bytes source/wrapper.txt",
+      "passed": true
+    },
+    {
+      "name": "one exact dependency",
+      "passed": true
+    },
+    {
+      "name": "sealed dependency archive",
+      "passed": true
+    },
+    {
+      "name": "dependency required bytes ANDROID15-BASELINE-REFERENCE.md",
+      "passed": true
+    },
+    {
+      "name": "dependency required bytes BOUNDARY-CONTRACT.md",
+      "passed": true
+    },
+    {
+      "name": "dependency required bytes HANDOFF.md",
+      "passed": true
+    },
+    {
+      "name": "dependency required bytes SOURCE_IDENTITY.json",
+      "passed": true
+    },
+    {
+      "name": "dependency required bytes app/src/main/assets/zcode-runtime/provider-review-bindings.cjs",
+      "passed": true
+    },
+    {
+      "name": "dependency required bytes app/src/main/assets/zcode-runtime/skill-session-bindings.cjs",
+      "passed": true
+    },
+    {
+      "name": "dependency required bytes app/src/main/assets/zcode-runtime/bootstrap.cjs",
+      "passed": true
+    },
+    {
+      "name": "dependency required bytes app/src/main/assets/zcode-runtime/carrier-authorization.cjs",
+      "passed": true
+    },
+    {
+      "name": "dependency required bytes app/src/main/assets/zcode-runtime/gateway.cjs",
+      "passed": true
+    },
+    {
+      "name": "dependency required bytes tools/phase9/provider-projection-test.cjs",
+      "passed": true
+    },
+    {
+      "name": "dependency required bytes tools/phase9/provider-projection-fixture.cjs",
+      "passed": true
+    },
+    {
+      "name": "dependency required bytes tools/phase9/provider-session-bindings-test.cjs",
+      "passed": true
+    },
+    {
+      "name": "dependency required bytes tools/phase9/provider-declaration-settlement-test.cjs",
+      "passed": true
+    },
+    {
+      "name": "twenty-nine sealed source identities",
+      "passed": true
+    },
+    {
+      "name": "sealed source app/src/main/java/dev/alita/androidagent/AgentApplication.kt",
+      "passed": true
+    },
+    {
+      "name": "sealed source app/src/main/java/dev/alita/androidagent/tools/LocalProviderCatalog.kt",
+      "passed": true
+    },
+    {
+      "name": "sealed source app/src/main/java/dev/alita/androidagent/tools/ProviderReviewStore.kt",
+      "passed": true
+    },
+    {
+      "name": "sealed source app/src/main/java/dev/alita/androidagent/tools/PinnedIsolatedProvider.kt",
+      "passed": true
+    },
+    {
+      "name": "sealed source app/src/main/java/dev/alita/androidagent/zcode/adapter/AndroidToolContracts.kt",
+      "passed": true
+    },
+    {
+      "name": "sealed source app/src/main/java/dev/alita/androidagent/zcode/adapter/ReadOnlyToolDispatcher.kt",
+      "passed": true
+    },
+    {
+      "name": "sealed source app/src/main/java/dev/alita/androidagent/zcode/adapter/ZCodeToolMapping.kt",
+      "passed": true
+    },
+    {
+      "name": "sealed source app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeRuntimeBundle.kt",
+      "passed": true
+    },
+    {
+      "name": "sealed source app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeCarrierWorker.kt",
+      "passed": true
+    },
+    {
+      "name": "sealed source app/src/main/AndroidManifest.xml",
+      "passed": true
+    },
+    {
+      "name": "sealed source app/src/isolationTest/AndroidManifest.xml",
+      "passed": true
+    },
+    {
+      "name": "sealed source app/src/isolationTest/java/dev/alita/androidagent/execution/isolation/ProjectionProbeActivity.kt",
+      "passed": true
+    },
+    {
+      "name": "sealed source app/src/main/assets/zcode-runtime/provider-review-bindings.cjs",
+      "passed": true
+    },
+    {
+      "name": "sealed source app/src/main/assets/zcode-runtime/skill-session-bindings.cjs",
+      "passed": true
+    },
+    {
+      "name": "sealed source app/src/main/assets/zcode-runtime/bootstrap.cjs",
+      "passed": true
+    },
+    {
+      "name": "sealed source app/src/main/assets/zcode-runtime/carrier-authorization.cjs",
+      "passed": true
+    },
+    {
+      "name": "sealed source app/src/main/assets/zcode-runtime/gateway.cjs",
+      "passed": true
+    },
+    {
+      "name": "sealed source app/src/main/assets/zcode-runtime/contracts/journal.sql",
+      "passed": true
+    },
+    {
+      "name": "sealed source app/src/main/assets/zcode-runtime/runtime-manifest.json",
+      "passed": true
+    },
+    {
+      "name": "sealed source app/src/main/assets/zcode-runtime/payload-SHA256SUMS.txt",
+      "passed": true
+    },
+    {
+      "name": "sealed source tools/phase9/provider-projection-test.cjs",
+      "passed": true
+    },
+    {
+      "name": "sealed source tools/phase9/provider-projection-fixture.cjs",
+      "passed": true
+    },
+    {
+      "name": "sealed source tools/phase9/provider-session-bindings-test.cjs",
+      "passed": true
+    },
+    {
+      "name": "sealed source tools/phase9/provider-declaration-settlement-test.cjs",
+      "passed": true
+    },
+    {
+      "name": "sealed source tools/phase9/provider-settlement-regression.cjs",
+      "passed": true
+    },
+    {
+      "name": "sealed source tools/phase9/provider-projection-device-acceptance.py",
+      "passed": true
+    },
+    {
+      "name": "sealed source tools/phase9/provider-projection-evidence-summary.py",
+      "passed": true
+    },
+    {
+      "name": "sealed source tools/phase9/package-provider-projection1.py",
+      "passed": true
+    },
+    {
+      "name": "sealed source app/src/test/java/dev/alita/androidagent/ProviderReviewStoreTest.kt",
+      "passed": true
+    },
+    {
+      "name": "reported baseline exact raw documents",
+      "passed": true
+    },
+    {
+      "name": "all recorded commands assigned Android15 and successful",
+      "passed": true
+    },
+    {
+      "name": "no APK install/restart/root command in recorded trace",
+      "passed": true
+    },
+    {
+      "name": "preflight Android/model from raw output",
+      "passed": true
+    },
+    {
+      "name": "exact pre/post raw full hash base.apk",
+      "passed": true
+    },
+    {
+      "name": "exact pre/post baseline field base.apk",
+      "passed": true
+    },
+    {
+      "name": "exact pre/post raw full hash libnode.so",
+      "passed": true
+    },
+    {
+      "name": "exact pre/post baseline field libnode.so",
+      "passed": true
+    },
+    {
+      "name": "exact pre/post raw full hash zcode.cjs",
+      "passed": true
+    },
+    {
+      "name": "exact pre/post baseline field zcode.cjs",
+      "passed": true
+    },
+    {
+      "name": "exact pre/post raw full hash bootstrap.cjs",
+      "passed": true
+    },
+    {
+      "name": "exact pre/post baseline field bootstrap.cjs",
+      "passed": true
+    },
+    {
+      "name": "exact pre/post raw full hash gateway.cjs",
+      "passed": true
+    },
+    {
+      "name": "exact pre/post baseline field gateway.cjs",
+      "passed": true
+    },
+    {
+      "name": "exact pre/post raw full hash carrier-authorization.cjs",
+      "passed": true
+    },
+    {
+      "name": "exact pre/post baseline field carrier-authorization.cjs",
+      "passed": true
+    },
+    {
+      "name": "APK-owned Node version",
+      "passed": true
+    },
+    {
+      "name": "fixture path actually recorded realpath",
+      "passed": true
+    },
+    {
+      "name": "nine copied sources",
+      "passed": true
+    },
+    {
+      "name": "copied source sealed identity runtime/provider-review-bindings.cjs",
+      "passed": true
+    },
+    {
+      "name": "copied device readback runtime/provider-review-bindings.cjs",
+      "passed": true
+    },
+    {
+      "name": "one byte-bound push runtime/provider-review-bindings.cjs",
+      "passed": true
+    },
+    {
+      "name": "copy into own fixture runtime/provider-review-bindings.cjs",
+      "passed": true
+    },
+    {
+      "name": "copied source sealed identity runtime/skill-session-bindings.cjs",
+      "passed": true
+    },
+    {
+      "name": "copied device readback runtime/skill-session-bindings.cjs",
+      "passed": true
+    },
+    {
+      "name": "one byte-bound push runtime/skill-session-bindings.cjs",
+      "passed": true
+    },
+    {
+      "name": "copy into own fixture runtime/skill-session-bindings.cjs",
+      "passed": true
+    },
+    {
+      "name": "copied source sealed identity runtime/bootstrap.cjs",
+      "passed": true
+    },
+    {
+      "name": "copied device readback runtime/bootstrap.cjs",
+      "passed": true
+    },
+    {
+      "name": "one byte-bound push runtime/bootstrap.cjs",
+      "passed": true
+    },
+    {
+      "name": "copy into own fixture runtime/bootstrap.cjs",
+      "passed": true
+    },
+    {
+      "name": "copied source sealed identity runtime/carrier-authorization.cjs",
+      "passed": true
+    },
+    {
+      "name": "copied device readback runtime/carrier-authorization.cjs",
+      "passed": true
+    },
+    {
+      "name": "one byte-bound push runtime/carrier-authorization.cjs",
+      "passed": true
+    },
+    {
+      "name": "copy into own fixture runtime/carrier-authorization.cjs",
+      "passed": true
+    },
+    {
+      "name": "copied source sealed identity runtime/gateway.cjs",
+      "passed": true
+    },
+    {
+      "name": "copied device readback runtime/gateway.cjs",
+      "passed": true
+    },
+    {
+      "name": "one byte-bound push runtime/gateway.cjs",
+      "passed": true
+    },
+    {
+      "name": "copy into own fixture runtime/gateway.cjs",
+      "passed": true
+    },
+    {
+      "name": "copied source sealed identity provider-projection-test.cjs",
+      "passed": true
+    },
+    {
+      "name": "copied device readback provider-projection-test.cjs",
+      "passed": true
+    },
+    {
+      "name": "one byte-bound push provider-projection-test.cjs",
+      "passed": true
+    },
+    {
+      "name": "copy into own fixture provider-projection-test.cjs",
+      "passed": true
+    },
+    {
+      "name": "copied source sealed identity provider-projection-fixture.cjs",
+      "passed": true
+    },
+    {
+      "name": "copied device readback provider-projection-fixture.cjs",
+      "passed": true
+    },
+    {
+      "name": "one byte-bound push provider-projection-fixture.cjs",
+      "passed": true
+    },
+    {
+      "name": "copy into own fixture provider-projection-fixture.cjs",
+      "passed": true
+    },
+    {
+      "name": "copied source sealed identity provider-session-bindings-test.cjs",
+      "passed": true
+    },
+    {
+      "name": "copied device readback provider-session-bindings-test.cjs",
+      "passed": true
+    },
+    {
+      "name": "one byte-bound push provider-session-bindings-test.cjs",
+      "passed": true
+    },
+    {
+      "name": "copy into own fixture provider-session-bindings-test.cjs",
+      "passed": true
+    },
+    {
+      "name": "copied source sealed identity provider-declaration-settlement-test.cjs",
+      "passed": true
+    },
+    {
+      "name": "copied device readback provider-declaration-settlement-test.cjs",
+      "passed": true
+    },
+    {
+      "name": "one byte-bound push provider-declaration-settlement-test.cjs",
+      "passed": true
+    },
+    {
+      "name": "copy into own fixture provider-declaration-settlement-test.cjs",
+      "passed": true
+    },
+    {
+      "name": "one recorded Node test invocation",
+      "passed": true
+    },
+    {
+      "name": "raw stdout/stderr equal command trace",
+      "passed": true
+    },
+    {
+      "name": "strict unique TAP tests",
+      "passed": true
+    },
+    {
+      "name": "strict unique TAP pass",
+      "passed": true
+    },
+    {
+      "name": "strict unique TAP fail",
+      "passed": true
+    },
+    {
+      "name": "strict unique TAP cancelled",
+      "passed": true
+    },
+    {
+      "name": "strict unique TAP skipped",
+      "passed": true
+    },
+    {
+      "name": "strict unique TAP todo",
+      "passed": true
+    },
+    {
+      "name": "all thirty-six individual test results",
+      "passed": true
+    },
+    {
+      "name": "actual physical file links case ran",
+      "passed": true
+    },
+    {
+      "name": "correct test entry only provider-declaration-settlement-test.cjs",
+      "passed": true
+    },
+    {
+      "name": "correct test entry only provider-projection-test.cjs",
+      "passed": true
+    },
+    {
+      "name": "correct test entry only provider-session-bindings-test.cjs",
+      "passed": true
+    },
+    {
+      "name": "test environment TEST_RUNTIME",
+      "passed": true
+    },
+    {
+      "name": "test environment TMPDIR",
+      "passed": true
+    },
+    {
+      "name": "test environment OPENSSL_CONF",
+      "passed": true
+    },
+    {
+      "name": "test environment LD_LIBRARY_PATH",
+      "passed": true
+    },
+    {
+      "name": "helper not run as test entry",
+      "passed": true
+    },
+    {
+      "name": "executed wrapper exact SOURCE identity",
+      "passed": true
+    },
+    {
+      "name": "wrapper fixed constants equal sealed baseline",
+      "passed": true
+    },
+    {
+      "name": "clarification: baseline constants not JSON loaded",
+      "passed": true
+    },
+    {
+      "name": "source verification count declaration",
+      "passed": true
+    },
+    {
+      "name": "real ZCode INTEGRATED receipt exact outgoing archive",
+      "passed": true
+    },
+    {
+      "name": "four bounded source sections present",
+      "passed": true
+    }
+  ],
+  "offlineOnly": true,
+  "deviceActions": 0,
+  "incomingCodeExecution": 0,
+  "productionEdits": 0,
+  "actualAndroid15TestEvidence": {
+    "tests": 36,
+    "passed": 36,
+    "failed": 0,
+    "cancelled": 0,
+    "skipped": 0,
+    "todo": 0,
+    "recordedTestInvocations": 1,
+    "commandRows": 46
+  },
+  "fixture": "/data/user/0/dev.zcode.nodepoc/cache/provider-projection-1792734300831367000",
+  "clarifications": [
+    "Wrapper uses fixed baseline constants, independently equal to sealed reference; prose claim mechanically loaded from baseline JSON is unsupported by supplied wrapper.",
+    "canonical rejects unpaired/lone surrogate code units, not valid surrogate pairs/emoji.",
+    "Several source line citations shifted: carrier finish is line37; content match51; declaration54-58; canonical isWellFormed line10; route110-117.",
+    "source-verification.json is a count/boolean summary; receiving side independently verified all29 exact sealed entries.",
+    "Single recorded attempt and36 concrete results verified; no broader claim about unrecorded attempts or global security."
+  ],
+  "limits": [
+    "No Android15 actual Core/HTTP worker/Dispatcher/provider execution or model proof; SQLite/projection fixtures only.",
+    "Android17 prior scoped evidence is referenced, not replayed by ZCode or during receipt.",
+    "No production admission UI/startup enrollment/full restart/in-flight revocation acceptance.",
+    "Production APK/readiness not refreshed; no device access in receiving review."
+  ]
+}

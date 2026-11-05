@@ -1,0 +1,10 @@
+{
+  "app/src/main/java/dev/alita/androidagent/skills/CoreSkillPackageStore.kt": "E2729CAC7C3DC914916DC606DD8E2E55DA085CD9A1B70CA1168AFE016AD29B77",
+  "app/src/main/java/dev/alita/androidagent/skills/Skills.kt": "452EA13642C2182C67802080E6ACE1E48D7A6284D6B463D40CF867EC2496A4F9",
+  "app/src/main/java/dev/alita/androidagent/AgentApplication.kt": "E1BABD32FFF310A0C8E35669842025887D5F62C1BC5483681A85FBB3A91CBD94",
+  "app/src/main/java/dev/alita/androidagent/MainViewModel.kt": "CA9BFF22441F565B8E5D280084A16E2BF9AC5D0B3ED33629AC56242B96BBCFB2",
+  "app/src/main/java/dev/alita/androidagent/MainActivity.kt": "CB5AE9ACE08B170A18E570A77445345243C2DCAF324AA4BD197E5C8B7B3534F7",
+  "app/src/test/java/dev/alita/androidagent/CoreSkillPackageStoreTest.kt": "6E8500B8B26F3B21ED2BC7613C813B5CCBB1EE671433CFAA0E0A9F498D96DF2F",
+  "app/src/androidTest/java/dev/alita/androidagent/CoreSkillPackageDeviceTest.kt": "8E0E3B3554283B79C6D36002CB14137A84DF500A995A4675E94374248650505F",
+  "tools/phase9/skill-package-device-acceptance.py": "DCE6B9B4004F89BF7B651A774B83B9F15ED8CD1E5BC2AFAECAEFABC85BB73D0A"
+}

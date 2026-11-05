@@ -1,0 +1,180 @@
+{
+  "verdict": "PASS_SCOPED_CONTINUOUS_BRIDGE_SUBSCRIPTION",
+  "apkSha256": "E36A5B071FA052104C00618E788E66A1A4AA4C009D21C828462D407A8700F8F2",
+  "payloadSha256": "4eb900732b8fa4e86b443da336fd63450bcc0237157312ddc51380eff798650a",
+  "protocolChecks": 5,
+  "automaticSubscribeReplies": 28,
+  "legacyEvents": 53,
+  "legacyEventTypes": [
+    "model.streaming",
+    "permission.requested",
+    "permission.resolved",
+    "session.titleUpdated",
+    "session.updated",
+    "streamRecovery.updated",
+    "tool.updated",
+    "turn.completed",
+    "turn.started"
+  ],
+  "deliveryKindErrors": 0,
+  "modelReports": [
+    {
+      "label": "first",
+      "operationId": 665,
+      "streamChunks": 264,
+      "artifactSha256": "cd7dc8764c0e49b9ea23eed6b5acdf9eb5f39310c555c3999d19722b31480d31"
+    },
+    {
+      "label": "resumed",
+      "operationId": 666,
+      "streamChunks": 232,
+      "artifactSha256": "db0a1d64270cc8680c76e665627aefed489d5d574cf2ca27ea2a77f2726444fe"
+    }
+  ],
+  "cancellation": {
+    "verdict": "PASS_SUBSCRIBED_MODEL_CANCELLATION",
+    "apk": "E36A5B071FA052104C00618E788E66A1A4AA4C009D21C828462D407A8700F8F2",
+    "sessionId": "sess_24037a79-18fb-4c75-84e5-cdc767f65283",
+    "call": {
+      "type": "carrier-call",
+      "callId": "call_mvny0nhg4d48gh",
+      "toolId": "aa_model_1792764185483531200_compute",
+      "argumentKeys": [
+        "base64"
+      ],
+      "ts": 1792939721956
+    },
+    "operation": {
+      "id": 667,
+      "ts": "2026-10-25T14:48:41.925Z",
+      "session": "sess_24037a79-18fb-4c75-84e5-cdc767f65283",
+      "task": null,
+      "tool": "mcp__android-host__aa_model_1792764185483531200_compute",
+      "args": "{\"base64\":\"V0FJVDpzdWJzY3JpcHRpb24tMTc5MjkzOTU0NjYzMTg4MTcwMA==\"}",
+      "provider": "agent-core",
+      "capability": null,
+      "risk": "PRIVILEGED",
+      "mode": "ask",
+      "decision": "allow",
+      "approval_source": "ui",
+      "rule_hits": "[]",
+      "hard_confirm": 0,
+      "result": "CANCELLED",
+      "files_modified": null,
+      "before_hash": null,
+      "after_hash": null,
+      "backup_path": null,
+      "reversible": 0,
+      "detail": "native_provider_result call_id=call_mvny0nhg4d48gh provider_sha256=637df0116a5ef07dfe2c7630f404fe6073c7e238b4065d0f6094b2c2442373a3 declaration_sha256=f338e96c6a7d24b4129678d063831a8130bb6427d99175314d1c3a30c2ed1445"
+    },
+    "isolatedPid": 23494,
+    "pidGone": true,
+    "exitAfterStopMs": 282
+  },
+  "offlineCheckCount": 24,
+  "checks": [
+    {
+      "name": "baseline old package reproduces4 errors",
+      "passed": true
+    },
+    {
+      "name": "installed exact frozen new APK",
+      "passed": true
+    },
+    {
+      "name": "only bootstrap changes in pinned runtime payload",
+      "passed": true
+    },
+    {
+      "name": "final kill switches and real readiness",
+      "passed": true
+    },
+    {
+      "name": "exact production diff field and explanatory comment only",
+      "passed": true
+    },
+    {
+      "name": "actual immutable Core negative and positive schema cases",
+      "passed": true
+    },
+    {
+      "name": "protocol stderr empty",
+      "passed": true
+    },
+    {
+      "name": "28 actual automatic subscribe replies with zero delivery errors",
+      "passed": true
+    },
+    {
+      "name": "53 typed session events in continuous delivery",
+      "passed": true
+    },
+    {
+      "name": "typed started and completed events",
+      "passed": true
+    },
+    {
+      "name": "first exact physical checksum and input",
+      "passed": true
+    },
+    {
+      "name": "first local protocol and pin metadata",
+      "passed": true
+    },
+    {
+      "name": "first exact successful operation and call",
+      "passed": true
+    },
+    {
+      "name": "first actual model tool state and streamed evidence",
+      "passed": true
+    },
+    {
+      "name": "resumed exact physical checksum and input",
+      "passed": true
+    },
+    {
+      "name": "resumed local protocol and pin metadata",
+      "passed": true
+    },
+    {
+      "name": "resumed exact successful operation and call",
+      "passed": true
+    },
+    {
+      "name": "resumed actual model tool state and streamed evidence",
+      "passed": true
+    },
+    {
+      "name": "reconnect same runtime and exact messages",
+      "passed": true
+    },
+    {
+      "name": "force-stop resume exact persisted messages",
+      "passed": true
+    },
+    {
+      "name": "active cancellation settled and process terminated",
+      "passed": true
+    },
+    {
+      "name": "Node14 exact pass no skip",
+      "passed": true
+    },
+    {
+      "name": "SQLite22 exact PASS lines",
+      "passed": true
+    },
+    {
+      "name": "successful build",
+      "passed": true
+    }
+  ],
+  "retainedLimits": [
+    "Persistent bridge-to-Core continuous subscription, not browser replay/cursor/afterSeq recovery.",
+    "Prior blanket Web consumer diagnosis corrected to missing bridge automatic subscribe parameter.",
+    "Existing downstream legacy folds still use older payload.type assumptions; full upstream write/network event-shape compatibility is not established by this field-only fix.",
+    "Accepted driver originally labelled payload.type values as legacyTypes; raw outer params.type is authoritative and independently enumerated here. Future driver summary corrected without rewriting original proof.",
+    "No new JVM/lint run: previous134 and0/28 remain dated proof; all36DEX/native/manifest entries unchanged. Related Node14+SQLite22 and actual Core5 were run this round."
+  ]
+}

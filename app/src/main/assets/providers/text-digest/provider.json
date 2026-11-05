@@ -1,0 +1,5 @@
+{
+  "id": "text_digest",
+  "version": "1.0.0",
+  "command": ["${APK_NODE}", "${DIR}/provider.cjs"]
+}

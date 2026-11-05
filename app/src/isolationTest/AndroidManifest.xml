@@ -1,0 +1,15 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application>
+        <activity android:name="dev.alita.androidagent.execution.isolation.HostLifecycleProbeActivity" android:exported="true" />
+        <activity android:name="dev.alita.androidagent.execution.isolation.AdmissionProbeActivity"
+            android:exported="true" />
+        <activity android:name="dev.alita.androidagent.execution.isolation.ProjectionProbeActivity"
+            android:exported="true" />
+        <activity android:name="dev.alita.androidagent.execution.isolation.ReviewProbeActivity"
+            android:exported="true" />
+        <activity android:name="dev.alita.androidagent.execution.isolation.BindingProbeActivity"
+            android:exported="true" />
+        <activity android:name="dev.alita.androidagent.execution.isolation.ServiceProbeActivity"
+            android:exported="true" />
+    </application>
+</manifest>

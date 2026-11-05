@@ -1,0 +1,2 @@
+PASS: original storage JVM tests 10/10, errors/failures/skips 0; Android library assembled. Node reference boundary tests 16/16, fail/cancel/skip/todo 0.
+Retained failures: missing android.useAndroidX in initial extracted build configuration; then Kotlin test class resolution in a path containing !. Final attempt used a byte-verified copy in a safe build path; no storage algorithm/assertion changes.

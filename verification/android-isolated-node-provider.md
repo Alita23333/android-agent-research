@@ -1,0 +1,1 @@
+PASS: original IsolatedProviderProcess JVM tests 13/13, errors/failures/skips 0. No Android isolated-process or Node-native execution rerun in this archive task; dated device evidence remains historical.

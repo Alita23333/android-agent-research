@@ -1,0 +1,471 @@
+{
+  "disposition": "ACCEPTED_SCOPED_COMPATIBILITY_WITH_RECORD_CORRECTIONS",
+  "archiveSha256": "9577A21F4288A6206C76EB3784EF4737D75A1346AE893034C5A2D343E90C9377",
+  "offlineChecks": 110,
+  "checks": [
+    {
+      "name": "COMPLETE eighteen payload files exact archive",
+      "passed": true
+    },
+    {
+      "name": "sealed extracted bytes HANDOFF.md",
+      "passed": true
+    },
+    {
+      "name": "sealed extracted bytes PACKAGE.json",
+      "passed": true
+    },
+    {
+      "name": "sealed extracted bytes SHA256SUMS.txt",
+      "passed": true
+    },
+    {
+      "name": "sealed extracted bytes residuals/RESIDUALS.md",
+      "passed": true
+    },
+    {
+      "name": "sealed extracted bytes results/BASELINE-RESULT.json",
+      "passed": true
+    },
+    {
+      "name": "sealed extracted bytes results/SOURCE-REVIEW.md",
+      "passed": true
+    },
+    {
+      "name": "sealed extracted bytes results/baseline-post.json",
+      "passed": true
+    },
+    {
+      "name": "sealed extracted bytes results/baseline-pre.json",
+      "passed": true
+    },
+    {
+      "name": "sealed extracted bytes results/commands-and-exits.json",
+      "passed": true
+    },
+    {
+      "name": "sealed extracted bytes results/first-failure-attempt1/baseline-pre.json",
+      "passed": true
+    },
+    {
+      "name": "sealed extracted bytes results/first-failure-attempt1/commands-and-exits.json",
+      "passed": true
+    },
+    {
+      "name": "sealed extracted bytes results/first-failure-attempt1/tap.stderr",
+      "passed": true
+    },
+    {
+      "name": "sealed extracted bytes results/first-failure-attempt1/tap.stdout",
+      "passed": true
+    },
+    {
+      "name": "sealed extracted bytes results/first-failure-attempt1/wrapper-source.py",
+      "passed": true
+    },
+    {
+      "name": "sealed extracted bytes results/settlement.stderr",
+      "passed": true
+    },
+    {
+      "name": "sealed extracted bytes results/settlement.stdout",
+      "passed": true
+    },
+    {
+      "name": "sealed extracted bytes results/source-verification.json",
+      "passed": true
+    },
+    {
+      "name": "sealed extracted bytes results/tap.stderr",
+      "passed": true
+    },
+    {
+      "name": "sealed extracted bytes results/tap.stdout",
+      "passed": true
+    },
+    {
+      "name": "sealed extracted bytes source/wrapper.txt",
+      "passed": true
+    },
+    {
+      "name": "one dependency",
+      "passed": true
+    },
+    {
+      "name": "exact assigned dependency",
+      "passed": true
+    },
+    {
+      "name": "required dependency bytes ANDROID15-BASELINE-REFERENCE.md",
+      "passed": true
+    },
+    {
+      "name": "required dependency bytes HANDOFF.md",
+      "passed": true
+    },
+    {
+      "name": "required dependency bytes PRODUCT-RESULT.md",
+      "passed": true
+    },
+    {
+      "name": "required dependency bytes SOURCE_IDENTITY.json",
+      "passed": true
+    },
+    {
+      "name": "required dependency bytes app/src/main/assets/zcode-runtime/bootstrap.cjs",
+      "passed": true
+    },
+    {
+      "name": "required dependency bytes app/src/main/assets/zcode-runtime/carrier-authorization.cjs",
+      "passed": true
+    },
+    {
+      "name": "required dependency bytes app/src/main/assets/zcode-runtime/gateway.cjs",
+      "passed": true
+    },
+    {
+      "name": "required dependency bytes tools/phase9/provider-abandoned-carrier-test.cjs",
+      "passed": true
+    },
+    {
+      "name": "required dependency bytes tools/phase9/provider-declaration-settlement-test.cjs",
+      "passed": true
+    },
+    {
+      "name": "required dependency bytes tools/phase9/provider-settlement-regression.cjs",
+      "passed": true
+    },
+    {
+      "name": "sixteen unique complete identity rows",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/androidTest/java/dev/alita/androidagent/ManagedProviderModelFixtureTest.kt",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/main/assets/zcode-runtime/bootstrap.cjs",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/main/assets/zcode-runtime/carrier-authorization.cjs",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/main/assets/zcode-runtime/contracts/journal.sql",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/main/assets/zcode-runtime/gateway.cjs",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/main/assets/zcode-runtime/payload-SHA256SUMS.txt",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/main/assets/zcode-runtime/runtime-manifest.json",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeCarrierWorker.kt",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeGatewayClient.kt",
+      "passed": true
+    },
+    {
+      "name": "source per-entry app/src/main/java/dev/alita/androidagent/zcode/runtime/ZCodeHostService.kt",
+      "passed": true
+    },
+    {
+      "name": "source per-entry tools/phase9/package-provider-model1.py",
+      "passed": true
+    },
+    {
+      "name": "source per-entry tools/phase9/provider-abandoned-carrier-test.cjs",
+      "passed": true
+    },
+    {
+      "name": "source per-entry tools/phase9/provider-declaration-settlement-test.cjs",
+      "passed": true
+    },
+    {
+      "name": "source per-entry tools/phase9/provider-model-evidence-summary.py",
+      "passed": true
+    },
+    {
+      "name": "source per-entry tools/phase9/provider-model-product-acceptance.py",
+      "passed": true
+    },
+    {
+      "name": "source per-entry tools/phase9/provider-settlement-regression.cjs",
+      "passed": true
+    },
+    {
+      "name": "first exact command count and serial/exit",
+      "passed": true
+    },
+    {
+      "name": "first sealed baseline match",
+      "passed": true
+    },
+    {
+      "name": "first raw pre apkSha256",
+      "passed": true
+    },
+    {
+      "name": "first raw pre pin:zcode.cjs",
+      "passed": true
+    },
+    {
+      "name": "first raw pre pin:bootstrap.cjs",
+      "passed": true
+    },
+    {
+      "name": "first raw pre pin:gateway.cjs",
+      "passed": true
+    },
+    {
+      "name": "first raw pre pin:carrier-authorization.cjs",
+      "passed": true
+    },
+    {
+      "name": "first raw pre libnode",
+      "passed": true
+    },
+    {
+      "name": "first Android version model Node",
+      "passed": true
+    },
+    {
+      "name": "first realpath private fixture",
+      "passed": true
+    },
+    {
+      "name": "first byte exact copy runtime/bootstrap.cjs",
+      "passed": true
+    },
+    {
+      "name": "first byte exact copy runtime/gateway.cjs",
+      "passed": true
+    },
+    {
+      "name": "first byte exact copy runtime/carrier-authorization.cjs",
+      "passed": true
+    },
+    {
+      "name": "first byte exact copy provider-abandoned-carrier-test.cjs",
+      "passed": true
+    },
+    {
+      "name": "first byte exact copy provider-declaration-settlement-test.cjs",
+      "passed": true
+    },
+    {
+      "name": "first byte exact copy provider-settlement-regression.cjs",
+      "passed": true
+    },
+    {
+      "name": "first exact stage a command environment no reporter override",
+      "passed": true
+    },
+    {
+      "name": "first raw stage a command-output identity",
+      "passed": true
+    },
+    {
+      "name": "first anchored exact summary fields",
+      "passed": true
+    },
+    {
+      "name": "first fourteen exact individual tests",
+      "passed": true
+    },
+    {
+      "name": "first recorded attempt ends at stage a before settlement/postflight",
+      "passed": true
+    },
+    {
+      "name": "final exact command count and serial/exit",
+      "passed": true
+    },
+    {
+      "name": "final sealed baseline match",
+      "passed": true
+    },
+    {
+      "name": "final raw pre apkSha256",
+      "passed": true
+    },
+    {
+      "name": "final raw pre pin:zcode.cjs",
+      "passed": true
+    },
+    {
+      "name": "final raw pre pin:bootstrap.cjs",
+      "passed": true
+    },
+    {
+      "name": "final raw pre pin:gateway.cjs",
+      "passed": true
+    },
+    {
+      "name": "final raw pre pin:carrier-authorization.cjs",
+      "passed": true
+    },
+    {
+      "name": "final raw pre libnode",
+      "passed": true
+    },
+    {
+      "name": "final Android version model Node",
+      "passed": true
+    },
+    {
+      "name": "final realpath private fixture",
+      "passed": true
+    },
+    {
+      "name": "final byte exact copy runtime/bootstrap.cjs",
+      "passed": true
+    },
+    {
+      "name": "final byte exact copy runtime/gateway.cjs",
+      "passed": true
+    },
+    {
+      "name": "final byte exact copy runtime/carrier-authorization.cjs",
+      "passed": true
+    },
+    {
+      "name": "final byte exact copy provider-abandoned-carrier-test.cjs",
+      "passed": true
+    },
+    {
+      "name": "final byte exact copy provider-declaration-settlement-test.cjs",
+      "passed": true
+    },
+    {
+      "name": "final byte exact copy provider-settlement-regression.cjs",
+      "passed": true
+    },
+    {
+      "name": "final exact stage a command environment no reporter override",
+      "passed": true
+    },
+    {
+      "name": "final raw stage a command-output identity",
+      "passed": true
+    },
+    {
+      "name": "final anchored exact summary fields",
+      "passed": true
+    },
+    {
+      "name": "final fourteen exact individual tests",
+      "passed": true
+    },
+    {
+      "name": "final exact stage b command",
+      "passed": true
+    },
+    {
+      "name": "final raw stage b output and empty stderr",
+      "passed": true
+    },
+    {
+      "name": "final exact22 assertion names and result line",
+      "passed": true
+    },
+    {
+      "name": "final complete unchanged post hashes",
+      "passed": true
+    },
+    {
+      "name": "final raw post apkSha256",
+      "passed": true
+    },
+    {
+      "name": "final raw post pin:zcode.cjs",
+      "passed": true
+    },
+    {
+      "name": "final raw post pin:bootstrap.cjs",
+      "passed": true
+    },
+    {
+      "name": "final raw post pin:gateway.cjs",
+      "passed": true
+    },
+    {
+      "name": "final raw post pin:carrier-authorization.cjs",
+      "passed": true
+    },
+    {
+      "name": "final raw post libnode",
+      "passed": true
+    },
+    {
+      "name": "two distinct observed fixture paths",
+      "passed": true
+    },
+    {
+      "name": "final fixture and copy summary",
+      "passed": true
+    },
+    {
+      "name": "final summary baseline",
+      "passed": true
+    },
+    {
+      "name": "wrapper declared exact frozen SHA",
+      "passed": true
+    },
+    {
+      "name": "first reporter assertion fails before second execution",
+      "passed": true
+    },
+    {
+      "name": "final reporter adaptation is substring gate so receiver uses stronger anchored matching",
+      "passed": true
+    },
+    {
+      "name": "four bounded answers",
+      "passed": true
+    },
+    {
+      "name": "source and runtime wiring limits retained",
+      "passed": true
+    },
+    {
+      "name": "actual ZCode INTEGRATED dependency receipt",
+      "passed": true
+    }
+  ],
+  "sourceEntries": 16,
+  "finalResult": {
+    "nodeTests": 14,
+    "sqliteAssertions": 22,
+    "exitCodes": [
+      0,
+      0
+    ],
+    "stderrBytes": [
+      0,
+      0
+    ]
+  },
+  "corrections": [
+    "Attempt1 records exactly31 commands ending after stage a; stage b and postflight not reached. Both-stages-twice prose is contradicted by source/control flow and records.",
+    "Already-completed intent fails matches precheck before SQL CAS; a distinct settlement regression tests the CAS race.",
+    "Cancellation error results have no returned provider provenance to compare; finish validates host expected pin shapes and writes host-bound hashes. Success-only returned-pin equality remains conditional on response.ok.",
+    "writableEnded guard proves completed HTTP response not resettled by close; it does not prove every disconnect/timeout/race globally.",
+    "Final wrapper substring counts are weaker than anchored numeric assertions; receiver independently checked anchored counts and all14 names."
+  ],
+  "incomingExecution": 0,
+  "deviceActions": 0,
+  "productionEdits": 0,
+  "remaining": "Codex Web deliveryKind diagnosis. ZCode baseline frozen; no rerun/acknowledgement-only/correction-only package requested; carry corrections into next substantive report."
+}

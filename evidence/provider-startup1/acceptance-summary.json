@@ -1,0 +1,103 @@
+{
+  "disposition": "PASS_SCOPED_CANCELLABLE_STARTUP; NOT_PRODUCTION_ADMISSION",
+  "startupRun": "1792298603781943800",
+  "startupCancelDeathMs": 22,
+  "serviceAgeAtDeathMs": 21,
+  "isolatedApplicationGuard": "Robolectric isolated Process shadow; real target service reports isIsolated true; product service not enabled",
+  "installedProductSha256": "C51DB531DCC9CB9CB398FAA061E9B53724E099E8456F1D3666A1E4604865C98D",
+  "uninstalledCandidateSha256": "87FD0B1CCC3C884A8C6BB6DE9C9626EE1201AF6A5C3C9DF0555153BA4CB1C802",
+  "probeApkSha256": "64EC05624E7041B5ED50F9C478AFB5E5552D38FC67C5C74BB3E114EA56EEE42A",
+  "run": "1792298608451768900",
+  "counts": {
+    "tests": 86,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "suites": [
+    {
+      "name": "dev.alita.androidagent.CoreIntegrationTest",
+      "tests": 7,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0
+    },
+    {
+      "name": "dev.alita.androidagent.CoreSkillPackageStoreTest",
+      "tests": 10,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0
+    },
+    {
+      "name": "dev.alita.androidagent.IsolatedApplicationTest",
+      "tests": 1,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0
+    },
+    {
+      "name": "dev.alita.androidagent.IsolatedProviderProcessTest",
+      "tests": 13,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0
+    },
+    {
+      "name": "dev.alita.androidagent.LocalProviderBoundaryTest",
+      "tests": 21,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0
+    },
+    {
+      "name": "dev.alita.androidagent.LocalProviderPackageTest",
+      "tests": 11,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0
+    },
+    {
+      "name": "dev.alita.androidagent.Phase8WorkspaceMutationScaffoldTest",
+      "tests": 5,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0
+    },
+    {
+      "name": "dev.alita.androidagent.Phase9VisionBoundaryTest",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0
+    },
+    {
+      "name": "dev.alita.androidagent.ZCodeIntegrationContractTest",
+      "tests": 14,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0
+    }
+  ],
+  "lint": {
+    "errors": 0,
+    "warnings": 28
+  },
+  "cancelDeathMs": 24,
+  "ownerUid": 10370,
+  "isolatedUid": 99235,
+  "facadeExit": 137,
+  "exitMeaning": "host-mapped cancellation after Binder death, not kernel waitpid status",
+  "productionAssetsAndNativeLibrariesAndManifest": "byte-identical to C51",
+  "attemptHistory": "unit-first PASS84; final PASS86. Initial target pair PASS. Added cross-process elapsed clock proof; rebuilt and final pair PASS; all4 runs retained",
+  "residuals": [
+    "Binder endpoint and delayed-start fixture remain experiment-only; no product service/admission enabled",
+    "Application graph guard is source/Robolectric proof, not actual product-isolated-service acceptance",
+    "Cancellable factory must be host-owned and cooperate with signal; arbitrary blocking legacy factory not made cancellable",
+    "Node scripts are not started in delayed-start test (death before 3s delay; readyCount0); no generic plugin sandbox guarantee",
+    "Partial pipe construction failure, null binding, late bind and all cleanup races still require hardened product endpoint tests",
+    "CPU/memory/descendant constraints and concurrent instances not proven",
+    "No real model/Gateway/artifact/imported-provider vertical slice accepted",
+    "No Android15 action or new ZCode task; recording-only supplement unchanged"
+  ]
+}

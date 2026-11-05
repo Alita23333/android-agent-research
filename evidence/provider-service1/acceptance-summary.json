@@ -1,0 +1,57 @@
+{
+  "disposition": "PASS_SCOPED_PRODUCT_ISOLATED_BACKEND; NOT_MODEL_ADMISSION_OR_PRODUCTION_INSTALL",
+  "installedProductSha256": "C51DB531DCC9CB9CB398FAA061E9B53724E099E8456F1D3666A1E4604865C98D",
+  "uninstalledCandidateSha256": "7D7449333FFCE203963ACB98DF999B188B3131582686AE3497B30A84D738930B",
+  "testApkSha256": "210D1ED59774BDC0AE657CF7503CE626661EBFDC578F8ECC849D2206A4B9B190",
+  "run": "1792299540959343800",
+  "unitTests": {
+    "tests": 96,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "lint": {
+    "errors": 0,
+    "warnings": 28
+  },
+  "graphIsolation": "actual product Application+Service classes in distinct application ID",
+  "processes": 4,
+  "nativeLoadAlignments": [
+    16384,
+    16384,
+    16384
+  ],
+  "resourceReadback": {
+    "fdSoftHard": [
+      512,
+      512
+    ],
+    "coreSoftHard": [
+      0,
+      0
+    ],
+    "v8HeapBytes": 92274688
+  },
+  "originalRuntimeAssetsAndNative": "all pre-existing C51 asset/native bytes unchanged; additional isolated manifest/dependencies/shim",
+  "attemptHistory": {
+    "failedRuns": [
+      "1792299203409274200",
+      "1792299279992218100",
+      "1792299374367559300"
+    ],
+    "rootCause": "FD128 below full Android startup baseline; A/B512 succeeds, then resource readback passes",
+    "earlierPass": "1792299429577716000",
+    "firstLintFailure": "two API33 InputStream calls with min31; replaced by bounded compatible read"
+  },
+  "residuals": [
+    "No model-issued imported-provider, Gateway/journal/artifact/version-pinning vertical slice accepted",
+    "Product candidate not installed; actual backend acceptance uses separate isolationTest ID with exact product classes",
+    "Resource limits bound FDs/core/V8 old+semi heap/CPU/wall; not total Android/native RSS or complete descendant containment",
+    "Before START dispatch: close gate/unbind means no code dispatched, not proof idle Android process death; after START wait for Binder death",
+    "Host process-death linkage present but not independently injected in this run",
+    "Nonblocking host binding required; no arbitrary third-party Binder/native code allowed in host",
+    "Node Start ABI pinned24.18.0; generated build requires resolved Python/Clang, no runtime download",
+    "Wall death exit70 means unreported termination, not kernel exit status or a new public error contract",
+    "Android15, root, Shizuku untouched; existing ZCode recording-only task unchanged"
+  ]
+}
